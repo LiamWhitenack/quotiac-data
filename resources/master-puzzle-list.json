@@ -811,5 +811,159 @@
     "source": "Ratatouille",
     "date": "2007",
     "used": false
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Get busy living or get busy dying.",
+    "length": "34",
+    "used": "False",
+    "character_name": "Andy Dufresne",
+    "source": "The Shawshank Redemption",
+    "date": "1994"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Let me tell you something my friend. Hope is a dangerous thing. Hope can drive a man insane.",
+    "length": "92",
+    "used": "False",
+    "character_name": "Red",
+    "source": "The Shawshank Redemption",
+    "date": "1994"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "there's no harm in hoping for the best as long as you're prepared for the worst.",
+    "length": "80",
+    "used": "False",
+    "author": "Stephen King"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Fear can hold you prisoner. Hope can set you free.",
+    "length": "50",
+    "used": "False",
+    "author": "Stephen King"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You know what the Mexicans say about the Pacific? They say it has no memory. That's where I want to live the rest of my life. A warm place with no memory.",
+    "length": "154",
+    "used": "False",
+    "character_name": "Andy Dufresne",
+    "source": "The Shawshank Redemption",
+    "date": "1994"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "I have to remind myself that some birds aren\u2019t meant to be caged. Their feathers are just too bright.",
+    "length": "101",
+    "used": "False",
+    "character_name": "Red",
+    "source": "The Shawshank Redemption",
+    "date": "1994"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Forget that... there are places in this world that aren't made out of stone. That there's something inside...that they can't get to, that they can't touch. That's yours.",
+    "length": "169",
+    "used": "False",
+    "character_name": "Andy Dufresne",
+    "source": "The Shawshank Redemption",
+    "date": "1994"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Good morning starshine, the earth says hello!",
+    "length": "45",
+    "used": "False",
+    "character_name": "Willy Wonka",
+    "source": "Charlie and the Chocolate Factory",
+    "date": "2005"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "I would have written a shorter letter, but I did not have the time.",
+    "length": "67",
+    "used": "False",
+    "author": "Blaise Pascal"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "What comes to mind when we think about God is the most important thing about us.",
+    "length": "80",
+    "used": "False",
+    "author": "A. W. Tozer"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "There are decades where nothing happens; and there are weeks where decades happen",
+    "length": "81",
+    "used": "False",
+    "author": "Vladamir llyich Lenin"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "The master's tools will never dismantle the master's house.",
+    "length": "59",
+    "used": "False",
+    "author": "Audre Lorde"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "The medium is the message.",
+    "length": "26",
+    "used": "False",
+    "author": "Marshall McLuhan"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Form follows function.",
+    "length": "22",
+    "used": "False",
+    "author": "Louis Sullivan"
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "General Quote",
+    "string_to_encrypt": "He who would catch fish must not mind getting wet.",
+    "length": "50",
+    "used": "False"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Many go fishing all their lives without knowing that it is not fish they are after.",
+    "length": "83",
+    "used": "False",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "No pressure, no diamonds.",
+    "length": "25",
+    "used": "False",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "General Quote",
+    "string_to_encrypt": "Even a fish wouldn't get caught if he kept his mouth shut.",
+    "length": "58",
+    "used": "False"
   }
 ]
