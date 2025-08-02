@@ -965,5 +965,80 @@
     "string_to_encrypt": "Even a fish wouldn't get caught if he kept his mouth shut.",
     "length": "58",
     "used": "False"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "the movies are like a machine that generates empathy.",
+    "length": "53",
+    "used": "False",
+    "author": "Roger Ebert"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "The pen is mightier than the sword",
+    "length": "34",
+    "used": "False",
+    "author": "Edward Bulwer-Lytton"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Do or do not, there is no try",
+    "length": "31",
+    "used": "False",
+    "character_name": "Yoda",
+    "source": "Star Wars: The Empire Strikes Back",
+    "date": "1980"
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "General Quote",
+    "string_to_encrypt": "Fortune favors the bold.",
+    "length": "24",
+    "used": "False"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "A journey of a thousand miles begins with a single step.",
+    "length": "56",
+    "used": "False",
+    "author": "Laozi"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Give me liberty, or give me death!",
+    "length": "34",
+    "used": "False",
+    "author": "Patrick Henry"
+  },
+  {
+    "type": "FamousDocumentQuote",
+    "puzzle_type": "Famous Document",
+    "string_to_encrypt": "All men are created equal.",
+    "length": "26",
+    "used": "False",
+    "source": "",
+    "author": "",
+    "date": "July 4, 1776"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "That's one stall step for man, one giant leap for mankind.",
+    "length": "58",
+    "used": "False",
+    "author": "Neil Armstrong"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "To be or not to be, that is the question.",
+    "length": "41",
+    "used": "False",
+    "author": "William Shakespeare"
   }
 ]
