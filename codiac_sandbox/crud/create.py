@@ -1,6 +1,6 @@
 import inspect
 import types
-from typing import Union, get_args, get_origin
+from typing import get_args, get_origin
 import typing
 from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
 from codiac_sandbox.puzzle_types import CryptographBase
@@ -43,7 +43,7 @@ def annotation_allows_none(param: inspect.Parameter) -> bool:
     origin = get_origin(annotation)
     args = get_args(annotation)
 
-    if origin is types.UnionType or origin is typing.Union:
+    if origin is types.UnionType or origin is typing.Union:  # type: ignore
         return type(None) in args
 
     return False

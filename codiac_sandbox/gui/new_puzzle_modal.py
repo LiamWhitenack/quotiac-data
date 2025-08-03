@@ -13,7 +13,6 @@ from PySide6.QtWidgets import (
 )
 
 from codiac_sandbox.crud.create import get_puzzle_parameters, save_puzzle
-from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
 from PySide6.QtWidgets import QSizePolicy
 
@@ -27,7 +26,7 @@ class AddPuzzleDialog(QDialog):
         self._layout = QVBoxLayout(self)
 
         self.type_selector = QComboBox()
-        self.type_selector.addItems(PUZZLE_CLASSES.keys())
+        self.type_selector.addItems(PUZZLE_CLASSES.keys())  # type: ignore
         self._layout.addWidget(QLabel("Select Puzzle Type"))
         self._layout.addWidget(self.type_selector)
 
@@ -36,7 +35,7 @@ class AddPuzzleDialog(QDialog):
         self.form_widget.setLayout(self.form_layout)
 
         # Set form widget size policy to expand horizontally, fixed vertically
-        self.form_widget.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
+        self.form_widget.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)  # type: ignore
 
         self._layout.addWidget(self.form_widget)
 
@@ -51,7 +50,7 @@ class AddPuzzleDialog(QDialog):
 
         self.update_form(self.type_selector.currentText())
 
-    def update_form(self, puzzle_type: str | None):
+    def update_form(self, puzzle_type: str):
         while self.form_layout.count():
             item = self.form_layout.takeAt(0)
             if widget := item.widget():
@@ -59,7 +58,7 @@ class AddPuzzleDialog(QDialog):
 
         self.fields: dict[str, QLineEdit | QTextEdit] = {}
 
-        for name, param in get_puzzle_parameters(puzzle_type).items():
+        for name, param in get_puzzle_parameters(puzzle_type).items():  # type: ignore
             if name == "used":
                 continue
             field: QLineEdit = QLineEdit()

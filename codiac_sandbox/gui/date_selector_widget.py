@@ -5,17 +5,15 @@ from PySide6.QtWidgets import (
     QDateEdit,
     QPushButton,
     QLabel,
-    QApplication,
 )
 from PySide6.QtCore import QDate, Qt
-import sys
 
 from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.selection.save_as_date import save_as_new_file
 
 
 class DateSelectorWidget(QWidget):
-    def __init__(self, puzzle: CryptographBase) -> None:
+    def __init__(self, puzzle: CryptographBase | None) -> None:
         super().__init__()
         self.puzzle = puzzle
 
@@ -31,12 +29,12 @@ class DateSelectorWidget(QWidget):
         self.date_edit.setDate(QDate.currentDate())
         self.date_edit.setMinimumDate(QDate.currentDate())
         self.date_edit.dateChanged.connect(self.on_date_changed)
-        controls_layout.addWidget(self.date_edit)
 
-        self.confirm_button = QPushButton("Confirm Date")
+        self.confirm_button = QPushButton("Save")
         self.confirm_button.setFixedWidth(100)
         self.confirm_button.clicked.connect(self.confirm_date)
         controls_layout.addWidget(self.confirm_button)
+        controls_layout.addWidget(self.date_edit)
 
         main_layout.addLayout(controls_layout)
 
@@ -57,4 +55,6 @@ class DateSelectorWidget(QWidget):
             self.message_label.setText("")
 
     def confirm_date(self) -> None:
+        if self.puzzle is None:
+            raise Exception("No puzzle selected!")
         save_as_new_file(puzzle=self.puzzle, date=self.date_edit.date())

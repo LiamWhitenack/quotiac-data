@@ -1,3 +1,5 @@
+from collections.abc import Callable
+from typing import Any
 from PySide6.QtWidgets import (
     QVBoxLayout,
     QComboBox,
@@ -7,7 +9,6 @@ from PySide6.QtWidgets import (
     QLabel,
     QHBoxLayout,
     QSizePolicy,
-    QPushButton,
 )
 from PySide6.QtWidgets import QScrollArea
 from PySide6.QtGui import QColor, QBrush
@@ -16,12 +17,17 @@ from PySide6.QtCore import Qt
 import json
 
 from codiac_sandbox.gui.date_selector_widget import DateSelectorWidget
+from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
 
 
 class PuzzleUI(QWidget):
-    def __init__(self) -> None:
+    def __init__(self, serve: Callable[..., None]) -> None:
         self._layout = QVBoxLayout()
+        self.serve = serve
+
+        self.puzzle: CryptographBase | None = None
+        self.date_selector = DateSelectorWidget(self.puzzle)
 
         self.load_quotes()
         self.build_lists()
@@ -39,7 +45,7 @@ class PuzzleUI(QWidget):
 
     def load_quotes(self) -> None:
         with open("resources/master-puzzle-list.json") as f:
-            self.quotes_by_category: dict[str, list[dict]] = {}
+            self.quotes_by_category: dict[str, list[dict[str, Any]]] = {}
             for q in json.load(f):
                 self.quotes_by_category[q["type"]] = self.quotes_by_category.get(
                     q["type"], []
@@ -113,12 +119,12 @@ class PuzzleUI(QWidget):
             if child:
                 child.deleteLater()
 
-        puzzle_data: dict = item.data(256)
-        puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
+        puzzle_data: dict[str, Any] = item.data(256)
+        self.puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
 
-        self.detail_view_layout.addWidget(DateSelectorWidget(puzzle))
+        self.detail_view_layout.addWidget(self.date_selector)
 
-        for key, value in puzzle.to_json().items():
+        for key, value in self.puzzle.to_json().items():
             if key in ["string_to_encrypt", "type"]:
                 continue
             label = QLabel(f"<b>{key.replace('_', ' ').title()}:</b> {value}")

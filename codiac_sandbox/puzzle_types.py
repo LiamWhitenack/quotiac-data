@@ -1,9 +1,11 @@
+import json
 import random
 from typing import Any, Self
 from abc import ABC, abstractmethod
 
 from codiac_sandbox.hint_types import GiveALetterHint, HintBase
 from codiac_sandbox.utils.make_letter_map import get_new_letter_map
+from PySide6.QtCore import QDate
 
 
 class CryptographBase(ABC):
@@ -80,6 +82,12 @@ class CryptographBase(ABC):
     def from_json(cls, data: dict[str, Any]) -> Self:
         """Create an instance from JSON data. Must be implemented by subclasses."""
         pass
+
+    def save(self, date: QDate) -> None:
+        with open(
+            f"resources/by-date/{date.year()}{date.month()}{date.day()}.json"
+        ) as f:
+            json.dump(self.to_json(to_read_from_frontend=True), f)
 
 
 class ListPuzzle(CryptographBase):
