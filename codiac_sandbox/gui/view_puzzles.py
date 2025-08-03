@@ -113,7 +113,7 @@ class PuzzleUI(QWidget):
             item.setData(256, quote)
 
     def display_quote_details(self, item: QListWidgetItem) -> None:
-        # Clear previous labels
+        # Clear previous widgets
         for i in reversed(range(self.detail_view_layout.count())):
             child = self.detail_view_layout.itemAt(i).widget()
             if child:
@@ -122,6 +122,8 @@ class PuzzleUI(QWidget):
         puzzle_data: dict[str, Any] = item.data(256)
         self.puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
 
+        # Create a new date selector fresh for this puzzle
+        self.date_selector = DateSelectorWidget(self.puzzle)
         self.detail_view_layout.addWidget(self.date_selector)
 
         for key, value in self.puzzle.to_json().items():
