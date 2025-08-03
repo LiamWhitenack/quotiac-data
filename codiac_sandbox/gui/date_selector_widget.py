@@ -1,3 +1,5 @@
+from collections.abc import Callable
+from typing import Any
 from PySide6.QtWidgets import (
     QWidget,
     QVBoxLayout,
@@ -13,9 +15,12 @@ from codiac_sandbox.selection.save_as_date import save_as_new_file
 
 
 class DateSelectorWidget(QWidget):
-    def __init__(self, puzzle: CryptographBase | None) -> None:
+    def __init__(
+        self, puzzle: CryptographBase | None, serve: Callable[[dict[str, Any]], None]
+    ) -> None:
         super().__init__()
         self.puzzle = puzzle
+        self.serve = serve
 
         main_layout = QVBoxLayout()
 
@@ -32,6 +37,7 @@ class DateSelectorWidget(QWidget):
 
         self.confirm_button = QPushButton("Save")
         self.confirm_button.setFixedWidth(100)
+        self.confirm_button.clicked.connect(self.confirm_date)
         self.confirm_button.clicked.connect(self.confirm_date)
         controls_layout.addWidget(self.confirm_button)
         controls_layout.addWidget(self.date_edit)
@@ -58,3 +64,4 @@ class DateSelectorWidget(QWidget):
         if self.puzzle is None:
             raise Exception("No puzzle selected!")
         save_as_new_file(puzzle=self.puzzle, date=self.date_edit.date())
+        self.serve(self.puzzle.to_json(to_read_from_frontend=True))

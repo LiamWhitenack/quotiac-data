@@ -5,7 +5,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from typing import Any
 
 
-def serve_json_dict(port: int = 6942) -> Callable[..., None]:
+def serve_json_dict(port: int = 6942) -> Callable[[dict[str, Any]], None]:
     """Start a server on localhost that serves the latest dictionary as JSON."""
     latest_data = {"message": "Initial placeholder"}
 

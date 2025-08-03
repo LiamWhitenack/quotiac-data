@@ -22,12 +22,11 @@ from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
 
 
 class PuzzleUI(QWidget):
-    def __init__(self, serve: Callable[..., None]) -> None:
+    def __init__(self, serve: Callable[[dict[str, Any]], None]) -> None:
         self._layout = QVBoxLayout()
         self.serve = serve
 
         self.puzzle: CryptographBase | None = None
-        self.date_selector = DateSelectorWidget(self.puzzle)
 
         self.load_quotes()
         self.build_lists()
@@ -123,7 +122,7 @@ class PuzzleUI(QWidget):
         self.puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
 
         # Create a new date selector fresh for this puzzle
-        self.date_selector = DateSelectorWidget(self.puzzle)
+        self.date_selector = DateSelectorWidget(self.puzzle, self.serve)
         self.detail_view_layout.addWidget(self.date_selector)
 
         for key, value in self.puzzle.to_json().items():
