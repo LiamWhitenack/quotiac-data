@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "i just want to say one word to you. just one word: plastics.",
+  "hints": "[{'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'j': 'clipboard', 'w': 'wine', 'u': 'bug', 'i': 'eyedrop', 'o': 'boat', 'l': 'cart', 's': 'recording', 'c': 'watch', 't': 'exit', 'e': 'document-text', 'r': 'ribbon', 'p': 'magnet', 'y': 'lock-open', 'n': 'mic', 'd': 'sunny', 'a': 'server'}",
+  "other_info": "{'Author': 'Calder Willingham, The Graduate'}"
+}

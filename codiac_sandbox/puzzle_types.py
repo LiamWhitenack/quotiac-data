@@ -31,7 +31,7 @@ class CryptographBase(ABC):
 
     def to_json(
         self, to_read_from_frontend: bool = False
-    ) -> dict[str, list | str | dict[str, str]]:
+    ) -> dict[str, list[Any] | str | dict[str, str]]:
         res: dict[str, Any]
         data = self.__dict__.copy()
         hints: list[dict[str, Any]] = []

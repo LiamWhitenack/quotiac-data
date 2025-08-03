@@ -1,14 +1,14 @@
 from datetime import datetime, timedelta
 import json
 from random import choice
-from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, parse_puzzle
+from codiac_sandbox.utils.puzzle_classes import parse_puzzle
 
-tomorrow = datetime.now() + timedelta(days=1)
+tomorrow = datetime.now() + timedelta(days=3)
+
+date_string = tomorrow.strftime("%Y%m%d")
 
 with open("resources/master-puzzle-list.json", "r") as read:
-    with open(
-        f"resources/auto-generated/{tomorrow.strftime('%Y%m%d')}.json", "w"
-    ) as write:
+    with open(f"resources/auto-generated/{date_string}.json", "w") as write:
         puzzle = parse_puzzle(choice(json.load(read)))
         data = puzzle.to_json(to_read_from_frontend=True)
 

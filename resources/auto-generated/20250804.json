@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "hello from the other side i must've called a thousand times to tell you i'm sorry for everything that i've done but when i call, you never seem to be home",
+  "hints": "[{'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'attach', 'g': 'heart-dislike', 'i': 'flashlight', 'm': 'tv', 'e': 'baseball', 's': 'crop', 'f': 'save', 'w': 'beaker', 'u': 'mail', 'v': 'caret-down', 'c': 'color-filter', 'a': 'copy', 'b': 'location', 't': 'pie-chart', 'o': 'toggle', 'y': 'battery-half', 'd': 'move', 'l': 'briefcase', 'h': 'egg', 'n': 'caret-forward'}",
+  "other_info": "{'Artist': 'Adele', 'Title': 'Hello', 'Date': '2015'}"
+}
