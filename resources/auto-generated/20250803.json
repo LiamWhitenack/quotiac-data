@@ -1,5 +1,5 @@
 {
-  "puzzle_type": "Animated Quote",
+  "puzzle_type": "Animated Movie Quote",
   "string_to_encrypt": "anyone can cook",
   "hints": "[{'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}]",
   "encryption_map": "{'e': 'egg', 'c': 'triangle', 'n': 'terminal', 'a': 'magnet', 'o': 'male-female', 'k': 'play-back', 'y': 'timer'}",
