@@ -1,7 +1,7 @@
 {
-  "puzzle_type": "Sitcom Quote",
-  "string_to_encrypt": "toby is in hr, which technically means he works for corporate, so he's really not a part of our family. also, he's divorced, so he's really not a part of his family either.",
-  "hints": "[{'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
-  "encryption_map": "{'l': 'time', 'i': 'bonfire', 'd': 'ribbon', 'e': 'finger-print', 'a': 'magnet', 't': 'leaf', 'y': 'server', 'o': 'checkmark-done', 'w': 'skull', 'r': 'warning', 'k': 'link', 'b': 'download', 'v': 'pause', 'u': 'mic', 's': 'color-fill', 'f': 'bag-remove', 'c': 'flash-off', 'm': 'calculator', 'p': 'medal', 'n': 'layers', 'h': 'sunny'}",
-  "other_info": "{'Character Name': 'Michael Scott', 'Source': 'The Office', 'Date': '2005'}"
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "anyone can cook",
+  "hints": "[{'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'egg', 'c': 'triangle', 'n': 'terminal', 'a': 'magnet', 'o': 'male-female', 'k': 'play-back', 'y': 'timer'}",
+  "other_info": "{'Character Name': 'Gusteau', 'Source': 'Ratatouille', 'Date': '2007'}"
 }
