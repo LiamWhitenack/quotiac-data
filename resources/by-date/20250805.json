@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "today is danny's mom's birthday. happy birthday! ",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'n': 'cart', 'y': 'language', 'r': 'reload', 'h': 'warning', 'b': 'move', 'o': 'caret-up', 'd': 'male', 'a': 'female', 's': 'bicycle', 'i': 'home', 'm': 'compass', 't': 'flower', 'p': 'umbrella'}",
+  "other_info": "{}"
+}
