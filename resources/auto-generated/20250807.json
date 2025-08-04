@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "people can have the model t in any color - so long as it's black.",
+  "hints": "[{'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'code-working', 't': 'briefcase', 'b': 'browsers', 'e': 'bed', 'l': 'language', 'h': 'list', 'p': 'basketball', 'd': 'settings', 'y': 'chevron-forward', 'v': 'school', 'c': 'save', 'g': 'play-back', 'n': 'ticket', 'i': 'film', 'k': 'time', 'a': 'square', 'o': 'toggle', 's': 'globe', 'm': 'bag'}",
+  "other_info": "{'Author': 'Henry Ford'}"
+}
