@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "you should hammer your iron when it is glowing hot.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'happy', 'y': 'wallet', 'u': 'trophy', 'i': 'tennisball', 'd': 'headset', 'r': 'play-forward', 'w': 'bonfire', 'a': 'subway', 'h': 'document', 't': 'reader', 'o': 'copy', 'e': 'battery-half', 'l': 'hammer', 'n': 'ear', 'g': 'calendar', 'm': 'book'}",
+  "other_info": "{'Author': 'Publius Syrus'}"
+}
