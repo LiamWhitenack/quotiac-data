@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "astronomy compels the soul to look upwards and leads us from this world to another.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'k': 'speedometer', 'i': 'business', 's': 'tv', 'm': 'flask', 'f': 'accessibility', 'e': 'brush', 'u': 'flash-off', 'a': 'female', 'l': 'hand-left', 'n': 'finger-print', 't': 'checkmark-done', 'p': 'contract', 'w': 'battery-charging', 'd': 'archive', 'o': 'flame', 'c': 'star', 'y': 'earth', 'r': 'laptop', 'h': 'battery-full'}",
+  "other_info": "{'Author': 'Plato'}"
+}
