@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "artillery adds dignity to what would otherwise be a vulgar brawl.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'battery-dead', 'n': 'restaurant', 'w': 'stop', 'r': 'flame', 'a': 'log-in', 'b': 'heart-half', 'y': 'search', 'e': 'location', 'h': 'eye', 'v': 'contract', 'u': 'checkmark', 'i': 'mail-open', 'g': 'funnel', 'o': 'basketball', 's': 'infinite', 'd': 'chevron-back', 'l': 'barbell'}",
+  "other_info": "{'Author': 'Frederick the Great'}"
+}
