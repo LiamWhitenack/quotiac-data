@@ -1,9 +1,7 @@
 {
-  "puzzle_type": "Direct Quote",
+  "puzzle_type": "Poetry Excerpt",
   "string_to_encrypt": "before that steam drill shall beat me down, i'll die with my hammer in my hand.",
   "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
   "encryption_map": "{'b': 'ear', 'o': 'shirt', 'a': 'checkmark', 'r': 'planet', 'd': 'square', 'y': 'apps', 'n': 'partly-sunny', 'm': 'bag-add', 't': 'play-forward', 's': 'person', 'e': 'musical-note', 'w': 'ban', 'i': 'accessibility', 'f': 'warning', 'l': 'bag', 'h': 'caret-down'}",
-  "other_info": {
-    "Author": "from 'John Henry, the Steel Driving Man'"
-  }
+  "other_info": "{'Poem': 'John Henry (the Steel Driving Man)','Author': 'Unknown'}"
 }
