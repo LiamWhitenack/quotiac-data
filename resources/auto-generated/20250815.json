@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the earth is the cradle of the mind, but one cannot eternally live in a cradle.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'color-filter', 'f': 'videocam', 'l': 'log-out', 't': 'female', 'e': 'american-football', 'm': 'nutrition', 'u': 'medal', 'd': 'chatbox-ellipses', 'c': 'book', 'h': 'sad', 'v': 'heart', 'o': 'fish', 'b': 'cube', 'i': 'battery-half', 'y': 'woman', 'r': 'walk', 'a': 'server', 'n': 'bicycle'}",
+  "other_info": "{'Author': 'Konstantin E. Tsiolkovsky'}"
+}
