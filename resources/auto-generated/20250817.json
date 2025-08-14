@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "a multitude of rulers is not a good thing. let there be one ruler, one king.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'airplane', 's': 'finger-print', 'b': 'megaphone', 'n': 'bag-check', 'f': 'invert-mode', 'l': 'remove', 'u': 'newspaper', 'd': 'rocket', 'm': 'analytics', 'h': 'contract', 'r': 'nutrition', 't': 'glasses', 'o': 'settings', 'k': 'backspace', 'i': 'restaurant', 'a': 'baseball', 'e': 'log-in'}",
+  "other_info": "{'Author': \"Herodotus ,Although, this sentence can be found at Homer's Iliad, in a speech from Ulysses)\"}"
+}
