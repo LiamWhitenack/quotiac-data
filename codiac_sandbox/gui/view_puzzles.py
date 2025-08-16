@@ -64,7 +64,7 @@ class PuzzleUI(QWidget):
 
     def build_lists(self) -> None:
         self.category_combo = QComboBox()
-        self.category_combo.addItems(list(self.categories))
+        self.category_combo.addItems(sorted(self.categories))
         self.category_combo.currentTextChanged.connect(self.set_category)
         self.category_combo.setMaximumWidth(200)
 
