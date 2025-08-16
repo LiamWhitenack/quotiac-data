@@ -1,7 +1,7 @@
 {
-  "puzzle_type": "Song lyrics",
-  "string_to_encrypt": "never gonna give you up, never gonna let you down",
-  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
-  "encryption_map": "{'r': 'baseball', 'l': 'wifi', 'p': 'chatbubble-ellipses', 'd': 'people', 'n': 'document', 'w': 'sad', 'v': 'chatbubbles', 'a': 'wine', 'o': 'pencil', 'u': 'filter', 'g': 'caret-forward', 'y': 'bandage', 'i': 'checkmark-done', 't': 'pie-chart', 'e': 'bookmark'}",
-  "other_info": "{'Artist': 'Rick Astley', 'Title': 'Never Gonna Give You Up', 'Date': '1987'}"
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "and them that take the sword shall perish by the sword.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'library', 't': 'trash', 'h': 'pencil', 'k': 'compass', 'e': 'brush', 'p': 'paper-plane', 'w': 'male', 'o': 'book', 's': 'download', 'd': 'resize', 'n': 'ban', 'r': 'subway', 'y': 'backspace', 'l': 'menu', 'b': 'grid', 'm': 'invert-mode', 'a': 'bag-handle'}",
+  "other_info": "{'Author': 'The Bible, Matthew'}"
 }
