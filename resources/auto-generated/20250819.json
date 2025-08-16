@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "political power grows out of the barrel of a gun.",
+  "hints": "[{'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'magnet', 'r': 'pause', 'o': 'desktop', 'f': 'glasses', 'w': 'code-download', 'p': 'pin', 's': 'color-filter', 'u': 'ear', 'n': 'cube', 'i': 'color-wand', 'b': 'home', 'g': 'paper-plane', 'h': 'list', 'l': 'flask', 'a': 'calculator', 't': 'crop', 'e': 'bonfire'}",
+  "other_info": "{'Author': 'Mao Zedong'}"
+}
