@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "coach, if you need one yard, i'll get you three yards. if you need five yards, i'll get you three yards.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "chatbubble-ellipses",
+    "g": "checkbox",
+    "v": "rocket",
+    "o": "library",
+    "s": "bag-handle",
+    "t": "shapes",
+    "n": "bag-remove",
+    "r": "aperture",
+    "d": "analytics",
+    "e": "bag",
+    "u": "extension-puzzle",
+    "y": "rose",
+    "c": "globe",
+    "a": "heart",
+    "f": "bicycle",
+    "l": "calendar",
+    "h": "eye-off"
+  },
+  "other_info": {
+    "Author": "Leroy Hoard (NFL Running Back)"
+  }
+}
