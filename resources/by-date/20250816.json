@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "good morning, and in case i don't see ya, good afternoon, good evening, and good night!",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'shapes', 'r': 'game-controller', 's': 'beaker', 'd': 'fitness', 'n': 'stopwatch', 'v': 'pin', 'm': 'thunderstorm', 'a': 'alarm', 'o': 'expand', 'f': 'book', 'g': 'subway', 'y': 'copy', 'i': 'key', 't': 'rocket', 'e': 'options', 'h': 'navigate'}",
+  "other_info": "{'Character Name': 'Truman Burbank', 'Source': 'The Truman Show', 'Date': '1998'}"
+}
