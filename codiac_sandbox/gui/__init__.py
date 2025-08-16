@@ -1,5 +1,3 @@
-from collections.abc import Callable
-from typing import Any
 from PySide6.QtWidgets import (
     QWidget,
     QPushButton,
@@ -11,7 +9,7 @@ from codiac_sandbox.gui.view_puzzles import PuzzleUI
 
 
 class MainWindow(QWidget):
-    def __init__(self, serve: Callable[[dict[str, Any]], None]) -> None:
+    def __init__(self) -> None:
         super().__init__()
         self.setWindowTitle("Quotes by Category")
         self.setGeometry(250, 250, 1000, 500)
@@ -27,7 +25,7 @@ class MainWindow(QWidget):
         main_layout.addLayout(top_controls_layout)
 
         # Puzzle UI
-        self.puzzle_ui = PuzzleUI(serve=serve)
+        self.puzzle_ui = PuzzleUI()
         main_layout.addLayout(self.puzzle_ui._layout)  # type: ignore
 
         self.setLayout(main_layout)

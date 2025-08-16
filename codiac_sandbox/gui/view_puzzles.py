@@ -1,4 +1,3 @@
-from collections.abc import Callable
 from typing import Any
 from PySide6.QtWidgets import (
     QVBoxLayout,
@@ -22,9 +21,8 @@ from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
 
 
 class PuzzleUI(QWidget):
-    def __init__(self, serve: Callable[[dict[str, Any]], None]) -> None:
+    def __init__(self) -> None:
         self._layout = QVBoxLayout()
-        self.serve = serve
 
         self.puzzle: CryptographBase | None = None
 
@@ -122,7 +120,7 @@ class PuzzleUI(QWidget):
         self.puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
 
         # Create a new date selector fresh for this puzzle
-        self.date_selector = DateSelectorWidget(self.puzzle, self.serve)
+        self.date_selector = DateSelectorWidget(self.puzzle)
         self.detail_view_layout.addWidget(self.date_selector)
 
         for key, value in self.puzzle.to_json().items():
