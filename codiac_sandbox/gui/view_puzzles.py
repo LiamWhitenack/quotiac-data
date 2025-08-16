@@ -8,6 +8,7 @@ from PySide6.QtWidgets import (
     QLabel,
     QHBoxLayout,
     QSizePolicy,
+    QLineEdit,
 )
 from PySide6.QtWidgets import QScrollArea
 from PySide6.QtGui import QColor, QBrush
@@ -19,6 +20,8 @@ from codiac_sandbox.gui.date_selector_widget import DateSelectorWidget
 from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
 
+ALPHABET = set("qwertyuiopasdfghjklzxcvbnm ")
+
 
 class PuzzleUI(QWidget):
     def __init__(self) -> None:
@@ -26,40 +29,52 @@ class PuzzleUI(QWidget):
 
         self.puzzle: CryptographBase | None = None
 
-        self.load_quotes()
+        with open(
+            "resources/master-puzzle-list.json",
+        ) as f:
+            json_data = json.load(f)
+            self.quotes: list[dict[str, Any]] = json_data
+            self.categories: set[str] = {data["type"] for data in json_data}
+        self.active_category = min(self.categories)
+        self.search_for = ""
+
         self.build_lists()
 
-        self._layout.addWidget(self.category_combo)
+        top_bar_layout = QHBoxLayout()
+        top_bar_layout.addWidget(self.category_combo)
+        top_bar_layout.addWidget(self.search_bar)
+        self._layout.addLayout(top_bar_layout)
 
         # Main content layout (quote list + detail view)
         self.main_content_layout = QHBoxLayout()
         self._layout.addLayout(self.main_content_layout)
 
-        self.main_content_layout.addWidget(self.quote_list)
+        self.main_content_layout.addWidget(self.quotes_on_display)
         self.main_content_layout.addWidget(self.detail_scroll_area)
 
-        self.display_quotes(list(self.quotes_by_category)[0])
+        self.display_quotes()
 
-    def load_quotes(self) -> None:
-        with open("resources/master-puzzle-list.json") as f:
-            self.quotes_by_category: dict[str, list[dict[str, Any]]] = {}
-            for q in json.load(f):
-                self.quotes_by_category[q["type"]] = self.quotes_by_category.get(
-                    q["type"], []
-                ) + [q]
-        self.quotes_by_category = {
-            k: v for k, v in sorted(self.quotes_by_category.items())
-        }
+    def set_category(self, category: str) -> None:
+        self.active_category = category
+        self.display_quotes()
+
+    def set_search_for(self, text: str) -> None:
+        self.search_for = text
+        self.display_quotes()
 
     def build_lists(self) -> None:
         self.category_combo = QComboBox()
-        self.category_combo.addItems(list(self.quotes_by_category))
-        self.category_combo.currentTextChanged.connect(self.display_quotes)
+        self.category_combo.addItems(list(self.categories))
+        self.category_combo.currentTextChanged.connect(self.set_category)
         self.category_combo.setMaximumWidth(200)
 
-        self.quote_list = QListWidget()
-        self.quote_list.itemClicked.connect(self.display_quote_details)
-        self.quote_list.setFixedWidth(450)  # Set fixed width here
+        self.search_bar = QLineEdit()
+        self.search_bar.textChanged.connect(self.set_search_for)
+        self.search_bar.setMaximumWidth(600)
+
+        self.quotes_on_display = QListWidget()
+        self.quotes_on_display.itemClicked.connect(self.display_quote_details)
+        self.quotes_on_display.setFixedWidth(450)  # Set fixed width here
 
         # Container for labels in the detail view
         self.detail_view_container = QWidget()
@@ -74,9 +89,14 @@ class PuzzleUI(QWidget):
 
     from PySide6.QtGui import QColor, QBrush
 
-    def display_quotes(self, category: str) -> None:
-        self.quote_list.clear()
-        for i, quote in enumerate(self.quotes_by_category[category]):
+    def display_quotes(self) -> None:
+        def display_quote(quote: dict[str, Any]) -> bool:
+            return quote["type"] == self.active_category and self.search_for in "".join(
+                char for char in quote["string_to_encrypt"].lower() if char in ALPHABET
+            )
+
+        self.quotes_on_display.clear()
+        for i, quote in enumerate(filter(display_quote, self.quotes)):
             text = quote["string_to_encrypt"]
 
             label = QLabel(text)
@@ -104,8 +124,8 @@ class PuzzleUI(QWidget):
                     QBrush(QColor("#725656"))
                 )  # Light gray for alternating rows
 
-            self.quote_list.addItem(item)
-            self.quote_list.setItemWidget(item, widget)
+            self.quotes_on_display.addItem(item)
+            self.quotes_on_display.setItemWidget(item, widget)
 
             item.setData(256, quote)
 
