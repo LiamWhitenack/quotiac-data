@@ -47,7 +47,21 @@ class CryptographBase(ABC):
                     hints.append(hint.to_json())
         data["hints"] = hints
 
-        if not to_read_from_frontend:
+        if to_read_from_frontend:
+            res = {}
+            for key in ["used"]:
+                del data[key]
+            for key in ["puzzle_type", "string_to_encrypt", "hints", "encryption_map"]:
+                res[key] = data.pop(key)
+
+            res["other_info"] = {
+                k.replace("_", " ").title(): str(v)
+                for k, v in data.items()
+                if v is not None
+            }
+            res["string_to_encrypt"] = res["string_to_encrypt"].lower()
+            res = {k: str(v) for k, v in res.items() if v is not None}
+        else:
             res = data
             res = (
                 dict(
@@ -62,33 +76,14 @@ class CryptographBase(ABC):
                 hints=None,
                 encryption_map=None,
             )
-        else:
-            res = {}
-            for key in ["used"]:
-                del data[key]
-            for key in ["puzzle_type", "string_to_encrypt", "hints", "encryption_map"]:
-                res[key] = data.pop(key)
 
-            res["other_info"] = {
-                k.replace("_", " ").title(): str(v)
-                for k, v in data.items()
-                if v is not None
-            }
-            res["string_to_encrypt"] = res["string_to_encrypt"].lower()
-
-        return {k: str(v) for k, v in res.items() if v is not None}
+        return res
 
     @classmethod
     @abstractmethod
     def from_json(cls, data: dict[str, Any]) -> Self:
         """Create an instance from JSON data. Must be implemented by subclasses."""
         pass
-
-    def save(self, date: Any) -> None:
-        with open(
-            f"resources/by-date/{date.year()}{date.month()}{date.day()}.json"
-        ) as f:
-            json.dump(self.to_json(to_read_from_frontend=True), f)
 
 
 class ListPuzzle(CryptographBase):
