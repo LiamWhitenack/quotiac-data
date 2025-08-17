@@ -1,14 +1,15 @@
 import json
 import os
-from PySide6.QtWidgets import (
-    QWidget,
-    QVBoxLayout,
-    QHBoxLayout,
-    QDateEdit,
-    QPushButton,
-    QListWidget,
-)
+
 from PySide6.QtCore import QDate, Qt
+from PySide6.QtWidgets import (
+    QDateEdit,
+    QHBoxLayout,
+    QListWidget,
+    QPushButton,
+    QVBoxLayout,
+    QWidget,
+)
 
 from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.selection.save_as_date import save_as_new_file
@@ -25,8 +26,8 @@ DAYS_OF_WEEK = [
 THEME = [
     "Satire",  # Monday
     "Historical",  # Tuesday
-    "Riddle",  # Wednesday
-    "Pun",  # Thursday
+    "Wisdom",  # Wednesday
+    "Riddle/Pun",  # Thursday
     "Wildcard",  # Friday
     "Literature/Film",  # Saturday
     "Religious",  # Sunday
