@@ -354,7 +354,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "I am the Lord thy God. Thou shalt have no other gods before Me.",
     "author": "The Bible, Exodus",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -372,7 +372,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "And them that take the sword shall perish by the sword.",
     "author": "The Bible, Matthew",
-    "used": true
+    "used": false
   },
   {
     "type": "DirectQuote",
@@ -414,7 +414,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "For everything there is a season and a time for every purpose under heaven.",
     "author": "Ecclesiastes",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
