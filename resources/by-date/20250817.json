@@ -2,6 +2,6 @@
   "puzzle_type": "Direct Quote",
   "string_to_encrypt": "and them that take the sword shall perish by the sword.",
   "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
-  "encryption_map": "{'i': 'library', 't': 'trash', 'h': 'pencil', 'k': 'compass', 'e': 'brush', 'p': 'paper-plane', 'w': 'male', 'o': 'book', 's': 'download', 'd': 'resize', 'n': 'ban', 'r': 'subway', 'y': 'backspace', 'l': 'menu', 'b': 'grid', 'm': 'invert-mode', 'a': 'bag-handle'}",
+  "encryption_map": "{'i': 'library', 't': 'trash', 'h': 'partly-sunny', 'k': 'compass', 'e': 'brush', 'p': 'paper-plane', 'w': 'male', 'o': 'book', 's': 'download', 'd': 'resize', 'n': 'ban', 'r': 'subway', 'y': 'backspace', 'l': 'menu', 'b': 'grid', 'm': 'invert-mode', 'a': 'bag-handle'}",
   "other_info": "{'Author': 'The Bible, Matthew'}"
 }
