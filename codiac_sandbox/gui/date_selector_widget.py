@@ -1,15 +1,36 @@
+import json
+import os
 from PySide6.QtWidgets import (
     QWidget,
     QVBoxLayout,
     QHBoxLayout,
     QDateEdit,
     QPushButton,
-    QLabel,
+    QListWidget,
 )
 from PySide6.QtCore import QDate, Qt
 
 from codiac_sandbox.puzzle_types import CryptographBase
 from codiac_sandbox.selection.save_as_date import save_as_new_file
+
+DAYS_OF_WEEK = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday",
+]
+THEME = [
+    "Satire",  # Monday
+    "Historical",  # Tuesday
+    "Riddle",  # Wednesday
+    "Pun",  # Thursday
+    "Wildcard",  # Friday
+    "Literature/Film",  # Saturday
+    "Religious",  # Sunday
+]
 
 
 class DateSelectorWidget(QWidget):
@@ -33,16 +54,15 @@ class DateSelectorWidget(QWidget):
         self.confirm_button = QPushButton("Save")
         self.confirm_button.setFixedWidth(100)
         self.confirm_button.clicked.connect(self.confirm_date)
-        self.confirm_button.clicked.connect(self.confirm_date)
         controls_layout.addWidget(self.confirm_button)
         controls_layout.addWidget(self.date_edit)
 
         main_layout.addLayout(controls_layout)
 
-        # Warning/message label below
-        self.message_label = QLabel("")
-        self.message_label.setStyleSheet("color: red;")
-        main_layout.addWidget(self.message_label)
+        # Message list instead of a single label
+        self.message_list = QListWidget()
+        self.message_list.setMaximumHeight(60)
+        main_layout.addWidget(self.message_list)
 
         self.setLayout(main_layout)
         self.setWindowTitle("Date Selector")
@@ -50,12 +70,29 @@ class DateSelectorWidget(QWidget):
         self.on_date_changed(self.date_edit.date())
 
     def on_date_changed(self, selected_date: QDate) -> None:
-        if selected_date.dayOfWeek() == 7:
-            self.message_label.setStyleSheet("color: red;")
-        else:
-            self.message_label.setText("")
+        self.message_list.clear()  # Clear old messages if needed
+        self.message_list.addItem(DAYS_OF_WEEK[selected_date.dayOfWeek() - 1])
+        self.message_list.addItem(f"Theme: {THEME[selected_date.dayOfWeek() - 1]}")
+        date_string = f"resources/by-date/{selected_date.year():04d}{selected_date.month():02d}{selected_date.day():02d}.json"
+        if os.path.exists(date_string):
+            with open(date_string) as f:
+                self.message_list.addItem("Puzzle already chosen for that date!")
+                self.message_list.addItem(json.load(f)["string_to_encrypt"])
 
     def confirm_date(self) -> None:
         if self.puzzle is None:
-            raise Exception("No puzzle selected!")
+            return
         save_as_new_file(puzzle=self.puzzle, date=self.date_edit.date())
+        with open("resources/master-puzzle-list.json") as f:
+            puzzles = json.load(f)
+            puzzle_data = next(
+                puzzle
+                for puzzle in puzzles
+                if puzzle["string_to_encrypt"] == self.puzzle.string_to_encrypt
+            )
+            puzzle_data["used"] = True
+        with open("resources/master-puzzle-list.json", "w") as f:
+            json.dump(puzzles, f, indent=2)
+
+        self.message_list.clear()
+        self.message_list.addItem("Puzzle saved successfully.")

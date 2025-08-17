@@ -28,13 +28,9 @@ class PuzzleUI(QWidget):
         self._layout = QVBoxLayout()
 
         self.puzzle: CryptographBase | None = None
-
-        with open(
-            "resources/master-puzzle-list.json",
-        ) as f:
-            json_data = json.load(f)
-            self.quotes: list[dict[str, Any]] = json_data
-            self.categories: set[str] = {data["type"] for data in json_data}
+        self.quotes: list[dict[str, Any]]
+        self.categories: set[str]
+        self.get_quotes_and_categories()
         self.active_category = min(self.categories)
         self.search_for = ""
 
@@ -53,6 +49,12 @@ class PuzzleUI(QWidget):
         self.main_content_layout.addWidget(self.detail_scroll_area)
 
         self.display_quotes()
+
+    def get_quotes_and_categories(self) -> None:
+        with open("resources/master-puzzle-list.json") as f:
+            json_data = json.load(f)
+            self.quotes = json_data
+            self.categories = {data["type"] for data in json_data}
 
     def set_category(self, category: str) -> None:
         self.active_category = category
@@ -91,9 +93,18 @@ class PuzzleUI(QWidget):
 
     def display_quotes(self) -> None:
         def display_quote(quote: dict[str, Any]) -> bool:
-            return quote["type"] == self.active_category and self.search_for in "".join(
-                char for char in quote["string_to_encrypt"].lower() if char in ALPHABET
+            return (
+                quote["type"] == self.active_category
+                and self.search_for.lower()
+                in "".join(
+                    char
+                    for char in quote["string_to_encrypt"].lower()
+                    if char in ALPHABET
+                )
+                and not quote["used"]
             )
+
+        self.get_quotes_and_categories()
 
         self.quotes_on_display.clear()
         for i, quote in enumerate(filter(display_quote, self.quotes)):
