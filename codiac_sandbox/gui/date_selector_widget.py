@@ -35,9 +35,8 @@ THEME = [
 
 
 class DateSelectorWidget(QWidget):
-    def __init__(self, puzzle: CryptographBase | None) -> None:
+    def __init__(self) -> None:
         super().__init__()
-        self.puzzle = puzzle
 
         main_layout = QVBoxLayout()
 
@@ -54,7 +53,6 @@ class DateSelectorWidget(QWidget):
 
         self.confirm_button = QPushButton("Save")
         self.confirm_button.setFixedWidth(100)
-        self.confirm_button.clicked.connect(self.confirm_date)
         controls_layout.addWidget(self.confirm_button)
         controls_layout.addWidget(self.date_edit)
 
@@ -62,7 +60,7 @@ class DateSelectorWidget(QWidget):
 
         # Message list instead of a single label
         self.message_list = QListWidget()
-        self.message_list.setMaximumHeight(60)
+        self.message_list.setMaximumHeight(100)
         main_layout.addWidget(self.message_list)
 
         self.setLayout(main_layout)
@@ -80,16 +78,12 @@ class DateSelectorWidget(QWidget):
                 self.message_list.addItem("Puzzle already chosen for that date!")
                 self.message_list.addItem(json.load(f)["string_to_encrypt"])
 
-    def confirm_date(self) -> None:
-        if self.puzzle is None:
-            return
-        save_as_new_file(puzzle=self.puzzle, date=self.date_edit.date())
+    def confirm_date(self, puzzle: CryptographBase) -> None:
+        save_as_new_file(puzzle=puzzle, date=self.date_edit.date())
         with open("resources/master-puzzle-list.json") as f:
             puzzles = json.load(f)
             puzzle_data = next(
-                puzzle
-                for puzzle in puzzles
-                if puzzle["string_to_encrypt"] == self.puzzle.string_to_encrypt
+                p for p in puzzles if p["string_to_encrypt"] == puzzle.string_to_encrypt
             )
             puzzle_data["used"] = True
         with open("resources/master-puzzle-list.json", "w") as f:

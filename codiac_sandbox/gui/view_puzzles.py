@@ -1,20 +1,20 @@
+import json
 from typing import Any
-from PySide6.QtWidgets import (
-    QVBoxLayout,
-    QComboBox,
-    QListWidget,
-    QListWidgetItem,
-    QWidget,
-    QLabel,
-    QHBoxLayout,
-    QSizePolicy,
-    QLineEdit,
-)
-from PySide6.QtWidgets import QScrollArea
-from PySide6.QtGui import QColor, QBrush
 
 from PySide6.QtCore import Qt
-import json
+from PySide6.QtGui import QBrush, QColor
+from PySide6.QtWidgets import (
+    QComboBox,
+    QHBoxLayout,
+    QLabel,
+    QLineEdit,
+    QListWidget,
+    QListWidgetItem,
+    QScrollArea,
+    QSizePolicy,
+    QVBoxLayout,
+    QWidget,
+)
 
 from codiac_sandbox.gui.date_selector_widget import DateSelectorWidget
 from codiac_sandbox.puzzle_types import CryptographBase
@@ -24,6 +24,8 @@ ALPHABET = set("qwertyuiopasdfghjklzxcvbnm ")
 
 
 class PuzzleUI(QWidget):
+    from PySide6.QtGui import QBrush, QColor
+
     def __init__(self) -> None:
         self._layout = QVBoxLayout()
 
@@ -35,6 +37,11 @@ class PuzzleUI(QWidget):
         self.search_for = ""
 
         self.build_lists()
+
+        self.date_selector = DateSelectorWidget()
+        self.date_selector.confirm_button.clicked.connect(self.save_puzzle)
+        self.detail_view_layout.addWidget(self.date_selector)
+        self._layout.addWidget(self.date_selector)
 
         top_bar_layout = QHBoxLayout()
         top_bar_layout.addWidget(self.category_combo)
@@ -89,8 +96,6 @@ class PuzzleUI(QWidget):
         self.detail_scroll_area.setWidgetResizable(True)
         self.detail_scroll_area.setWidget(self.detail_view_container)
 
-    from PySide6.QtGui import QColor, QBrush
-
     def display_quotes(self) -> None:
         def display_quote(quote: dict[str, Any]) -> bool:
             return (
@@ -140,6 +145,11 @@ class PuzzleUI(QWidget):
 
             item.setData(256, quote)
 
+    def save_puzzle(self) -> None:
+        if self.puzzle is None:
+            return
+        self.date_selector.confirm_date(self.puzzle)
+
     def display_quote_details(self, item: QListWidgetItem) -> None:
         # Clear previous widgets
         for i in reversed(range(self.detail_view_layout.count())):
@@ -149,10 +159,6 @@ class PuzzleUI(QWidget):
 
         puzzle_data: dict[str, Any] = item.data(256)
         self.puzzle = from_json(PUZZLE_CLASSES[puzzle_data.pop("type")], puzzle_data)
-
-        # Create a new date selector fresh for this puzzle
-        self.date_selector = DateSelectorWidget(self.puzzle)
-        self.detail_view_layout.addWidget(self.date_selector)
 
         for key, value in self.puzzle.to_json().items():
             if key in ["string_to_encrypt", "type"]:
