@@ -98,12 +98,12 @@ class PuzzleUI(QWidget):
 
     def display_quotes(self) -> None:
         def display_quote(quote: dict[str, Any]) -> bool:
+            if not self.search_for:
+                return quote["type"] == self.active_category and not quote["used"]
             lowercase_wiothout_punctuation = "".join(
                 char for char in quote["string_to_encrypt"].lower() if char in ALPHABET
             )
-            return self.search_for.lower() in lowercase_wiothout_punctuation or (
-                quote["type"] == self.active_category and not quote["used"]
-            )
+            return self.search_for.lower() in lowercase_wiothout_punctuation
 
         self.get_quotes_and_categories()
 
