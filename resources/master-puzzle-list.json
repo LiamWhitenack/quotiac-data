@@ -6,7 +6,7 @@
     "artist": "Rick Astley",
     "title": "Never Gonna Give You Up",
     "date": 1987,
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -264,7 +264,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.",
     "author": "Lao Tzu",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
