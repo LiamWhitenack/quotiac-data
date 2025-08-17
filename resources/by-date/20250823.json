@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "there are only two things i can't stand in this world. people who are intolerant of other people's cultures. and the dutch.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'airplane', 't': 'card', 'n': 'link', 'o': 'shield', 'a': 'rocket', 'g': 'bus', 'd': 'layers', 'p': 'egg', 'h': 'eye', 'e': 'hardware-chip', 'u': 'settings', 'f': 'code', 'l': 'hammer', 'w': 'expand', 'c': 'color-palette', 'y': 'map', 'i': 'checkbox', 'r': 'notifications'}",
+  "other_info": "{'Character Name': 'Nigel Powers', 'Source': 'Austin Powers in Goldmember', 'Date': '2002'}"
+}

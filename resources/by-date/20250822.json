@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "and alexander wept, seeing as he had no more worlds to conquer.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'x', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'color-palette', 't': 'today', 'h': 'telescope', 'c': 'checkmark', 'i': 'dice', 'q': 'list', 'l': 'alarm', 'w': 'expand', 'd': 'headset', 'u': 'documents', 'o': 'journal', 'r': 'pause', 'n': 'film', 'x': 'duplicate', 'p': 'ticket', 'e': 'create', 'm': 'wallet', 'a': 'bag-add', 'g': 'basket'}",
+  "other_info": "{}"
+}

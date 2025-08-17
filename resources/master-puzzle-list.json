@@ -234,7 +234,7 @@
     "character_name": "Nigel Powers",
     "source": "Austin Powers in Goldmember",
     "date": "2002",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -288,7 +288,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "If you chase two rabbits, you will lose them both.",
     "author": "Native American Saying",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1059,5 +1059,24 @@
     "length": 106,
     "used": false,
     "author": "Leroy Hoard (NFL Running Back)"
+  },
+  {
+    "type": "Pun",
+    "puzzle_type": "Pun",
+    "string_to_encrypt": "What do you call a fake noodle? An Impasta.",
+    "length": 43,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "question_answer": "What do you call a fake noodle? An Impasta."
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "General Quote",
+    "string_to_encrypt": "And Alexander wept, seeing as he had no more worlds to conquer.",
+    "length": 63,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
   }
 ]

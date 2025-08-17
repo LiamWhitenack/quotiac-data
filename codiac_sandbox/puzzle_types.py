@@ -1,7 +1,6 @@
-import json
 import random
-from typing import Any, Self
 from abc import ABC, abstractmethod
+from typing import Any, Self
 
 from codiac_sandbox.hint_types import GiveALetterHint, HintBase
 from codiac_sandbox.utils.make_letter_map import get_new_letter_map
@@ -219,18 +218,33 @@ class SongLyrics(CryptographBase):
 class Riddle(CryptographBase):
     def __init__(
         self,
-        question: str,
-        answer: str,
+        question_answer: str,
         used: bool = False,
     ) -> None:
-        super().__init__(answer, "Riddle", used=used)
-        self.question = question
+        super().__init__(question_answer, "Riddle", used=used)
+        self.question_answer = question_answer
 
     @classmethod
     def from_json(cls, data: dict[str, Any]) -> Self:
         return cls(
-            question=data["question"],
-            answer=data["string_to_encrypt"],
+            question_answer=data["question_answer"],
+            used=data["used"],
+        )
+
+
+class Pun(CryptographBase):
+    def __init__(
+        self,
+        question_answer: str,
+        used: bool = False,
+    ) -> None:
+        super().__init__(question_answer, "Pun", used=used)
+        self.question_answer = question_answer
+
+    @classmethod
+    def from_json(cls, data: dict[str, Any]) -> Self:
+        return cls(
+            question_answer=data["question_answer"],
             used=data["used"],
         )
 
@@ -260,5 +274,6 @@ PuzzleClass = (
     | GeneralPhrase
     | SongLyrics
     | Riddle
+    | Pun
     | RiddleSolvedInReverse
 )
