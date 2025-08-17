@@ -288,7 +288,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "If you chase two rabbits, you will lose them both.",
     "author": "Native American Saying",
-    "used": true
+    "used": false
   },
   {
     "type": "DirectQuote",
@@ -1088,5 +1088,16 @@
     "hints": null,
     "used": false,
     "question_answer": "The shovel was a ground breaking invention.\n\n"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "length": 123,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Marie Curie",
+    "date": null
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "puzzle_type": "Native American Saying",
-  "string_to_encrypt": "if you chase two rabbits, you will lose them both.",
-  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}]",
-  "encryption_map": "{'a': 'calculator', 'h': 'aperture', 'w': 'list', 'i': 'pencil', 'f': 'keypad', 'c': 'wifi', 't': 'musical-notes', 'u': 'gift', 's': 'bonfire', 'r': 'battery-charging', 'e': 'snow', 'b': 'apps', 'o': 'analytics', 'm': 'caret-forward', 'l': 'flash-off', 'y': 'grid'}",
-  "other_info": "{}"
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "nothing in life is to be feared, it is only to be understood. now is the time to understand more, so that we may fear less.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'layers', 'e': 'bag-check', 'u': 'gift', 'n': 'card', 'g': 'sad', 'b': 'play-back', 'i': 'caret-up', 'o': 'wallet', 's': 'invert-mode', 'h': 'rose', 't': 'female', 'l': 'cloud-download', 'm': 'at', 'f': 'star', 'w': 'planet', 'r': 'document', 'a': 'log-in', 'd': 'cog'}",
+  "other_info": "{'Author': 'Marie Curie'}"
 }
