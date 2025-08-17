@@ -201,7 +201,7 @@
     "character_name": "Truman Burbank",
     "source": "The Truman Show",
     "date": "1998",
-    "used": false
+    "used": true
   },
   {
     "type": "SongLyrics",
@@ -381,7 +381,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "And them that take the sword shall perish by the sword.",
     "author": "The Bible, Matthew",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1046,7 +1046,7 @@
     "puzzle_type": "Sitcom Quote",
     "string_to_encrypt": "I wish there was a way to know you're in the good old days before you've actually left them.",
     "length": 93,
-    "used": false,
+    "used": true,
     "character_name": "Andy Bernard",
     "source": "The Office",
     "date": "2013"
