@@ -204,15 +204,6 @@
     "used": true
   },
   {
-    "type": "SongLyrics",
-    "puzzle_type": "Song lyrics",
-    "string_to_encrypt": "Hello from the other side I must've called a thousand times To tell you I'm sorry for everything that I've done But when I call, you never seem to be home",
-    "artist": "Adele",
-    "title": "Hello",
-    "date": "2015",
-    "used": false
-  },
-  {
     "type": "CharacterQuote",
     "puzzle_type": "Sitcom Quote",
     "string_to_encrypt": "Toby is in HR, which technically means he works for corporate, so he's really not a part of our family. Also, he's divorced, so he's really not a part of his family either.",
