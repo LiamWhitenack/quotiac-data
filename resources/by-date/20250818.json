@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "i wish there was a way to know you're in the good old days before you've actually left them.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'mic-off', 'v': 'notifications', 'h': 'construct', 'a': 'thunderstorm', 'm': 'calculator', 'b': 'cut', 't': 'code-slash', 'l': 'color-wand', 'y': 'bed', 'w': 'chevron-up', 'n': 'time', 'k': 'play-back', 'r': 'map', 'u': 'paw', 'f': 'megaphone', 'c': 'layers', 'e': 'options', 'g': 'color-fill', 'o': 'add', 'i': 'cellular', 'd': 'at'}",
+  "other_info": "{'Character Name': 'Andy Bernard', 'Source': 'The Office', 'Date': '2013'}"
+}
