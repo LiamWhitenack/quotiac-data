@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "tell me what you eat, and i will tell you what you are.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'l': 'color-filter', 'm': 'compass', 'y': 'caret-down', 'a': 'color-palette', 'i': 'bus', 'o': 'move', 'h': 'calculator', 'n': 'barcode', 't': 'cash', 'd': 'glasses', 'e': 'notifications-off', 'u': 'eyedrop', 'w': 'search', 'r': 'chevron-back'}",
+  "other_info": "{'Author': 'Anthelme Brilla,S-avarin'}"
+}
