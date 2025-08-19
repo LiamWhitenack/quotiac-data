@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "then one fine mornin' she puts on a new york station. you know her life was saved by rock 'n' roll.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'hammer', 'f': 'medical', 'l': 'chevron-forward', 'v': 'attach', 'u': 'eye', 'k': 'repeat', 'w': 'planet', 'n': 'document-text', 'y': 'journal', 's': 'ellipsis-horizontal', 't': 'scale', 'a': 'list', 'b': 'heart', 'c': 'wallet', 'o': 'card', 'e': 'cloud-done', 'd': 'compass', 'r': 'contract', 'i': 'pie-chart', 'm': 'checkmark-done', 'h': 'grid'}",
+  "other_info": "{'Author': \"The Velvet Underground, 'Rock And Roll'\"}"
+}
