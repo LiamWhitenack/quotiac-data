@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "never gonna give you up, never gonna let you down",
+  "hints": "[{'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'egg', 'e': 'school', 'g': 'trash', 'l': 'heart-half', 'i': 'chevron-forward', 'n': 'chevron-collapse', 'u': 'shield', 'w': 'subway', 'o': 'bicycle', 'y': 'megaphone', 'd': 'archive', 'a': 'desktop', 'r': 'resize', 't': 'heart', 'v': 'wallet'}",
+  "other_info": "{'Artist': 'Rick Astley', 'Title': 'Never Gonna Give You Up', 'Date': '1987'}"
+}
