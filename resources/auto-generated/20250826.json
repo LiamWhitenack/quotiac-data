@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the wisest men follow their own direction.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'d': 'download', 'o': 'list', 'h': 'bus', 'r': 'save', 'w': 'eye-off', 'f': 'fitness', 'n': 'chevron-back', 't': 'cellular', 'm': 'egg', 's': 'analytics', 'l': 'backspace', 'c': 'glasses', 'i': 'american-football', 'e': 'wine'}",
+  "other_info": "{'Author': 'Euripides'}"
+}
