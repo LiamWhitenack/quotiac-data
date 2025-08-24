@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "be yourself; everyone else is already taken.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'shield', 'u': 'shuffle', 'n': 'flame', 'f': 'browsers', 'r': 'construct', 'o': 'musical-note', 'k': 'receipt', 'l': 'male', 'd': 'calculator', 'e': 'code-working', 'b': 'repeat', 'v': 'bed', 't': 'chevron-forward', 'a': 'easel', 'i': 'mic', 'y': 'cloud-upload'}",
+  "other_info": "{'Author': 'Oscar Wilde'}"
+}

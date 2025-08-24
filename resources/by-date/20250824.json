@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "nature herself has imprinted on the minds of all the idea of god.",
+  "hints": "[{'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'l': 'chevron-forward', 'p': 'flame', 'a': 'game-controller', 'h': 'train', 'r': 'subway', 'f': 'chatbubbles', 's': 'calculator', 'm': 'caret-up', 'u': 'water', 'e': 'extension-puzzle', 'o': 'heart', 'i': 'document-text', 'd': 'megaphone', 't': 'sparkles', 'n': 'snow', 'g': 'wallet'}",
+  "other_info": "{'Author': 'Cicero'}"
+}

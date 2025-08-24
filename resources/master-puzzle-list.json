@@ -183,7 +183,7 @@
     "type": "GeneralPhrase",
     "puzzle_type": "General Quote",
     "string_to_encrypt": "The quick brown fox jumps over the lazy brown dog",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -294,7 +294,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Nature herself has imprinted on the minds of all the idea of God.",
     "author": "Cicero",
-    "used": false
+    "used": true
   },
   {
     "type": "GeneralPhrase",
@@ -396,7 +396,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "A multitude of rulers is not a good thing. Let there be one ruler, one king.",
     "author": "Herodotus (Although, this sentence can be found at Homer's Iliad, in a speech from Ulysses)",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -955,7 +955,7 @@
     "puzzle_type": "General Quote",
     "string_to_encrypt": "Even a fish wouldn't get caught if he kept his mouth shut.",
     "length": 58,
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1086,7 +1086,7 @@
     "length": 45,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "question_answer": "The shovel was a ground breaking invention.\n\n"
   },
   {
@@ -1099,5 +1099,28 @@
     "used": true,
     "author": "Marie Curie",
     "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "\u201cBe yourself; everyone else is already taken.\u201d",
+    "length": 46,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Oscar Wilde",
+    "date": null
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You keep using that word. I do not think it means what you think it means.",
+    "length": 74,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Inigo Montoya",
+    "source": "The Princess Bride",
+    "date": "1987"
   }
 ]

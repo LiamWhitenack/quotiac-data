@@ -239,7 +239,6 @@ class Pun(CryptographBase):
         used: bool = False,
     ) -> None:
         super().__init__(question_answer, "Pun", used=used)
-        self.question_answer = question_answer
 
     @classmethod
     def from_json(cls, data: dict[str, Any]) -> Self:

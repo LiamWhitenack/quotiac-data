@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Pun",
+  "string_to_encrypt": "the shovel was a ground breaking invention.\n\n",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'open', 'u': 'alarm', 'n': 'female', 'w': 'school', 'r': 'ticket', 'o': 'receipt', 'k': 'cloud-upload', 'l': 'flashlight', 'd': 'extension-puzzle', 'e': 'aperture', 'b': 'lock-open', 'v': 'eye-off', 't': 'remove', 'h': 'caret-back', 'a': 'desktop', 'i': 'flash-off', 'g': 'duplicate'}",
+  "other_info": "{}"
+}
