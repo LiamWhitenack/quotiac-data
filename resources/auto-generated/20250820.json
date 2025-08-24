@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i feel the need - the need for speed!",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'extension-puzzle', 's': 'location', 'r': 'contrast', 't': 'card', 'e': 'subway', 'i': 'leaf', 'd': 'play-forward', 'n': 'flashlight', 'p': 'videocam', 'h': 'chevron-forward', 'l': 'cog', 'f': 'chatbox-ellipses'}",
+  "other_info": "{'Character Name': 'Pete Mitchell', 'Source': 'Top Gun', 'Date': '1986'}"
+}
