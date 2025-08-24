@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "i cannot live without books",
+  "hints": "[{'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'rose', 'c': 'library', 'n': 'pause', 'l': 'move', 'w': 'chevron-collapse', 'h': 'cart', 's': 'search', 'i': 'archive', 'v': 'pint', 'k': 'copy', 'a': 'help-buoy', 'u': 'man', 'o': 'stop', 'b': 'keypad', 't': 'scale'}",
+  "other_info": "{'Author': 'Thomas Jefferson'}"
+}
