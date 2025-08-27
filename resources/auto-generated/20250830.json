@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Phrase",
+  "string_to_encrypt": "the toothbrush was invented in west virginia. otherwise it would have been called the teethbrush.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'bug', 'd': 'cloud-offline', 's': 'body', 'c': 'earth', 'v': 'desktop', 'u': 'eye-off', 'o': 'backspace', 'n': 'stop', 'r': 'game-controller', 'i': 'caret-back', 't': 'toggle', 'b': 'cloud-upload', 'w': 'brush', 'g': 'location', 'l': 'bar-chart', 'e': 'accessibility', 'h': 'download'}",
+  "other_info": "{'Phrase Type': 'Phrase'}"
+}
