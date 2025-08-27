@@ -163,7 +163,7 @@ class DirectQuote(CryptographBase):
         date: str | None = None,
         used: bool = False,
     ) -> None:
-        super().__init__(quote, "Direct Quote", used=used)
+        super().__init__(quote, "Quote", used=used)
         self.author = author
         self.date = date
 
@@ -181,13 +181,28 @@ class GeneralPhrase(CryptographBase):
     def __init__(
         self,
         phrase: str,
+        phrase_type: str,
         used: bool = False,
     ):
-        super().__init__(phrase, "General Quote", used=used)
+        super().__init__(phrase, "Phrase", used=used)
+        self.phrase_type = phrase_type
+        # phrase_types = [
+        #     "Idiom",
+        #     "Aphorism",
+        #     "Motto",
+        #     "Maxim",
+        #     "Colloquialism",
+        #     "Slogan",
+        #     "Mantra",
+        # ]
 
     @classmethod
     def from_json(cls, data: dict[str, Any]) -> Self:
-        return cls(phrase=data["string_to_encrypt"], used=data["used"])
+        return cls(
+            phrase=data["string_to_encrypt"],
+            used=data["used"],
+            phrase_type=data.get("phrase_type", "Phrase"),
+        )
 
 
 class SongLyrics(CryptographBase):
