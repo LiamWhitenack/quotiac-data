@@ -276,7 +276,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Oh farmers, pray that your summers be wet and your winters clear.",
     "author": "Virgil",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -348,7 +348,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "The Lord bless you and keep you; the Lord make His face to shine upon you and be gracious to you; the Lord lift up His countenance upon you and give you peace.",
     "author": "The Bible, Numbers",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1122,5 +1122,186 @@
     "character_name": "Inigo Montoya",
     "source": "The Princess Bride",
     "date": "1987"
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Venus is the only planet to spin clockwise.",
+    "length": 43,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Abraham Lincoln was a licenced bartender.",
+    "length": 41,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Lobsters have blue blood.",
+    "length": 25,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "There are more stars in the universe than there are grains of sand on earth.",
+    "length": 76,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The liver is the only human organ that can fully regenerate itself.",
+    "length": 67,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Including its territories, France has 12 time zones, the most of any other country.",
+    "length": 83,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The first successful electric car in the U.S. was made by chemist William Morrison in 1890.",
+    "length": 91,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "At around 22 months, elephants have the longest gestation period of any mammal on earth.",
+    "length": 88,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "A group of owls is called a parliament.",
+    "length": 39,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The average person blinks 14 to 17 times per minute.",
+    "length": 52,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "90% of the world\u2019s population lives in the Northern Hemisphere.",
+    "length": 63,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "90 % of the world\u2019s population lives in the Northern Hemisphere.",
+    "length": 64,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Human teeth are the only part of the body that cannot heal themselves.",
+    "length": 70,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The script for The Terminator was sold for just a dollar.",
+    "length": 57,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Only the dead have seen the end of war.",
+    "length": 39,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "The price good men pay for indifference to public affairs is to be ruled by evil men.",
+    "length": 85,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.",
+    "length": 118,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.",
+    "length": 92,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Direct Quote",
+    "string_to_encrypt": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
+    "length": 81,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
   }
 ]
