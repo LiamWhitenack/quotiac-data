@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "i'm not superstitious, but i am a little stitious.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'moon', 'e': 'videocam', 'o': 'flower', 'p': 'gift', 'l': 'scan', 'n': 'caret-back', 'm': 'barcode', 'a': 'nuclear', 'i': 'construct', 'b': 'finger-print', 't': 'subway', 's': 'beaker', 'u': 'chevron-up'}",
+  "other_info": "{'Character Name': 'Michael Scott', 'Source': 'The Office', 'Date': '2007'}"
+}

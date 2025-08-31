@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "do not throw the arrow which will return against you.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'thunderstorm', 'y': 'heart-dislike', 'l': 'ear', 'd': 'color-palette', 'a': 'earth', 'r': 'umbrella', 'w': 'male', 't': 'list', 's': 'trash', 'o': 'fitness', 'g': 'analytics', 'c': 'school', 'n': 'bag', 'e': 'filter', 'u': 'cloud-upload', 'h': 'fish'}",
+  "other_info": "{'Author': 'Kurdish Proverb'}"
+}

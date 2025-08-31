@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it is entirely seemly for a young man killed in battle to lie mangled by the bronze spear. in his death all things appear fair.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'z', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'m': 'clipboard', 'p': 'school', 't': 'chatbubble', 'e': 'globe', 'f': 'planet', 's': 'resize', 'n': 'flashlight', 'z': 'scale', 'k': 'cut', 'l': 'flower', 'r': 'attach', 'g': 'wallet', 'i': 'headset', 'a': 'bag-check', 'h': 'chatbubble-ellipses', 'd': 'extension-puzzle', 'b': 'checkmark-done', 'u': 'flask', 'y': 'square', 'o': 'ice-cream'}",
+  "other_info": "{'Author': 'Homer'}"
+}
