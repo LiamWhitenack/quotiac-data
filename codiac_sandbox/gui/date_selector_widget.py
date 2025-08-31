@@ -27,7 +27,7 @@ THEME = [
     "Fact",  # Monday
     "Historical",  # Tuesday
     "Wisdom",  # Wednesday
-    "Riddle/Pun",  # Thursday
+    "Riddle/Joke",  # Thursday
     "Wildcard",  # Friday
     "Literature/Film",  # Saturday
     "Religious",  # Sunday

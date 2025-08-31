@@ -263,18 +263,18 @@ class Riddle(CryptographBase):
         )
 
 
-class Pun(CryptographBase):
+class Joke(CryptographBase):
     def __init__(
         self,
         question_answer: str,
         used: bool = False,
     ) -> None:
-        super().__init__(question_answer, "Pun", used=used)
+        super().__init__(question_answer, "Joke", used=used)
 
     @classmethod
     def from_json(cls, data: dict[str, Any]) -> Self:
         return cls(
-            question_answer=data["question_answer"],
+            question_answer=data["string_to_encrypt"],
             used=data["used"],
         )
 
@@ -304,6 +304,6 @@ PuzzleClass = (
     | GeneralPhrase
     | SongLyrics
     | Riddle
-    | Pun
+    | Joke
     | RiddleSolvedInReverse
 )
