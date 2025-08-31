@@ -24,7 +24,7 @@ DAYS_OF_WEEK = [
     "Sunday",
 ]
 THEME = [
-    "Satire",  # Monday
+    "Fact",  # Monday
     "Historical",  # Tuesday
     "Wisdom",  # Wednesday
     "Riddle/Pun",  # Thursday
