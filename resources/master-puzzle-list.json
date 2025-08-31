@@ -1122,5 +1122,72 @@
     "character_name": "Inigo Montoya",
     "source": "The Princess Bride",
     "date": "1987"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "If the grass looks greener, it's probably AstroTurf!",
+    "length": 52,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Nicky Gumbel",
+    "date": null
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Book Quote",
+    "string_to_encrypt": "I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve.",
+    "length": 117,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Bilbo Baggins",
+    "source": "The Fellowship of the Ring",
+    "date": "1954"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Novel Quote",
+    "string_to_encrypt": "Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good this morning; or that it is a morning to be good on?",
+    "length": 165,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Gandalf The Grey",
+    "source": "The Hobbit",
+    "date": "1937"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Novel Quote",
+    "string_to_encrypt": "The only thing you can do easily is be wrong, and that's hardly worth the effort.",
+    "length": 81,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "The Mathemegician",
+    "source": "The Phantom Tollbooth",
+    "date": "1961"
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "Phrase",
+    "string_to_encrypt": "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+    "length": 187,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "phrase_type": "Humorous Aphorism"
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "Phrase",
+    "string_to_encrypt": "It always takes longer than you expect, even when you take into account Hofstadter's law.",
+    "length": 89,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "phrase_type": "Hofstadter's Law"
   }
 ]
