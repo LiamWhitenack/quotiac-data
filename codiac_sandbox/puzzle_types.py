@@ -99,6 +99,22 @@ class ListPuzzle(CryptographBase):
         )
 
 
+class TrivialFact(CryptographBase):
+    def __init__(
+        self,
+        fact: str,
+        used: bool = False,
+    ):
+        super().__init__(fact, f"Trivial Fact", used=used)
+
+    @classmethod
+    def from_json(cls, data: dict[str, Any]) -> Self:
+        return cls(
+            fact=data["string_to_encrypt"],
+            used=data["used"],
+        )
+
+
 class CharacterQuote(CryptographBase):
     def __init__(
         self,
