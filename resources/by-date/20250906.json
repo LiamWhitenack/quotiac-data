@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "if you are what you eat, then i only want to eat the good stuff",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'business', 'w': 'basketball', 'h': 'camera', 'a': 'fast-food', 'e': 'funnel', 't': 'egg', 's': 'brush', 'r': 'cafe', 'i': 'notifications-off', 'd': 'chevron-up', 'l': 'ear', 'n': 'ticket', 'u': 'checkmark-done', 'f': 'football', 'g': 'people', 'o': 'dice'}",
+  "other_info": "{'Character Name': 'Remy', 'Source': 'Ratatouille', 'Date': '2007'}"
+}

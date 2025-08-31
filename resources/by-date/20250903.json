@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "ask not what your country can do for you - ask what you can do for your country.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'w': 'car', 'h': 'reload', 'f': 'magnet', 'k': 'mail-open', 'n': 'football', 'r': 'cash', 't': 'accessibility', 'c': 'tv', 'o': 'log-in', 'u': 'book', 'y': 'code-download', 's': 'toggle', 'a': 'shuffle', 'd': 'megaphone'}",
+  "other_info": "{'Author': 'John F. Kennedy'}"
+}

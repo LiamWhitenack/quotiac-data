@@ -801,7 +801,7 @@
     "character_name": "Remy",
     "source": "Ratatouille",
     "date": "2007",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -1061,8 +1061,8 @@
     "author": "Leroy Hoard (NFL Running Back)"
   },
   {
-    "type": "Pun",
-    "puzzle_type": "Pun",
+    "type": "Joke",
+    "puzzle_type": "Joke",
     "string_to_encrypt": "What do you call a fake noodle? An Impasta.",
     "length": 43,
     "encryption_map": null,
@@ -1080,14 +1080,14 @@
     "used": true
   },
   {
-    "type": "Pun",
-    "puzzle_type": "Pun",
-    "string_to_encrypt": "The shovel was a ground breaking invention.\n\n",
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "The shovel was a ground breaking invention.  ",
     "length": 45,
     "encryption_map": null,
     "hints": null,
     "used": true,
-    "question_answer": "The shovel was a ground breaking invention.\n\n"
+    "question_answer": "The shovel was a ground breaking invention.  "
   },
   {
     "type": "DirectQuote",
@@ -1298,7 +1298,8 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
     "author": "Plato",
-    "date": null
+    "date": null,
+    "used": false
   },
   {
     "string_to_encrypt": "If the grass looks greener, it's probably AstroTurf!",
@@ -1366,5 +1367,80 @@
     "hints": null,
     "used": false,
     "phrase_type": "Hofstadter's Law"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "The real use of gunpowder is to make all men tall.",
+    "length": 50,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Thomas Carlyle",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Ask not what your country can do for you - ask what you can do for your country.",
+    "length": 80,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "John F. Kennedy",
+    "date": null
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "At the latter I was informal At the former I wore my suit I wore my swimming suit.",
+    "length": 144,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "artist": "Loudon Wainwright III",
+    "title": "The Swimming Song",
+    "date": "1973"
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "You'll come a Waltzing Matilda with me And he sang as he watched and waited till his billy boiled You'll come a-Waltzing Matilda with me",
+    "length": 136,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "artist": "A.B. Paterson",
+    "title": "Waltzing Matilda (The Unofficial Australian National Anthem)",
+    "date": "1895"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Humpty Dumpty had a great fall. Summer wasn't too bad either.",
+    "length": 61,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "I am an odd number. Take away a letter and I become even. What number am I? 7.",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "question_answer": "I am an odd number. Take away a letter and I become even. What number am I? 7."
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "What month of the year has 28 days? All of them.",
+    "length": 48,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "question_answer": "What month of the year has 28 days? All of them."
   }
 ]
