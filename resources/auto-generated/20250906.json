@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the script for the terminator was sold for just a dollar.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'bicycle', 'c': 'magnet', 's': 'recording', 'i': 'cut', 'p': 'hardware-chip', 'd': 'caret-up', 'u': 'newspaper', 'l': 'exit', 'n': 'paper-plane', 'a': 'camera', 'o': 'ticket', 'f': 'create', 'h': 'male', 'm': 'cloud', 'j': 'ear', 'w': 'reload', 't': 'caret-forward', 'e': 'warning'}",
+  "other_info": "{}"
+}
