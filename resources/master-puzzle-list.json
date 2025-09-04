@@ -1442,5 +1442,16 @@
     "hints": null,
     "used": false,
     "question_answer": "What month of the year has 28 days? All of them."
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Normal people... believe that if it ain't broke, don't fix it. Engineers believe that if it ain't broke, it doesn't have enough features yet.",
+    "length": 141,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Scott Adams",
+    "date": null
   }
 ]

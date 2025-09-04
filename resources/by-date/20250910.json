@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "normal people... believe that if it ain't broke, don't fix it. engineers believe that if it ain't broke, it doesn't have enough features yet.",
+  "hints": "[{'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'x', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'browsers', 'y': 'flask', 'm': 'lock-open', 'b': 'sparkles', 'v': 'time', 'h': 'bicycle', 'x': 'magnet', 'r': 'happy', 'e': 'eye-off', 'a': 'caret-back', 'f': 'unlink', 'u': 'medal', 'i': 'chatbubble', 'n': 'invert-mode', 'k': 'card', 'g': 'barbell', 'l': 'clipboard', 'o': 'bed', 'p': 'person', 's': 'paw', 'd': 'refresh'}",
+  "other_info": "{'Author': 'Scott Adams'}"
+}
