@@ -144,7 +144,7 @@
     "type": "GeneralPhrase",
     "puzzle_type": "General Quote",
     "string_to_encrypt": "A dyslexic man walks into a bra",
-    "used": false
+    "used": true
   },
   {
     "type": "GeneralPhrase",
@@ -465,7 +465,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "I will to my lord be true and faithful, and love all which he loves and shun all which he shuns.",
     "author": "Anglo Saxon Oath of Fealty",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -555,7 +555,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "The whole is more than the sum of its parts.",
     "author": "Aristotle",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1202,7 +1202,7 @@
     "length": 39,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1331,7 +1331,7 @@
     "length": 165,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Gandalf The Grey",
     "source": "The Hobbit",
     "date": "1937"
@@ -1452,6 +1452,206 @@
     "hints": null,
     "used": true,
     "author": "Scott Adams",
+    "date": null
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Novel Quote",
+    "string_to_encrypt": "The first rule of Fight Club is: you do not talk about Fight Club. The second rule of Fight Club is: you DO NOT talk about Fight Club!",
+    "length": 134,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Tyler Burden",
+    "source": "Fight Club",
+    "date": "1996"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Time crumbles things; everything grows old and is forgotten under the power of time",
+    "length": 83,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Aristotle",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Man is the only creature who refuses to be what he is.",
+    "length": 54,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Albert Camus",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "May you live every day of your life.",
+    "length": 36,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Jonathan Swift",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "According to most studies, people's number one fear is public speaking. Number two is death. Death is number two. Does that sound right? This means to the average person, if you go to a funeral, you're better off in the casket than doing the eulogy.",
+    "length": 249,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Jerry Seinfeld",
+    "date": null
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Instead of being sucked all the way in, quicksand victims will float once they get about waist deep.",
+    "length": 100,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Tomatoes are both a fruit and a vegetable.",
+    "length": 42,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "some frogs intentionally freeze during winter in order to survive.",
+    "length": 66,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Time passes faster the further you are from a massive object, but it passes slower the faster you move.",
+    "length": 103,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "\"From the heights of these pyramids, forty centuries look down on us\"",
+    "length": 69,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Napoleon Bonaparte, to his troops in Egypt",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "\"Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny",
+    "length": 144,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Martin Luther King Jr.",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "\"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+    "length": 111,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Martin Luther King Jr.",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Stop blaming evil on the Devil, blame it on the Creator of everything, if you don't understand, ask Him or at least hope that someday He will reveal it to you.",
+    "length": 159,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Bangambiki Habyarimana",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Necessity is the mother of all invention.",
+    "length": 41,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Plato",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Would it not be strange if a universe without purpose accidentally created humans who are so obsessed with purpose?",
+    "length": 115,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Sir John Templeton",
+    "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "What happens when a frog's car breaks down? It gets toad.",
+    "length": 57,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "What can you put in a bucket to make it weigh less? A hole.",
+    "length": 59,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "question_answer": "What can you put in a bucket to make it weigh less? A hole."
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "There are no two words in the English language more harmful than \"good job\".",
+    "length": 76,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Terence Fletcher",
+    "source": "Whiplash",
+    "date": "2014"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Even the smallest act of service, the simplest act of kindness, is a way to honor those we lost, a way to reclaim that spirit of unity that followed 9/11.",
+    "length": 154,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Barack Obama",
     "date": null
   }
 ]

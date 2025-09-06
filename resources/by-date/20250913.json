@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Novel Quote",
+  "string_to_encrypt": "do you wish me a good morning, or mean that it is a good morning whether i want it or not; or that you feel good this morning; or that it is a morning to be good on?",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'send', 'l': 'fast-food', 'w': 'document-text', 'a': 'camera', 'b': 'rocket', 'e': 'flower', 'm': 'help-buoy', 'u': 'save', 'f': 'dice', 'n': 'infinite', 'i': 'rose', 'r': 'crop', 'h': 'paw', 's': 'calculator', 't': 'chatbubbles', 'd': 'move', 'o': 'navigate', 'g': 'code-download'}",
+  "other_info": "{'Character Name': 'Gandalf The Grey', 'Source': 'The Hobbit', 'Date': '1937'}"
+}
