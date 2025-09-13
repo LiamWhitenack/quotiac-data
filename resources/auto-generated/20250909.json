@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "you'll come a waltzing matilda with me and he sang as he watched and waited till his billy boiled you'll come a-waltzing matilda with me",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'z', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'u': 'caret-back', 'e': 'trophy', 'm': 'checkbox', 'z': 'reader', 'b': 'pause', 'o': 'move', 'g': 'cloud-upload', 'l': 'eyedrop', 'd': 'locate', 't': 'american-football', 's': 'apps', 'h': 'chevron-collapse', 'c': 'contrast', 'n': 'open', 'w': 'golf', 'a': 'bookmark', 'i': 'people', 'y': 'scale'}",
+  "other_info": "{'Artist': 'A.B. Paterson', 'Title': 'Waltzing Matilda (The Unofficial Australian National Anthem)', 'Date': '1895'}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "they may take our lives, but they'll never take our freedom!",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'u': 'american-football', 's': 'calendar', 't': 'ellipsis-horizontal', 'b': 'move', 'y': 'copy', 'v': 'cloud-download', 'l': 'videocam', 'a': 'umbrella', 'i': 'planet', 'h': 'pause', 'm': 'search', 'o': 'eyedrop', 'n': 'battery-charging', 'r': 'cloud-done', 'f': 'nutrition', 'e': 'backspace', 'd': 'resize', 'k': 'enter'}",
+  "other_info": "{'Character Name': 'William Wilberforce', 'Source': 'Braveheart', 'Date': '1995'}"
+}

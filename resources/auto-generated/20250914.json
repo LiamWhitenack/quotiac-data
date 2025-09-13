@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the lord bless you and keep you; the lord make his face to shine upon you and be gracious to you; the lord lift up his countenance upon you and give you peace.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'v': 'code-download', 's': 'hammer', 'b': 'fast-food', 'd': 'construct', 'i': 'ribbon', 'u': 'musical-note', 'p': 'speedometer', 'o': 'beaker', 'n': 'finger-print', 'l': 'cube', 'c': 'earth', 'a': 'copy', 'h': 'stop', 'f': 'book', 'm': 'eyedrop', 'g': 'bonfire', 'k': 'contract', 'r': 'male', 'e': 'menu', 'y': 'battery-charging', 't': 'reload'}",
+  "other_info": "{'Author': 'The Bible, Numbers'}"
+}

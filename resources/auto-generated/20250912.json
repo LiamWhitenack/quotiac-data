@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i will to my lord be true and faithful, and love all which he loves and shun all which he shuns.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'radio', 'n': 'football', 'c': 'move', 'r': 'finger-print', 'l': 'sad', 'h': 'call', 'w': 'chatbox', 's': 'medkit', 'b': 'pint', 'e': 'remove', 'a': 'bicycle', 'u': 'wine', 'v': 'leaf', 'd': 'hourglass', 'o': 'location', 'f': 'thunderstorm', 'm': 'clipboard', 'i': 'flashlight', 't': 'paper-plane'}",
+  "other_info": "{'Author': 'Anglo Saxon Oath of Fealty'}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "two cities have been formed by two loves: the earthly by the love of self; the heavenly by the love of god.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'b': 'speedometer', 'd': 'snow', 'h': 'man', 's': 'build', 'v': 'ban', 'r': 'heart', 'e': 'toggle', 'c': 'flashlight', 'o': 'paw', 'f': 'headset', 'm': 'checkbox', 'l': 'paper-plane', 'n': 'musical-notes', 'g': 'videocam', 'y': 'beer', 'a': 'fast-food', 'i': 'business', 't': 'rainy', 'w': 'car'}",
+  "other_info": "{'Author': 'St. Augustine'}"
+}
