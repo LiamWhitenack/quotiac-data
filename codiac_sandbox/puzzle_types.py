@@ -197,11 +197,10 @@ class GeneralPhrase(CryptographBase):
     def __init__(
         self,
         phrase: str,
-        phrase_type: str,
+        puzzle_type: str,
         used: bool = False,
     ):
-        super().__init__(phrase, "Phrase", used=used)
-        self.phrase_type = phrase_type
+        super().__init__(phrase, puzzle_type, used=used)
         # phrase_types = [
         #     "Idiom",
         #     "Aphorism",
@@ -217,7 +216,7 @@ class GeneralPhrase(CryptographBase):
         return cls(
             phrase=data["string_to_encrypt"],
             used=data["used"],
-            phrase_type=data.get("phrase_type", "Phrase"),
+            puzzle_type=data.get("phrase_type", data.get("puzzle_type", "Phrase")),
         )
 
 
