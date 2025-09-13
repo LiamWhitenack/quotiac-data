@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Phrase",
+  "string_to_encrypt": "i wish to wash my irish wristwatch.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'cash', 'r': 'megaphone', 'w': 'flag', 'a': 'hardware-chip', 'm': 'star', 'h': 'pause', 'c': 'walk', 'y': 'funnel', 'o': 'cloud-download', 't': 'body', 's': 'heart-dislike'}",
+  "other_info": "{'Phrase Type': 'Tongue Twister'}"
+}

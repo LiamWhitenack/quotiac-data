@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Addage",
+  "string_to_encrypt": "you can't direct the wind, but you can adjust your sails.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'search', 'r': 'ice-cream', 'i': 'download', 'u': 'bag', 'l': 'walk', 'w': 'document', 'n': 'enter', 'b': 'cash', 'a': 'man', 'h': 'game-controller', 'c': 'nutrition', 'y': 'newspaper', 'j': 'flask', 'o': 'exit', 't': 'hardware-chip', 'd': 'basket', 's': 'fitness'}",
+  "other_info": ""
+}

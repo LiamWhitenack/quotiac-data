@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i do not feel obliged to believe that the same god who has endowed us with sense, reason, and intellect has intended us to forgo their use.",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'radio', 'i': 'key', 'u': 'chatbubbles', 'b': 'car', 'f': 'game-controller', 'a': 'watch', 'e': 'pie-chart', 'r': 'square', 'c': 'bus', 'o': 'newspaper', 'd': 'layers', 's': 'flash-off', 'l': 'rose', 'w': 'server', 'n': 'flash', 'm': 'heart', 'h': 'telescope', 'v': 'ice-cream', 't': 'headset'}",
+  "other_info": "{'Author': 'Galileo Galilei'}"
+}

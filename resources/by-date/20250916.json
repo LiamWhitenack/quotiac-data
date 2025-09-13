@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "everything is worth what its purchaser will pay for it.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'bag', 'r': 'musical-note', 'i': 'planet', 'u': 'nutrition', 'l': 'eyedrop', 'w': 'color-filter', 'n': 'storefront', 'p': 'gift', 'f': 'flash-off', 'a': 'rose', 'h': 'globe', 'c': 'cash', 'y': 'baseball', 'o': 'document-lock', 'v': 'code-download', 't': 'accessibility', 'g': 'paw', 's': 'happy'}",
+  "other_info": "{'Author': 'Publius Syrus'}"
+}

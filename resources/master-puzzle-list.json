@@ -300,7 +300,7 @@
     "type": "GeneralPhrase",
     "puzzle_type": "General Quote",
     "string_to_encrypt": "You can't direct the wind, but you can adjust your sails.",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -426,7 +426,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Everything is worth what its purchaser will pay for it.",
     "author": "Publius Syrus",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -615,7 +615,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.",
     "author": "Galileo Galilei",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1238,7 +1238,7 @@
     "length": 70,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1319,7 +1319,7 @@
     "length": 117,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Bilbo Baggins",
     "source": "The Fellowship of the Ring",
     "date": "1954"
@@ -1430,7 +1430,7 @@
     "length": 78,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "question_answer": "I am an odd number. Take away a letter and I become even. What number am I? 7."
   },
   {
@@ -1653,5 +1653,47 @@
     "used": true,
     "author": "Barack Obama",
     "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Prayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.",
+    "length": 172,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Gandhi",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "The function of prayer is not to influence God, but rather to change the nature of the one who prays.",
+    "length": 101,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Soren Kierkegaard",
+    "date": null
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "What has a head but no neck? A bottle.",
+    "length": 38,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "question_answer": "What has a head but no neck? A bottle."
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "Phrase",
+    "string_to_encrypt": "I wish to wash my Irish wristwatch.",
+    "length": 35,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "phrase_type": "Tongue Twister"
   }
 ]

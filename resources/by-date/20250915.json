@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "human teeth are the only part of the body that cannot heal themselves.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'calculator', 'r': 'medical', 'l': 'log-in', 'u': 'paw', 'n': 'shield', 'p': 'browsers', 'b': 'layers', 'f': 'car', 'a': 'accessibility', 'm': 'film', 'h': 'image', 'c': 'brush', 'y': 'map', 'o': 'bag', 'v': 'basketball', 't': 'ice-cream', 'd': 'cash', 's': 'shirt'}",
+  "other_info": "{}"
+}
