@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "to every action there is always opposed an equal reaction.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'bed', 'r': 'recording', 't': 'cafe', 'a': 'call', 'u': 'cloud-offline', 'i': 'trash', 'd': 'search', 's': 'camera', 'l': 'tv', 'c': 'person', 'v': 'flash-off', 'w': 'open', 'q': 'brush', 'h': 'grid', 'n': 'warning', 'e': 'golf', 'o': 'cut', 'y': 'compass'}",
+  "other_info": "{'Author': 'Isaac Newton'}"
+}
