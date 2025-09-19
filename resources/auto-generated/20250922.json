@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "what can you put in a bucket to make it weigh less? a hole.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'list', 'n': 'eye-off', 'i': 'backspace', 'y': 'ear', 'w': 'play-back', 'g': 'caret-up', 'l': 'copy', 'c': 'chevron-up', 'p': 'fast-food', 'e': 'wifi', 's': 'color-filter', 'h': 'time', 'k': 'planet', 'b': 'headset', 'o': 'color-wand', 't': 'dice', 'm': 'caret-forward', 'u': 'camera'}",
+  "other_info": "{'Question Answer': 'What can you put in a bucket to make it weigh less? A hole.'}"
+}
