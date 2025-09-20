@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "astronomy compels the soul to look upwards and leads us from this world to another.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'card', 'm': 'radio', 's': 'code', 'i': 'thunderstorm', 'h': 'library', 'n': 'aperture', 'o': 'image', 'y': 'wine', 'f': 'cellular', 'u': 'storefront', 'd': 'crop', 'e': 'cloudy-night', 'r': 'speedometer', 'p': 'flashlight', 'l': 'planet', 'w': 'desktop', 't': 'wifi', 'a': 'newspaper', 'k': 'tv'}",
+  "other_info": "{'Author': 'Plato'}"
+}
