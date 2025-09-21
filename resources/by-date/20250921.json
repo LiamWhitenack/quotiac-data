@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the function of prayer is not to influence god, but rather to change the nature of the one who prays.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'n': 'color-filter', 'd': 'female', 'c': 'mic-off', 'l': 'desktop', 't': 'finger-print', 'a': 'bag-remove', 'w': 'code-download', 'u': 'planet', 'i': 'rainy', 'r': 'headset', 'o': 'toggle', 'h': 'grid', 'b': 'notifications-off', 'y': 'game-controller', 'p': 'invert-mode', 'e': 'today', 'g': 'pause', 'f': 'battery-charging', 's': 'chevron-back'}",
+  "other_info": "{'Author': 'Soren Kierkegaard'}"
+}

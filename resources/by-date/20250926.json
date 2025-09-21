@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "one does not simply walk into mordor",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'happy', 'r': 'attach', 'p': 'scan', 'w': 'chevron-forward', 'o': 'document-text', 'n': 'map', 'm': 'lock-open', 'e': 'contrast', 'i': 'analytics', 'd': 'pin', 'l': 'backspace', 't': 'shield', 'k': 'notifications-off', 'y': 'fish', 's': 'trophy'}",
+  "other_info": "{'Character Name': 'Boromir', 'Source': 'Lord of the Rings: The Fellowship of the Ring', 'Date': '2001'}"
+}

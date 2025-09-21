@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "many go fishing all their lives without knowing that it is not fish they are after.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'barcode', 'r': 'flower', 'w': 'barbell', 'o': 'chevron-forward', 'n': 'document-text', 'v': 'settings', 'u': 'locate', 'h': 'menu', 'm': 'reload', 'e': 'eyedrop', 'k': 'trash', 'g': 'home', 'i': 'sparkles', 'l': 'build', 't': 'medkit', 'f': 'document', 'y': 'partly-sunny', 's': 'bonfire'}",
+  "other_info": "{'Author': 'Henry David Thoreau'}"
+}

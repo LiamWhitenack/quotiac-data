@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Novel Quote",
+  "string_to_encrypt": "the only thing you can do easily is be wrong, and that's hardly worth the effort.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'bag-check', 'r': 'brush', 'c': 'caret-back', 'w': 'basket', 'o': 'square', 'n': 'reload', 'u': 'analytics', 'h': 'browsers', 'e': 'accessibility', 'b': 'options', 'g': 'partly-sunny', 'i': 'trophy', 'd': 'man', 'l': 'checkbox', 't': 'radio', 'f': 'shuffle', 'y': 'musical-note', 's': 'document-text'}",
+  "other_info": "{'Character Name': 'The Mathemegician', 'Source': 'The Phantom Tollbooth', 'Date': '1961'}"
+}

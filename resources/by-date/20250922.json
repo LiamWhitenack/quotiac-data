@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "some frogs intentionally freeze during winter in order to survive.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'z', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'bonfire', 'r': 'chevron-forward', 'w': 'mic-off', 'o': 'restaurant', 'n': 'star', 'v': 'caret-up', 'u': 'location', 'z': 'options', 'm': 'funnel', 'e': 'watch', 'g': 'create', 'i': 'trash', 'd': 'chatbox', 'l': 'contrast', 't': 'videocam', 'f': 'heart-dislike', 'y': 'bus', 's': 'chevron-expand'}",
+  "other_info": "{}"
+}
