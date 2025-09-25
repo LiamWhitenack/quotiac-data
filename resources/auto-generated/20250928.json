@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i just want to say one word to you. just one word: plastics.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'refresh', 'l': 'fast-food', 'w': 'thunderstorm', 'j': 'hand-left', 'i': 'female', 'e': 'flashlight', 'u': 'storefront', 'd': 'bag-handle', 'c': 'unlink', 'n': 'code', 'a': 'hammer', 'r': 'rainy', 't': 'speedometer', 'y': 'cloud', 'p': 'bicycle', 'o': 'chatbox'}",
+  "other_info": "{'Author': 'Calder Willingham, The Graduate'}"
+}
