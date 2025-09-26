@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it is not the strongest of the species that survive, but the one most responsive to change.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'n': 'enter', 't': 'nuclear', 'f': 'flask', 's': 'basket', 'g': 'checkmark', 'h': 'egg', 'a': 'lock-open', 'r': 'newspaper', 'c': 'contrast', 'i': 'flash-off', 'o': 'resize', 'v': 'barbell', 'e': 'caret-up', 'p': 'recording', 'b': 'american-football', 'u': 'settings', 'm': 'ribbon'}",
+  "other_info": "{'Author': 'Charles Darwin'}"
+}
