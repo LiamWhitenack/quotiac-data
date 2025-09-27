@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "what month of the year has 28 days? all of them.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'f': 'restaurant', 's': 'finger-print', 'm': 'create', 't': 'reader', 'l': 'boat', 'n': 'move', 'd': 'clipboard', 'e': 'scale', 'w': 'hammer', 'a': 'planet', 'h': 'cash', 'y': 'shield', 'r': 'archive', 'o': 'ellipsis-horizontal'}",
+  "other_info": "{'Question Answer': 'What month of the year has 28 days? All of them.'}"
+}
