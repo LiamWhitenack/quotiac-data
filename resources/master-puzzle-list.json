@@ -21,7 +21,7 @@
     "character_name": "Boromir",
     "source": "Lord of the Rings: The Fellowship of the Ring",
     "date": "2001",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -939,7 +939,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "Many go fishing all their lives without knowing that it is not fish they are after.",
     "length": 83,
-    "used": false,
+    "used": true,
     "author": "Henry David Thoreau"
   },
   {
@@ -970,7 +970,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "The pen is mightier than the sword",
     "length": 34,
-    "used": false,
+    "used": true,
     "author": "Edward Bulwer-Lytton"
   },
   {
@@ -1343,7 +1343,7 @@
     "length": 81,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "The Mathemegician",
     "source": "The Phantom Tollbooth",
     "date": "1961"
@@ -1535,7 +1535,7 @@
     "length": 66,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1672,7 +1672,7 @@
     "length": 101,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Soren Kierkegaard",
     "date": null
   },
@@ -1695,5 +1695,39 @@
     "hints": null,
     "used": true,
     "phrase_type": "Tongue Twister"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Sitcom Quote",
+    "string_to_encrypt": "\"You miss 100% of the shots you don't take -Wayne Gretzky\" -Michael Scott",
+    "length": 73,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Michael Scott",
+    "source": "The Office",
+    "date": "2008"
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "What goes up but never goes down? Your age.",
+    "length": 43,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "question_answer": "What goes up but never goes down? Your age."
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "Whoa, we're half way there\nWhoa oh, livin' on a prayer\nTake my hand, we'll make it, I swear\nWhoa oh, livin' on a prayer",
+    "length": 119,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "artist": "Bon Jovi",
+    "title": "Livin' on Prayer",
+    "date": "1986"
   }
 ]

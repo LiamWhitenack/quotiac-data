@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the script for the terminator was sold for just a dollar.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'unlink', 'a': 'bag', 'j': 'calendar', 'o': 'people', 'n': 'bar-chart', 'd': 'cube', 'i': 'medal', 'e': 'code-working', 's': 'duplicate', 'u': 'body', 'l': 'chevron-back', 'h': 'log-in', 'r': 'save', 'w': 'airplane', 't': 'journal', 'f': 'restaurant', 'p': 'library', 'm': 'fitness'}",
+  "other_info": "{}"
+}

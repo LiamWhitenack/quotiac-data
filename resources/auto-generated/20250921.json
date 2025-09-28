@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "everything in life is somewhere else, and you get there in a car.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'n': 'open', 'r': 'copy', 'd': 'grid', 'h': 'options', 'm': 'flash', 'l': 'desktop', 'g': 'school', 'y': 'duplicate', 'v': 'beaker', 'c': 'bicycle', 'i': 'cube', 't': 'caret-up', 'w': 'help-buoy', 'u': 'at', 'o': 'bag-remove', 'e': 'cloud', 'a': 'color-palette', 's': 'layers', 'f': 'construct'}",
+  "other_info": "{'Author': 'E. B. White'}"
+}

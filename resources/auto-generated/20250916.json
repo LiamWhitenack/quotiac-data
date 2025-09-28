@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i fooled you, i fooled you, i got pig iron, i got pig iron, i got all pig iron.",
+  "hints": "[{'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'u': 'color-palette', 'p': 'golf', 'o': 'football', 'l': 'download', 'e': 'chevron-forward', 'f': 'toggle', 'i': 'bandage', 'n': 'documents', 'a': 'resize', 't': 'accessibility', 'd': 'trash', 'g': 'enter', 'r': 'rainy', 'y': 'storefront'}",
+  "other_info": "{'Author': \"Lonnie Donegan, 'Rock Island Line'\"}"
+}

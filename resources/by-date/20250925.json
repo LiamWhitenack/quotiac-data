@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "what goes up but never goes down? your age.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'water', 'r': 'notifications-off', 'p': 'reader', 'w': 'help-buoy', 'o': 'code-download', 'n': 'cloud', 'v': 'pint', 'u': 'search', 'h': 'clipboard', 'e': 'caret-back', 'b': 'resize', 'g': 'nutrition', 'd': 'lock-open', 't': 'wallet', 'y': 'headset', 's': 'speedometer'}",
+  "other_info": "{}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the pen is mightier than the sword",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'construct', 'o': 'flash', 'h': 'hammer', 'g': 'reload', 'm': 'create', 'i': 'finger-print', 's': 'camera', 'r': 'square', 'w': 'cafe', 'd': 'chevron-collapse', 't': 'flag', 'p': 'shield', 'n': 'leaf', 'e': 'contract'}",
+  "other_info": "{'Author': 'Edward Bulwer-Lytton'}"
+}
