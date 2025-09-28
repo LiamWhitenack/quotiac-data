@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "soon it will be a sin for parents to have a child which carries the heavy burden of genetic disease.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'log-in', 'g': 'checkmark', 'v': 'flash-off', 'l': 'chatbubble-ellipses', 'o': 'ellipsis-horizontal', 't': 'today', 'r': 'fast-food', 'b': 'code-slash', 'u': 'chevron-forward', 'a': 'person', 'h': 'cloud-download', 'f': 'musical-note', 'i': 'subway', 'n': 'menu', 'y': 'code-working', 's': 'documents', 'p': 'bonfire', 'd': 'headset', 'e': 'wallet', 'w': 'dice'}",
+  "other_info": "{'Author': 'Bob Edwards'}"
+}

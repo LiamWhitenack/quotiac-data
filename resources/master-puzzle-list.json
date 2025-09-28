@@ -765,7 +765,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Soon it will be a sin for parents to have a child which carries the heavy burden of genetic disease.",
     "author": "Bob Edwards",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
