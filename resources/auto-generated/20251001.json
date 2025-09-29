@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "at the latter i was informal at the former i wore my suit i wore my swimming suit.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'f': 'heart-half', 'u': 'film', 'h': 'rainy', 'i': 'code-download', 'o': 'speedometer', 'n': 'navigate', 'w': 'golf', 'r': 'fitness', 'l': 'wine', 'e': 'caret-back', 'm': 'paw', 't': 'alarm', 'y': 'body', 's': 'male', 'g': 'camera', 'a': 'flag'}",
+  "other_info": "{'Artist': 'Loudon Wainwright III', 'Title': 'The Swimming Song', 'Date': '1973'}"
+}
