@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the whole is greater than the sum of its parts.",
+  "hints": "[{'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'m': 'bag-check', 'l': 'construct', 'h': 'walk', 'w': 'time', 'n': 'build', 'r': 'clipboard', 'i': 'barcode', 'u': 'briefcase', 's': 'shirt', 'f': 'menu', 't': 'cash', 'a': 'bag-add', 'o': 'caret-up', 'p': 'speedometer', 'g': 'chevron-back', 'e': 'hammer'}",
+  "other_info": "{'Author': 'Aristotle'}"
+}

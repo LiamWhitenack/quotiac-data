@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "compound interest is the most powerful force in the universe.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'v': 'at', 'c': 'umbrella', 'm': 'gift', 'l': 'backspace', 'h': 'image', 'w': 'cloud', 'n': 'cloud-done', 'r': 'apps', 'i': 'document-text', 'u': 'checkbox', 's': 'camera', 'f': 'film', 't': 'call', 'o': 'golf', 'd': 'flask', 'p': 'heart', 'e': 'hammer'}",
+  "other_info": "{'Author': 'Albert Einstein'}"
+}

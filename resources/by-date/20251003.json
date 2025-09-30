@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "never trust a computer you can't throw out a window.",
+  "hints": "[{'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'v': 'bag-remove', 'c': 'flame', 'm': 'checkmark-done', 'h': 'mail-open', 'w': 'location', 'n': 'heart-half', 'r': 'star', 'i': 'funnel', 'u': 'cog', 's': 'glasses', 'y': 'cloudy-night', 't': 'baseball', 'o': 'speedometer', 'a': 'mic-off', 'd': 'crop', 'p': 'planet', 'e': 'calendar'}",
+  "other_info": "{'Author': 'Steve Wozniak'}"
+}

@@ -177,7 +177,7 @@
     "character_name": "William Wilberforce",
     "source": "Braveheart",
     "date": "1995",
-    "used": false
+    "used": true
   },
   {
     "type": "GeneralPhrase",
@@ -567,7 +567,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Compound interest is the most powerful force in the universe.",
     "author": "Albert Einstein",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -735,7 +735,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Never trust a computer you can't throw out a window.",
     "author": "Steve Wozniak",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -747,7 +747,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "The whole is greater than the sum of its parts.",
     "author": "Aristotle",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1440,7 +1440,7 @@
     "length": 48,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "question_answer": "What month of the year has 28 days? All of them."
   },
   {
@@ -1729,5 +1729,16 @@
     "artist": "Bon Jovi",
     "title": "Livin' on Prayer",
     "date": "1986"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "A Chrysler 300 looks like a Phantom until a Phantom pulls up.",
+    "length": 61,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Katt Williams (Paraphrased)",
+    "date": null
   }
 ]
