@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "and alexander wept, seeing as he had no more worlds to conquer.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'x', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'q': 'create', 'i': 'newspaper', 's': 'caret-up', 'u': 'ribbon', 'e': 'add', 'a': 'heart', 'l': 'eyedrop', 'h': 'funnel', 'm': 'list', 'n': 'cloudy-night', 'g': 'gift', 'o': 'download', 'x': 'medal', 'w': 'paw', 't': 'link', 'd': 'chevron-back', 'p': 'reload', 'r': 'alarm', 'c': 'beaker'}",
+  "other_info": "{}"
+}
