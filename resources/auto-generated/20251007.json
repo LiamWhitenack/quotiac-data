@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Famous Document",
+  "string_to_encrypt": "all men are created equal.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'musical-notes', 'r': 'bus', 'd': 'musical-note', 'e': 'locate', 'u': 'radio', 't': 'contract', 'm': 'settings', 'l': 'send', 'n': 'rocket', 'a': 'contrast', 'q': 'color-filter'}",
+  "other_info": "{'Source': '', 'Author': '', 'Date': 'July 4, 1776'}"
+}
