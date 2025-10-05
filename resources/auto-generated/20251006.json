@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "no pressure, no diamonds.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'d': 'easel', 'e': 'stop', 'm': 'extension-puzzle', 'u': 'ban', 'r': 'cash', 'a': 'water', 's': 'ticket', 'p': 'speedometer', 'n': 'female', 'i': 'airplane', 'o': 'journal'}",
+  "other_info": "{'Author': 'Thomas Carlyle'}"
+}

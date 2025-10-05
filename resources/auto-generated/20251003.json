@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i will to my lord be true and faithful, and love all which he loves and shun all which he shuns.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'happy', 'l': 'partly-sunny', 's': 'resize', 'n': 'brush', 'f': 'caret-down', 'b': 'time', 'h': 'camera', 'c': 'pizza', 'e': 'documents', 'a': 'call', 't': 'fitness', 'v': 'invert-mode', 'w': 'shuffle', 'm': 'football', 'i': 'film', 'y': 'compass', 'r': 'apps', 'u': 'bed', 'd': 'navigate'}",
+  "other_info": "{'Author': 'Anglo Saxon Oath of Fealty'}"
+}

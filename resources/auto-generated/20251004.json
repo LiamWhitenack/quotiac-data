@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "give me liberty, or give me death!",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'color-filter', 'b': 'log-in', 'm': 'invert-mode', 'e': 'sunny', 'l': 'call', 'a': 'fish', 'v': 'flash-off', 'i': 'car', 'r': 'code-download', 'g': 'download', 'o': 'rose', 'd': 'bag', 'y': 'eye-off', 'h': 'code-slash'}",
+  "other_info": "{'Author': 'Patrick Henry'}"
+}
