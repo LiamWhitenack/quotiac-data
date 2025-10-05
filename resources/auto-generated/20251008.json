@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "the shovel was a ground breaking invention.  ",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'flame', 'o': 'bag-remove', 'l': 'menu', 'k': 'bookmark', 'b': 'receipt', 't': 'duplicate', 'w': 'list', 's': 'document-text', 'u': 'color-filter', 'i': 'rainy', 'd': 'business', 'g': 'mail-open', 'h': 'chatbubble-ellipses', 'a': 'time', 'e': 'calculator', 'n': 'stop', 'v': 'star'}",
+  "other_info": "{}"
+}
