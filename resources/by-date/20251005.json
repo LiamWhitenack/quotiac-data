@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and them that take the sword shall perish by the sword.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'trash', 'y': 'partly-sunny', 'i': 'easel', 'b': 'barbell', 'w': 'document-text', 'k': 'nutrition', 'l': 'apps', 'a': 'hammer', 'p': 'reader', 'd': 'beer', 'h': 'warning', 'e': 'shuffle', 'r': 'snow', 'm': 'chatbubble', 'n': 'bicycle', 's': 'ice-cream', 't': 'heart'}",
+  "other_info": "{'Author': 'The Bible, Matthew'}"
+}

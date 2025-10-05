@@ -372,7 +372,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "And them that take the sword shall perish by the sword.",
     "author": "The Bible, Matthew",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
