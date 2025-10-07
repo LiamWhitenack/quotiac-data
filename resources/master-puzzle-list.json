@@ -531,7 +531,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "What gunpowder did for war, the printing press has done for the mind.",
     "author": "Wendell Phillips",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",

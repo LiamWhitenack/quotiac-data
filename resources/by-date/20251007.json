@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "what gunpowder did for war, the printing press has done for the mind.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'color-palette', 'u': 'battery-charging', 'g': 'calculator', 'i': 'bag-check', 'w': 'ear', 'a': 'rose', 'p': 'map', 'd': 'cloud-done', 'h': 'chevron-up', 'e': 'sad', 'r': 'radio', 'm': 'library', 'n': 'fish', 's': 'flower', 't': 'bag-remove', 'f': 'heart-half'}",
+  "other_info": "{'Author': 'Wendell Phillips'}"
+}
