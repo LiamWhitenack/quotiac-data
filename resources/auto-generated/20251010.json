@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "\u201cbe yourself; everyone else is already taken.\u201d",
+  "hints": "[{'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'rainy', 'e': 'body', 'o': 'flame', 'f': 'subway', 'r': 'trash', 'n': 'watch', 's': 'resize', 'l': 'today', 'v': 'newspaper', 'a': 'menu', 'k': 'recording', 'b': 'happy', 'u': 'open', 'y': 'egg', 't': 'options', 'd': 'snow'}",
+  "other_info": "{'Author': 'Oscar Wilde'}"
+}
