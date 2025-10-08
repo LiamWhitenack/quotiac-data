@@ -537,7 +537,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "There is no wealth like knowledge, no poverty like ignorance.",
     "author": "Ali ibn Abi Talib",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
