@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "why don't you make like a tree and get outta here",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'d': 'star', 'u': 'scan', 'y': 'book', 'o': 'earth', 'k': 'save', 'e': 'cafe', 'w': 'color-wand', 't': 'log-in', 'r': 'cloud-offline', 'i': 'basket', 'n': 'umbrella', 'm': 'cloud-upload', 'h': 'bag', 'a': 'paw', 'l': 'flower', 'g': 'document-lock'}",
+  "other_info": "{'Character Name': 'Biff Tannen', 'Source': 'Back to The Future Part II', 'Date': '1989'}"
+}
