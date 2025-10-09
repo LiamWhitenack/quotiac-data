@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i have to remind myself that some birds aren\u2019t meant to be caged. their feathers are just too bright.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'c': 'chatbubble', 'j': 'duplicate', 'g': 'pizza', 'b': 'shirt', 'i': 'bed', 'l': 'hammer', 'r': 'code-working', 't': 'move', 'm': 'sad', 'a': 'copy', 'e': 'fish', 'h': 'telescope', 'y': 'chevron-forward', 'u': 'fast-food', 's': 'trophy', 'd': 'briefcase', 'f': 'body', 'v': 'refresh', 'o': 'flashlight', 'n': 'add'}",
+  "other_info": "{'Character Name': 'Red', 'Source': 'The Shawshank Redemption', 'Date': '1994'}"
+}

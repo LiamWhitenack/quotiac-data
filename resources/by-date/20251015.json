@@ -1,7 +1,0 @@
-{
-  "puzzle_type": "Quote",
-  "string_to_encrypt": "there is no wealth like knowledge, no poverty like ignorance.",
-  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}]",
-  "encryption_map": "{'o': 'school', 'y': 'planet', 'i': 'accessibility', 'g': 'gift', 'w': 'warning', 'c': 'chevron-up', 'k': 'rainy', 'l': 'sad', 'a': 'egg', 'p': 'build', 'd': 'game-controller', 'h': 'code-download', 'e': 'resize', 'r': 'female', 'n': 'today', 's': 'extension-puzzle', 't': 'glasses', 'v': 'book'}",
-  "other_info": "{'Author': 'Ali ibn Abi Talib'}"
-}

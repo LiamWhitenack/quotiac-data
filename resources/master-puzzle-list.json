@@ -258,7 +258,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "You shouldn't believe everything you see on the internet.",
     "author": "Abraham Lincoln",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -854,7 +854,7 @@
     "puzzle_type": "Film Quote",
     "string_to_encrypt": "I have to remind myself that some birds aren\u2019t meant to be caged. Their feathers are just too bright.",
     "length": 101,
-    "used": false,
+    "used": true,
     "character_name": "Red",
     "source": "The Shawshank Redemption",
     "date": "1994"

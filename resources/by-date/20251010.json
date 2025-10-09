@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "you shouldn't believe everything you see on the internet.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'chatbox-ellipses', 'o': 'resize', 'e': 'chevron-collapse', 'b': 'chatbox', 's': 'code-working', 'i': 'link', 'h': 'add', 'n': 'trash', 'y': 'accessibility', 'd': 'pizza', 'l': 'gift', 'v': 'subway', 'r': 'cloud', 't': 'color-fill', 'u': 'locate'}",
+  "other_info": "{'Author': 'Abraham Lincoln'}"
+}

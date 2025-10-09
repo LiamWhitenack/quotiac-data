@@ -1,15 +1,14 @@
 import inspect
-import types
-from typing import get_args, get_origin
-import typing
-from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
-from codiac_sandbox.puzzle_types import CryptographBase
-
-
 import json
+import types
+import typing
+from typing import get_args, get_origin
+
+from codiac_sandbox.puzzle_types import CryptographBase
+from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
 
 
-def save_puzzle(cls: type[CryptographBase], kwargs: dict[str, str]) -> None:
+def save_puzzle(cls: type[CryptographBase], kwargs: dict[str, str | list[str]]) -> None:
     with open("resources/master-puzzle-list.json") as f:
         obj = cls(**kwargs)  # type: ignore[arg-type]
         add_to = json.load(f)

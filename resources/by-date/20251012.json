@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Pancakes Ingredients",
+  "string_to_encrypt": "^flour^ ^baking powder^ ^egg^ ^milk^ ^butter^ ^sugar^ ^salt^",
+  "hints": "[{'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'keypad', 'k': 'warning', 'w': 'receipt', 'o': 'calendar', 'a': 'beer', 'e': 'chatbubble', 'b': 'color-fill', 's': 'caret-up', 'i': 'globe', 'l': 'snow', 'd': 'eye', 'f': 'cloudy-night', 'n': 'flag', 'r': 'heart', 't': 'card', 'u': 'rose', 'm': 'shield', 'p': 'bag-check'}",
+  "elements": "['Flour', 'Baking Powder', 'Egg', 'Milk', 'Butter', 'Sugar', 'Salt']",
+  "other_info": "{}"
+}

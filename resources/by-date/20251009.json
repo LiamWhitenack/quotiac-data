@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what happens when a frog's car breaks down? it gets toad.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'checkbox', 'w': 'library', 'o': 'desktop', 'a': 'at', 'e': 'cellular', 'b': 'bus', 's': 'call', 'i': 'american-football', 'h': 'clipboard', 'c': 'caret-back', 'd': 'play-forward', 'f': 'construct', 'n': 'create', 'r': 'refresh', 't': 'hand-left', 'k': 'pie-chart', 'p': 'grid'}",
+  "other_info": "{}"
+}
