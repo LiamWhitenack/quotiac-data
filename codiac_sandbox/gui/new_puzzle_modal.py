@@ -1,20 +1,20 @@
 import inspect
 
 from PySide6.QtWidgets import (
+    QComboBox,
     QDialog,
-    QVBoxLayout,
     QFormLayout,
     QLabel,
     QLineEdit,
-    QTextEdit,
-    QComboBox,
     QPushButton,
+    QSizePolicy,
+    QTextEdit,
+    QVBoxLayout,
     QWidget,
 )
 
 from codiac_sandbox.crud.create import get_puzzle_parameters, save_puzzle
 from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
-from PySide6.QtWidgets import QSizePolicy
 
 
 class AddPuzzleDialog(QDialog):
@@ -51,23 +51,59 @@ class AddPuzzleDialog(QDialog):
         self.update_form(self.type_selector.currentText())
 
     def update_form(self, puzzle_type: str):
+        # Clear previous form
         while self.form_layout.count():
             item = self.form_layout.takeAt(0)
             if widget := item.widget():
                 widget.setParent(None)
 
-        self.fields: dict[str, QLineEdit | QTextEdit] = {}
+        self.fields: dict[str, QLineEdit | QTextEdit | list[QLineEdit]] = {}
 
         for name, param in get_puzzle_parameters(puzzle_type).items():  # type: ignore
             if name == "used":
                 continue
-            field: QLineEdit = QLineEdit()
-            if name in ["quote", "lyrics", "question", "phrase"]:
-                field.setFixedHeight(300)
-            field.setFixedWidth(300)
 
-            # Make fields stretch horizontally
-            field.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)  # type: ignore[attr-defined]
+            # Handle List/Set types with dynamic entry fields
+            if puzzle_type in {"List", "Set"} and param.annotation in (
+                list[str],
+                set[str],
+            ):
+                container = QWidget()
+                v_layout = QVBoxLayout(container)
+                v_layout.setContentsMargins(0, 0, 0, 0)
+                v_layout.setSpacing(4)
+
+                entries: list[QLineEdit] = []
+
+                def add_entry():
+                    entry = QLineEdit()
+                    entry.setPlaceholderText("str")
+                    entry.setFixedWidth(300)
+                    entry.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
+                    v_layout.insertWidget(v_layout.count() - 1, entry)
+                    entries.append(entry)
+
+                add_button = QPushButton("Add Item")
+                add_button.clicked.connect(add_entry)
+
+                # Start with one entry field
+                add_entry()
+                v_layout.addWidget(add_button)
+
+                self.fields[name] = entries
+                self.form_layout.addRow(QLabel(name), container)
+                continue
+
+            # Regular single-line or multi-line field
+            field: QLineEdit | QTextEdit
+            if name in ["quote", "lyrics", "question", "phrase"]:
+                field = QTextEdit()
+                field.setFixedHeight(300)
+            else:
+                field = QLineEdit()
+
+            field.setFixedWidth(300)
+            field.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Fixed)
 
             placeholder = (
                 str(param.annotation)
@@ -81,8 +117,17 @@ class AddPuzzleDialog(QDialog):
             self.form_layout.addRow(QLabel(name), field)
 
     def save_puzzle(self) -> None:
-        save_puzzle(
-            PUZZLE_CLASSES[self.type_selector.currentText()],
-            {k: v.text() for k, v in self.fields.items()},  # type: ignore
-        )
-        self.update_form(self.type_selector.currentText())
+        puzzle_type = self.type_selector.currentText()
+
+        # Convert all field values properly
+        data: dict[str, str | list[str]] = {}
+        for key, value in self.fields.items():
+            if isinstance(value, list):  # for List/Set types
+                data[key] = [v.text() for v in value if v.text().strip()]
+            elif hasattr(value, "toPlainText"):  # QTextEdit
+                data[key] = value.toPlainText()
+            else:  # QLineEdit
+                data[key] = value.text()
+
+        save_puzzle(PUZZLE_CLASSES[puzzle_type], data)
+        self.update_form(puzzle_type)

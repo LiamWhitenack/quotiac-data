@@ -50,8 +50,16 @@ class CryptographBase(ABC):
             res = {}
             for key in ["used"]:
                 del data[key]
-            for key in ["puzzle_type", "string_to_encrypt", "hints", "encryption_map"]:
-                res[key] = data.pop(key)
+            never_save_keys = [
+                "puzzle_type",
+                "string_to_encrypt",
+                "hints",
+                "encryption_map",
+            ]
+            specific_ignore_save_keys = ["elements", "question_answer"]
+            for key in never_save_keys + specific_ignore_save_keys:
+                if key in data:
+                    res[key] = data.pop(key)
 
             res["other_info"] = {
                 k.replace("_", " ").title(): str(v)
@@ -241,6 +249,44 @@ class SongLyrics(CryptographBase):
             artist=data["artist"],
             title=data["title"],
             date=data["date"],
+            used=data["used"],
+        )
+
+
+class List(CryptographBase):
+    def __init__(
+        self,
+        title: str,
+        elements: list[str],
+        used: bool = False,
+    ) -> None:
+        super().__init__(f"^{'^ ^'.join(elements)}^", title, used=used)
+        self.elements = elements
+
+    @classmethod
+    def from_json(cls, data: dict[str, Any]) -> Self:
+        return cls(
+            title=data["puzzle_type"],
+            elements=data["elements"],
+            used=data["used"],
+        )
+
+
+class Set(CryptographBase):
+    def __init__(
+        self,
+        title: str,
+        elements: list[str],
+        used: bool = False,
+    ) -> None:
+        super().__init__(f"^{'^ ^'.join(elements)}^", title, used=used)
+        self.elements = elements
+
+    @classmethod
+    def from_json(cls, data: dict[str, Any]) -> Self:
+        return cls(
+            title=data["puzzle_type"],
+            elements=data["elements"],
             used=data["used"],
         )
 
