@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Pancakes Ingredients",
+  "string_to_encrypt": "^flour^ ^baking powder^ ^egg^ ^milk^ ^butter^ ^sugar^ ^salt^",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'storefront', 'r': 'eye-off', 'a': 'color-fill', 'w': 'create', 's': 'ice-cream', 'b': 'construct', 'u': 'fast-food', 'g': 'repeat', 'n': 'bicycle', 'f': 'build', 'e': 'game-controller', 'p': 'bus', 'm': 'navigate', 'd': 'checkmark-done', 'i': 'cloud-upload', 'k': 'documents', 'l': 'shirt', 'o': 'scan'}",
+  "elements": "['Flour', 'Baking Powder', 'Egg', 'Milk', 'Butter', 'Sugar', 'Salt']",
+  "other_info": "{}"
+}

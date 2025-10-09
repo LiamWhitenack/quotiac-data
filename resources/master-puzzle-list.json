@@ -1740,5 +1740,23 @@
     "used": false,
     "author": "Katt Williams (Paraphrased)",
     "date": null
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Pancakes Ingredients",
+    "string_to_encrypt": "^Flour^ ^Baking Powder^ ^Egg^ ^Milk^ ^Butter^ ^Sugar^ ^Salt^",
+    "length": 60,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Flour",
+      "Baking Powder",
+      "Egg",
+      "Milk",
+      "Butter",
+      "Sugar",
+      "Salt"
+    ]
   }
 ]
