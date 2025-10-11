@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "true glory consists in doing what deserves to be written; in writing what deserves to be read.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'reload', 'i': 'man', 'g': 'build', 'n': 'medical', 'h': 'megaphone', 'v': 'football', 't': 'settings', 'w': 'invert-mode', 'b': 'flame', 'a': 'heart-half', 'c': 'magnet', 'r': 'play-back', 'e': 'pint', 'o': 'exit', 'd': 'umbrella', 'u': 'cloud', 'l': 'enter', 's': 'film'}",
+  "other_info": "{'Author': 'Pliny the Elder'}"
+}
