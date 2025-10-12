@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "remember, red, hope is a good thing, maybe the best of things, and no good thing ever dies.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'e': 'male', 'r': 'airplane', 't': 'trash', 'p': 'list', 'd': 'bag-handle', 'o': 'ticket', 'h': 'home', 'y': 'glasses', 'f': 'battery-charging', 'n': 'storefront', 's': 'earth', 'a': 'subway', 'v': 'remove', 'g': 'layers', 'b': 'headset', 'i': 'chevron-collapse', 'm': 'scale'}",
+  "other_info": "{'Character Name': 'Andy Dufresne', 'Source': 'The Shawshank Redemption', 'Date': '1994'}"
+}
