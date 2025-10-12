@@ -27,10 +27,10 @@ THEME = [
     "Fact",  # Monday
     "Historical",  # Tuesday
     "Wisdom",  # Wednesday
-    "Riddle/Joke",  # Thursday
+    "List/Set",  # Thursday
     "Wildcard",  # Friday
     "Literature/Film",  # Saturday
-    "Religious",  # Sunday
+    "Riddle/Joke",  # Sunday
 ]
 
 
