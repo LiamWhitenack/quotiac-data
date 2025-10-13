@@ -1193,7 +1193,7 @@
     "length": 88,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",

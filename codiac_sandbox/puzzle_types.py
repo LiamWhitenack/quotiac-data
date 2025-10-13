@@ -279,6 +279,7 @@ class Set(CryptographBase):
         elements: list[str],
         used: bool = False,
     ) -> None:
+        random.shuffle(elements)
         super().__init__(f"^{'^ ^'.join(elements)}^", title, used=used)
         self.elements = elements
 
