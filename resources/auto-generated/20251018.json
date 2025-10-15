@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i will to my lord be true and faithful, and love all which he loves and shun all which he shuns.",
+  "hints": "[{'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'card', 'e': 'flower', 'b': 'cloud', 'l': 'toggle', 'd': 'bus', 'a': 'journal', 'w': 'chatbox', 'n': 'repeat', 'v': 'chevron-up', 'f': 'american-football', 'r': 'color-fill', 'i': 'location', 'o': 'navigate', 'h': 'map', 's': 'speedometer', 'm': 'heart-dislike', 'c': 'people', 'u': 'bag-add', 'y': 'heart'}",
+  "other_info": "{'Author': 'Anglo Saxon Oath of Fealty'}"
+}
