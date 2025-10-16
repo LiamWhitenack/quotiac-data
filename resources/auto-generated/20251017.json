@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "everything is worth what its purchaser will pay for it.",
+  "hints": "[{'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'moon', 's': 'bag', 'u': 'boat', 'h': 'megaphone', 't': 'at', 'f': 'restaurant', 'v': 'bag-handle', 'l': 'checkmark-done', 'i': 'extension-puzzle', 'p': 'options', 'o': 'film', 'w': 'ribbon', 'e': 'cloud-upload', 'g': 'shapes', 'n': 'cube', 'c': 'bus', 'r': 'color-wand', 'y': 'shield'}",
+  "other_info": "{'Author': 'Publius Syrus'}"
+}
