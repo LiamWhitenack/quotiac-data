@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "why can't dinosaurs clap their hands? because they're extinct.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'x', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'bookmark', 'u': 'menu', 'y': 'globe', 'c': 'warning', 't': 'aperture', 'p': 'keypad', 's': 'caret-back', 'x': 'code', 'n': 'infinite', 'w': 'reader', 'b': 'book', 'a': 'flower', 'i': 'map', 'l': 'business', 'e': 'caret-forward', 'h': 'location', 'd': 'snow', 'o': 'sparkles'}",
+  "other_info": "{}"
+}

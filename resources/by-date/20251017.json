@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "it doesn't matter if you're tall or short, thin or fat, rich or poor, at the end of the day, it's night.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'code-working', 'u': 'pin', 'm': 'ice-cream', 'y': 'apps', 'g': 'hourglass', 'c': 'airplane', 't': 'leaf', 'p': 'pizza', 's': 'trophy', 'n': 'person', 'a': 'notifications', 'i': 'extension-puzzle', 'l': 'golf', 'f': 'business', 'e': 'lock-open', 'h': 'nuclear', 'd': 'disc', 'o': 'watch'}",
+  "other_info": "{}"
+}

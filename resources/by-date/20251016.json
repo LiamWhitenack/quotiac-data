@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Natural Sources of Caffeine",
+  "string_to_encrypt": "^cocoa beans^ ^guarana berries^ ^coffee beans^ ^tea leaves^ ^kola nuts^",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'documents', 'k': 'walk', 'u': 'warning', 'v': 'cloud-offline', 'g': 'chatbox-ellipses', 'c': 'toggle', 't': 'caret-forward', 's': 'today', 'n': 'checkmark', 'b': 'navigate', 'a': 'chevron-expand', 'i': 'document', 'l': 'newspaper', 'f': 'chatbubbles', 'e': 'bandage', 'o': 'code-working'}",
+  "elements": "['Cocoa Beans', 'Guarana Berries', 'Coffee Beans', 'Tea Leaves', 'Kola Nuts']",
+  "other_info": "{}"
+}

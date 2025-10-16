@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the earth is the cradle of the mind, but one cannot eternally live in a cradle.",
+  "hints": "[{'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'easel', 'u': 'business', 'm': 'star', 'y': 'remove', 'v': 'ice-cream', 'c': 'eye-off', 't': 'caret-back', 's': 'search', 'n': 'bag-handle', 'b': 'rocket', 'a': 'bag-remove', 'i': 'fish', 'l': 'call', 'f': 'chatbubble-ellipses', 'e': 'rose', 'h': 'cloud-done', 'd': 'receipt', 'o': 'eye'}",
+  "other_info": "{'Author': 'Konstantin E. Tsiolkovsky'}"
+}

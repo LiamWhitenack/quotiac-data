@@ -150,7 +150,7 @@
     "type": "GeneralPhrase",
     "puzzle_type": "General Quote",
     "string_to_encrypt": "It doesn't matter if you're tall or short, thin or fat, rich or poor, at the end of the day, it's night.",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -408,7 +408,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "Some books are to be tasted, others to be swallowed, and some few to be chewed and digested.",
     "author": "Sir Francis Bacon",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -693,7 +693,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "The Earth is the cradle of the mind, but one cannot eternally live in a cradle.",
     "author": "Konstantin E. Tsiolkovsky",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1638,7 +1638,7 @@
     "length": 76,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Terence Fletcher",
     "source": "Whiplash",
     "date": "2014"
@@ -1758,5 +1758,30 @@
       "Sugar",
       "Salt"
     ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Natural Sources of Caffeine",
+    "string_to_encrypt": "^Guarana Berries^ ^Kola Nuts^ ^Cocoa Beans^ ^Coffee Beans^ ^Tea Leaves^",
+    "length": 71,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "Guarana Berries",
+      "Kola Nuts",
+      "Cocoa Beans",
+      "Coffee Beans",
+      "Tea Leaves"
+    ]
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Why can't dinosaurs clap their hands? Because they're extinct.",
+    "length": 62,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
   }
 ]
