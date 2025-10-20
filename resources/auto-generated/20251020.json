@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "a multitude of rulers is not a good thing. let there be one ruler, one king.",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'happy', 'b': 'heart-dislike', 's': 'repeat', 'e': 'ear', 'h': 'leaf', 'm': 'pie-chart', 't': 'map', 'r': 'resize', 'a': 'send', 'k': 'chatbubbles', 'd': 'chevron-collapse', 'g': 'flower', 'l': 'locate', 'i': 'help-buoy', 'f': 'invert-mode', 'n': 'backspace', 'u': 'heart'}",
+  "other_info": "{'Author': \"Herodotus (Although, this sentence can be found at Homer's Iliad, in a speech from Ulysses)\"}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the average person blinks 14 to 17 times per minute.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'n': 'subway', 'l': 'scale', 'v': 'shuffle', 'h': 'code-slash', 'k': 'checkmark-done', 'g': 'camera', 'i': 'battery-charging', 'u': 'chatbox-ellipses', 's': 'expand', 'e': 'desktop', 'o': 'bag', 'r': 'resize', 'b': 'cellular', 'm': 'brush', 'a': 'sparkles', 't': 'telescope', 'p': 'umbrella'}",
+  "other_info": "{}"
+}
