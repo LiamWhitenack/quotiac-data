@@ -79,11 +79,18 @@ class DateSelectorWidget(QWidget):
                 self.message_list.addItem(json.load(f)["string_to_encrypt"])
 
     def confirm_date(self, puzzle: CryptographBase) -> None:
+        def equivalent(str1: str, str2: str) -> bool:
+            if "^" not in str1:
+                return str1 == str2
+            return sorted(str1.split()) == sorted(str2.split())
+
         save_as_new_file(puzzle=puzzle, date=self.date_edit.date())
         with open("resources/master-puzzle-list.json") as f:
             puzzles = json.load(f)
             puzzle_data = next(
-                p for p in puzzles if p["string_to_encrypt"] == puzzle.string_to_encrypt
+                p
+                for p in puzzles
+                if equivalent(p["string_to_encrypt"], puzzle.string_to_encrypt)
             )
             puzzle_data["used"] = True
         with open("resources/master-puzzle-list.json", "w") as f:
