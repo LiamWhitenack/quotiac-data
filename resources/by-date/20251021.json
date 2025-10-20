@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "one day every major city in america will have a telephone.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'j': 'checkmark', 'd': 'fitness', 'l': 'hand-left', 'i': 'cloud-download', 'm': 'reader', 'n': 'basketball', 'r': 'medical', 'h': 'stop', 'c': 'planet', 'e': 'infinite', 'o': 'construct', 'a': 'card', 't': 'ribbon', 'y': 'ban', 'v': 'glasses', 'w': 'boat', 'p': 'man'}",
+  "other_info": "{'Author': 'Alexander Graham Bell'}"
+}

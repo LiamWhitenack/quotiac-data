@@ -138,7 +138,7 @@
     "character_name": "Buzz Lightyear",
     "source": "Toy Story",
     "date": "1995",
-    "used": false
+    "used": true
   },
   {
     "type": "GeneralPhrase",
@@ -252,7 +252,7 @@
     "source": "The Gettysburg Address",
     "author": "Abraham Lincoln",
     "date": "1863",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -288,7 +288,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "If you chase two rabbits, you will lose them both.",
     "author": "Native American Saying",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1517,7 +1517,7 @@
     "length": 100,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1783,5 +1783,50 @@
     "encryption_map": null,
     "hints": null,
     "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "One day every major city in America will have a telephone.",
+    "length": 58,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Alexander Graham Bell",
+    "date": null
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Barbeque Meats",
+    "string_to_encrypt": "^Sausage^ ^Pork^ ^Brisket^ ^Chicken^ ^Turkey^ ^Ribs^",
+    "length": 52,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Sausage",
+      "Pork",
+      "Brisket",
+      "Chicken",
+      "Turkey",
+      "Ribs"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Types of Hard Liquor",
+    "string_to_encrypt": "^Whiskey^ ^Gin^ ^Vodka^ ^Brandy^ ^Tequila^ ^Rum^",
+    "length": 48,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "Whiskey",
+      "Gin",
+      "Vodka",
+      "Brandy",
+      "Tequila",
+      "Rum"
+    ]
   }
 ]

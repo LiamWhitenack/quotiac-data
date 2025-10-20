@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "instead of being sucked all the way in, quicksand victims will float once they get about waist deep.",
+  "hints": "[{'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'d': 'contrast', 'm': 'watch', 'b': 'eyedrop', 'e': 'sunny', 'w': 'medkit', 'l': 'notifications-off', 'h': 'calendar', 'c': 'browsers', 'v': 'ribbon', 'q': 'repeat', 'p': 'caret-up', 'a': 'square', 'o': 'beaker', 't': 'baseball', 'y': 'sparkles', 'i': 'train', 'n': 'bag-remove', 'f': 'settings', 'g': 'egg', 'k': 'chatbox-ellipses', 'u': 'flame', 's': 'server'}",
+  "other_info": "{}"
+}

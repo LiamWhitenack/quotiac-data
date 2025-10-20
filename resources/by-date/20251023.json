@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Barbeque Meats",
+  "string_to_encrypt": "^sausage^ ^pork^ ^ribs^ ^chicken^ ^turkey^ ^brisket^",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'easel', 'b': 'document-lock', 'g': 'calculator', 's': 'remove', 'k': 'magnet', 't': 'ellipsis-horizontal', 'e': 'film', 'o': 'cloudy-night', 'h': 'chevron-collapse', 'i': 'happy', 'r': 'link', 'u': 'unlink', 'p': 'shield', 'c': 'at', 'n': 'wallet', 'a': 'leaf'}",
+  "elements": "['Sausage', 'Pork', 'Ribs', 'Chicken', 'Turkey', 'Brisket']",
+  "other_info": "{}"
+}

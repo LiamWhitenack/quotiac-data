@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "this isn't flying, this is falling with style!",
+  "hints": "[{'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'eye-off', 'f': 'chatbubble-ellipses', 'g': 'walk', 's': 'fast-food', 'w': 'megaphone', 'e': 'gift', 't': 'male', 'h': 'person', 'i': 'location', 'l': 'rainy', 'n': 'caret-down', 'a': 'at'}",
+  "other_info": "{'Character Name': 'Buzz Lightyear', 'Source': 'Toy Story', 'Date': '1995'}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "if you chase two rabbits, you will lose them both.",
+  "hints": "[{'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'play-back', 'l': 'cloudy-night', 'i': 'library', 'm': 'crop', 'b': 'walk', 'r': 'people', 'h': 'globe', 'f': 'copy', 'c': 'bag', 'e': 'refresh', 'u': 'eye-off', 'o': 'scan', 't': 'chevron-expand', 'a': 'bed', 'y': 'wifi', 'w': 'planet'}",
+  "other_info": "{'Author': 'Native American Saying'}"
+}
