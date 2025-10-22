@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "there's no place like home. there's no place like home. there's no place like home.",
+  "hints": "[{'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'flame', 'm': 'trophy', 'h': 'options', 'n': 'egg', 'e': 'bag', 's': 'build', 'l': 'remove', 'o': 'color-fill', 'k': 'grid', 'c': 'warning', 'i': 'hand-left', 'a': 'scale', 't': 'pin', 'r': 'compass'}",
+  "other_info": "{'Character Name': 'Dorothy Gale', 'Source': 'Wizard of Oz', 'Date': '1939'}"
+}
