@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the only thing worse than being talked about is not being talked about.",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'server', 'g': 'chatbox', 'u': 'car', 'y': 'reader', 'k': 'globe', 'l': 'newspaper', 'a': 'man', 'o': 'speedometer', 'e': 'extension-puzzle', 'h': 'library', 'n': 'sunny', 't': 'hammer', 's': 'code', 'b': 'radio', 'd': 'ear', 'w': 'locate', 'r': 'warning'}",
+  "other_info": "{'Author': 'Oscar Wilde'}"
+}
