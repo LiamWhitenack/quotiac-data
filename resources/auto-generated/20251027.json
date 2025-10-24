@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the liver is the only human organ that can fully regenerate itself.",
+  "hints": "[{'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'h': 'storefront', 'v': 'female', 'y': 'construct', 'c': 'cog', 'f': 'code-slash', 'o': 'invert-mode', 'u': 'male', 'n': 'remove', 'g': 'bag-handle', 'l': 'notifications-off', 'r': 'boat', 't': 'ellipsis-horizontal', 'e': 'document-text', 'i': 'time', 'a': 'play-forward', 's': 'cash', 'm': 'fish'}",
+  "other_info": "{}"
+}
