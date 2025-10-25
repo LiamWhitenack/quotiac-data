@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "nothing in life is to be feared, it is only to be understood. now is the time to understand more, so that we may fear less.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'wine', 'e': 'cart', 'l': 'browsers', 'g': 'trophy', 'o': 'navigate', 'u': 'code-download', 'i': 'eyedrop', 'n': 'heart-dislike', 'd': 'restaurant', 'h': 'cash', 'm': 'expand', 't': 'globe', 'b': 'flash', 'w': 'call', 'f': 'cellular', 'r': 'at', 's': 'disc', 'y': 'open'}",
+  "other_info": "{'Author': 'Marie Curie'}"
+}
