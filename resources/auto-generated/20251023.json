@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and them that take the sword shall perish by the sword.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'y': 'boat', 'a': 'flag', 'b': 'shirt', 'o': 'scale', 'e': 'chevron-back', 't': 'pizza', 'd': 'download', 'k': 'camera', 'n': 'happy', 'l': 'heart-dislike', 'r': 'trash', 's': 'create', 'w': 'eyedrop', 'h': 'document', 'i': 'heart-half', 'm': 'trophy', 'p': 'attach'}",
+  "other_info": "{'Author': 'The Bible, Matthew'}"
+}
