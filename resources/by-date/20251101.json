@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "do or do not, there is no try",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'game-controller', 'h': 'fish', 't': 'move', 'e': 'chevron-expand', 'n': 'calendar', 's': 'airplane', 'd': 'cloud-download', 'r': 'cloudy-night', 'o': 'attach', 'y': 'beaker'}",
+  "other_info": "{'Character Name': 'Yoda', 'Source': 'Star Wars: The Empire Strikes Back', 'Date': '1980'}"
+}

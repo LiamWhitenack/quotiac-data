@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "we will make electricity so cheap that only the rich will burn candles.",
+  "hints": "[{'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'caret-down', 'o': 'rocket', 'm': 'library', 'l': 'heart', 'y': 'ribbon', 't': 'send', 'e': 'cube', 'd': 'nuclear', 'b': 'notifications', 'k': 'flash', 'w': 'caret-up', 'i': 'pie-chart', 'p': 'location', 'u': 'construct', 'h': 'bag-remove', 'n': 'paper-plane', 's': 'heart-dislike', 'a': 'bag-check', 'c': 'mail-open'}",
+  "other_info": "{'Author': 'Thomas Edison'}"
+}

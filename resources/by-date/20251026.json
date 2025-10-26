@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what\u2019s red and bad for your teeth? a brick",
+  "hints": "[{'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'i': 'trophy', 'h': 'analytics', 't': 'pizza', 'e': 'fish', 'f': 'card', 's': 'remove', 'a': 'headset', 'd': 'refresh', 'n': 'chatbubble', 'b': 'time', 'r': 'battery-charging', 'o': 'cellular', 'k': 'navigate', 'u': 'cube', 'w': 'speedometer', 'y': 'compass', 'c': 'checkbox'}",
+  "other_info": "{}"
+}

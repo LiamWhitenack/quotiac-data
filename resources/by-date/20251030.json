@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Types of Hard Liquor",
+  "string_to_encrypt": "^tequila^ ^whiskey^ ^vodka^ ^brandy^ ^gin^ ^rum^",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'cloud-download', 'o': 'checkmark', 'm': 'magnet', 'l': 'bag-handle', 'y': 'color-fill', 'g': 'caret-down', 't': 'compass', 'e': 'fast-food', 'd': 'checkbox', 'b': 'square', 'k': 'card', 'w': 'recording', 'i': 'flag', 'u': 'options', 'h': 'documents', 'n': 'nuclear', 's': 'barcode', 'a': 'bug', 'q': 'body', 'v': 'nutrition'}",
+  "elements": "['Tequila', 'Whiskey', 'Vodka', 'Brandy', 'Gin', 'Rum']",
+  "other_info": "{}"
+}

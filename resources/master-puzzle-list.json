@@ -675,7 +675,7 @@
     "type": "DirectQuote",
     "string_to_encrypt": "We will make electricity so cheap that only the rich will burn candles.",
     "author": "Thomas Edison",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -828,7 +828,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "there's no harm in hoping for the best as long as you're prepared for the worst.",
     "length": 80,
-    "used": false,
+    "used": true,
     "author": "Stephen King"
   },
   {
@@ -978,7 +978,7 @@
     "puzzle_type": "Film Quote",
     "string_to_encrypt": "Do or do not, there is no try",
     "length": 31,
-    "used": false,
+    "used": true,
     "character_name": "Yoda",
     "source": "Star Wars: The Empire Strikes Back",
     "date": "1980"
@@ -1139,7 +1139,7 @@
     "length": 41,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1819,7 +1819,7 @@
     "length": 48,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "elements": [
       "Whiskey",
       "Gin",
@@ -1828,5 +1828,26 @@
       "Tequila",
       "Rum"
     ]
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "What\u2019s red and bad for your teeth? A brick",
+    "length": 42,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "it's now the monster mash and it's a graveyard smash it's caught on in a flash it's now the monster mash",
+    "length": 104,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "Bobby Pickett",
+    "title": "Hidden",
+    "date": "1962"
   }
 ]

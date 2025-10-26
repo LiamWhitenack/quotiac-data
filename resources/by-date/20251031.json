@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "it's now the monster mash and it's a graveyard smash it's caught on in a flash it's now the monster mash",
+  "hints": "[{'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'f': 'build', 'r': 'egg', 'o': 'code-download', 'm': 'briefcase', 'l': 'save', 'y': 'game-controller', 'g': 'school', 't': 'copy', 'e': 'settings', 'd': 'flash', 'w': 'heart-half', 'i': 'bug', 'u': 'bag-remove', 'h': 'walk', 'n': 'caret-forward', 's': 'cloud-download', 'a': 'cloud', 'v': 'chatbubble', 'c': 'compass'}",
+  "other_info": "{'Artist': 'Bobby Pickett', 'Title': 'Hidden', 'Date': '1962'}"
+}
