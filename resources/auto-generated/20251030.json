@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "\"from the heights of these pyramids, forty centuries look down on us\"",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'code-slash', 'h': 'mail-open', 'd': 'invert-mode', 's': 'radio', 'r': 'wallet', 'f': 'scan', 'i': 'extension-puzzle', 'e': 'trash', 'y': 'color-filter', 'c': 'build', 'n': 'medical', 'k': 'barbell', 'm': 'brush', 'a': 'color-fill', 'o': 'code-working', 't': 'paw', 'g': 'document-text', 'w': 'refresh', 'l': 'hand-left', 'u': 'chevron-up'}",
+  "other_info": "{'Author': 'Napoleon Bonaparte, to his troops in Egypt'}"
+}
