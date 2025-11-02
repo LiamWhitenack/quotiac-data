@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "a multitude of rulers is not a good thing. let there be one ruler, one king.",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'s': 'partly-sunny', 't': 'camera', 'a': 'boat', 'f': 'chevron-up', 'm': 'bandage', 'k': 'aperture', 'n': 'rainy', 'e': 'documents', 'u': 'shield', 'o': 'pint', 'i': 'basketball', 'h': 'nutrition', 'l': 'thunderstorm', 'd': 'water', 'b': 'newspaper', 'r': 'document', 'g': 'download'}",
+  "other_info": "{'Author': \"Herodotus (Although, this sentence can be found at Homer's Iliad, in a speech from Ulysses)\"}"
+}
