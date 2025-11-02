@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what do you get if you cross a joke with a rhetorical question?",
+  "hints": "[{'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'q', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'j': 'book', 'o': 'desktop', 'i': 'menu', 'k': 'cog', 's': 'planet', 'g': 'search', 'f': 'exit', 'h': 'restaurant', 'a': 'camera', 'l': 'backspace', 'w': 'bag-remove', 'u': 'egg', 'd': 'nuclear', 'q': 'browsers', 't': 'eyedrop', 'e': 'today', 'y': 'globe', 'c': 'layers', 'n': 'document-text', 'r': 'pizza'}",
+  "other_info": "{}"
+}

@@ -1849,5 +1849,14 @@
     "artist": "Bobby Pickett",
     "title": "Hidden",
     "date": "1962"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "What do you get if you cross a joke with a rhetorical question?",
+    "length": 63,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
   }
 ]
