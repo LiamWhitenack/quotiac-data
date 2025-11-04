@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it has been said that democracy is the worst form of government except all the others that have been tried.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'x', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'b': 'subway', 'o': 'contract', 'i': 'crop', 's': 'receipt', 'p': 'options', 'g': 'snow', 'v': 'water', 'f': 'gift', 'h': 'extension-puzzle', 'a': 'camera', 'l': 'remove', 'w': 'flashlight', 'd': 'reader', 't': 'medical', 'x': 'chatbox-ellipses', 'e': 'wallet', 'y': 'flag', 'c': 'code-slash', 'n': 'baseball', 'm': 'code-working', 'r': 'map'}",
+  "other_info": "{'Author': 'Winston Churchill'}"
+}

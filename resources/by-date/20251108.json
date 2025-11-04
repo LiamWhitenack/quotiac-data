@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "life moves pretty fast. if you don't stop and look around once in a while, you could miss it.",
+  "hints": "[{'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'o': 'paper-plane', 'i': 'extension-puzzle', 'k': 'keypad', 's': 'pie-chart', 'p': 'send', 'v': 'subway', 'f': 'speedometer', 'h': 'menu', 'a': 'play-forward', 'l': 'attach', 'w': 'chevron-back', 'u': 'color-palette', 'd': 'flashlight', 't': 'notifications', 'e': 'barcode', 'y': 'calculator', 'c': 'list', 'n': 'disc', 'm': 'body', 'r': 'mic'}",
+  "other_info": "{'Character Name': 'Ferris Bueller', 'Source': \"Ferris Bueller's Day Off\", 'Date': '1986'}"
+}

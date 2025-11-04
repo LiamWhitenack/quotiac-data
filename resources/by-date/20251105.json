@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "darkness cannot drive out darkness; only light can do that. hate cannot drive out hate; only love can do that.",
+  "hints": "[{'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'l': 'game-controller', 'e': 'scan', 'o': 'pin', 'u': 'heart-dislike', 'y': 'disc', 'i': 'cafe', 'd': 'rainy', 'h': 'exit', 'k': 'glasses', 'c': 'server', 's': 'business', 'n': 'baseball', 'r': 'medkit', 'g': 'man', 't': 'construct', 'a': 'beer', 'v': 'create'}",
+  "other_info": "{'Author': 'Martin Luther King Jr.'}"
+}

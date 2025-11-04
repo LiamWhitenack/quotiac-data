@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Planets",
+  "string_to_encrypt": "^neptune^ ^mercury^ ^jupiter^ ^saturn^ ^earth^ ^mars^ ^uranus^ ^venus^",
+  "hints": "[{'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'j', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'a': 'eyedrop', 'j': 'bed', 'e': 'hardware-chip', 'u': 'body', 'y': 'shield', 'i': 'people', 'h': 'film', 'c': 'caret-back', 's': 'bag-check', 'n': 'link', 'm': 'open', 'r': 'male', 'v': 'thunderstorm', 't': 'flask', 'p': 'chatbubbles'}",
+  "elements": "['Neptune', 'Mercury', 'Jupiter', 'Saturn', 'Earth', 'Mars', 'Uranus', 'Venus']",
+  "other_info": "{}"
+}

@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "why was 6 afraid of 7? because he 1ted 2 bring 3 knives 4 sur5al, but 6 knew 7 secretly h8ed him and didn't have be9 in10tions",
+  "hints": "[{'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'b': 'scan', 'o': 'partly-sunny', 'i': 'eye-off', 'k': 'happy', 's': 'heart-half', 'g': 'document-text', 'v': 'list', 'f': 'mic', 'h': 'nutrition', 'a': 'megaphone', 'l': 'funnel', 'w': 'toggle', 'u': 'documents', 'd': 'fast-food', 't': 'search', 'e': 'expand', 'y': 'trash', 'c': 'document', 'n': 'caret-back', 'm': 'bug', 'r': 'musical-note'}",
+  "other_info": "{}"
+}
