@@ -1,0 +1,8 @@
+{
+  "puzzle_type": "Pancakes Ingredients",
+  "string_to_encrypt": "^baking powder^ ^salt^ ^butter^ ^milk^ ^egg^ ^sugar^ ^flour^",
+  "hints": "[{'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'g': 'download', 'b': 'cube', 'd': 'paw', 's': 'american-football', 'p': 'cash', 'w': 'documents', 'k': 'bug', 'u': 'flash-off', 'o': 'pin', 'n': 'body', 'm': 'open', 't': 'search', 'i': 'basketball', 'r': 'cog', 'f': 'receipt', 'a': 'heart-half', 'l': 'train', 'e': 'videocam'}",
+  "elements": "['Baking Powder', 'Salt', 'Butter', 'Milk', 'Egg', 'Sugar', 'Flour']",
+  "other_info": "{}"
+}
