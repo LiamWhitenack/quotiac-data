@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "there is no wealth like knowledge, no poverty like ignorance.",
+  "hints": "[{'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'p': 'bag-add', 'd': 'receipt', 'y': 'water', 'i': 'wifi', 'v': 'mail-open', 'e': 'analytics', 'h': 'code-download', 'c': 'eyedrop', 'w': 'newspaper', 'a': 'cart', 's': 'filter', 'n': 'battery-charging', 'g': 'cloud-download', 'k': 'build', 'o': 'bed', 'r': 'document-text', 't': 'football', 'l': 'eye-off'}",
+  "other_info": "{'Author': 'Ali ibn Abi Talib'}"
+}
