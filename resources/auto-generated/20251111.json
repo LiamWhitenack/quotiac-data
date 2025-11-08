@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "hints": "[{'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'f': 'tv', 'r': 'enter', 's': 'basket', 'u': 'rose', 'v': 'document-text', 'i': 'funnel', 'm': 'contract', 'o': 'bug', 't': 'musical-note', 'g': 'calendar', 'n': 'unlink', 'h': 'document-lock', 'e': 'brush', 'a': 'backspace', 'd': 'female'}",
+  "other_info": "{}"
+}
