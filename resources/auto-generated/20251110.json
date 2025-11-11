@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the bureaucracy is expanding to meet the needs of the expanding bureaucracy",
+  "hints": "[{'letter': 'x', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'t': 'mic-off', 'r': 'options', 'c': 'ticket', 'p': 'color-fill', 'd': 'car', 'g': 'code-download', 'b': 'basketball', 'm': 'keypad', 'f': 'pin', 'n': 'flame', 'y': 'today', 'i': 'earth', 'o': 'receipt', 'u': 'cellular', 'x': 'call', 'e': 'medal', 'a': 'planet', 's': 'cloud-upload', 'h': 'move'}",
+  "other_info": "{'Author': 'Unknown'}"
+}

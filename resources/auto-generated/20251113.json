@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the average person blinks 14 to 17 times per minute.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'h': 'bar-chart', 'k': 'color-fill', 'r': 'server', 'u': 'boat', 's': 'caret-forward', 'g': 'play-back', 'v': 'settings', 'p': 'calendar', 'b': 'heart-half', 'a': 'nutrition', 'i': 'scale', 'o': 'speedometer', 'n': 'beer', 'm': 'barcode', 'e': 'basket', 'l': 'finger-print', 't': 'navigate'}",
+  "other_info": "{}"
+}

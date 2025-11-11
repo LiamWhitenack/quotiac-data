@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "words have the power to both destroy and heal. when words are both true and kind, they can change our world.",
+  "hints": "[{'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'k', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'p', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'k': 'finger-print', 'u': 'fish', 'l': 'cloudy-night', 'o': 'eye-off', 'g': 'locate', 'i': 'chevron-back', 'b': 'ear', 'v': 'eye', 'r': 'code', 'p': 'log-in', 'n': 'camera', 'y': 'trash', 'c': 'square', 'e': 'keypad', 'a': 'restaurant', 't': 'hammer', 'h': 'analytics', 'd': 'medkit', 'w': 'recording', 's': 'nuclear'}",
+  "other_info": "{'Author': 'The Buddha'}"
+}
