@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
+  "string_to_encrypt": "^browns^ ^lions^ ^texans^ ^jaguars^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "contract",
+    "s": "cart",
+    "l": "water",
+    "a": "shuffle",
+    "t": "attach",
+    "x": "train",
+    "j": "scale",
+    "b": "trophy",
+    "n": "person",
+    "r": "briefcase",
+    "i": "sad",
+    "w": "beer",
+    "e": "expand",
+    "o": "business",
+    "u": "heart-dislike"
+  },
+  "elements": [
+    "Browns",
+    "Lions",
+    "Texans",
+    "Jaguars"
+  ],
+  "other_info": {}
+}

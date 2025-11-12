@@ -1866,7 +1866,7 @@
     "length": 35,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "elements": [
       "Texans",
       "Browns",
