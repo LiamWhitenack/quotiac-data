@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i am the lord thy god. thou shalt have no other gods before me.",
+  "hints": "[{'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 'g', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'v', 'type': 'GiveALetterHint'}, {'letter': 'd', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'v': 'walk', 'a': 'fast-food', 'e': 'shield', 's': 'heart', 'n': 'chevron-up', 'i': 'camera', 'f': 'radio', 't': 'golf', 'b': 'bookmark', 'r': 'caret-down', 'd': 'magnet', 'l': 'copy', 'm': 'reload', 'y': 'flag', 'u': 'train', 'h': 'happy', 'g': 'send', 'o': 'bicycle'}",
+  "other_info": "{'Author': 'The Bible, Exodus'}"
+}
