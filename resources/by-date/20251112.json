@@ -1,0 +1,7 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "man is the only creature who refuses to be what he is.",
+  "hints": "[{'letter': 'm', 'type': 'GiveALetterHint'}, {'letter': 'l', 'type': 'GiveALetterHint'}, {'letter': 'w', 'type': 'GiveALetterHint'}, {'letter': 'y', 'type': 'GiveALetterHint'}, {'letter': 'b', 'type': 'GiveALetterHint'}, {'letter': 's', 'type': 'GiveALetterHint'}, {'letter': 'h', 'type': 'GiveALetterHint'}, {'letter': 'e', 'type': 'GiveALetterHint'}, {'letter': 'r', 'type': 'GiveALetterHint'}, {'letter': 'o', 'type': 'GiveALetterHint'}, {'letter': 'f', 'type': 'GiveALetterHint'}, {'letter': 'i', 'type': 'GiveALetterHint'}, {'letter': 't', 'type': 'GiveALetterHint'}, {'letter': 'u', 'type': 'GiveALetterHint'}, {'letter': 'n', 'type': 'GiveALetterHint'}, {'letter': 'a', 'type': 'GiveALetterHint'}, {'letter': 'c', 'type': 'GiveALetterHint'}]",
+  "encryption_map": "{'r': 'pause', 'w': 'finger-print', 'e': 'paper-plane', 'n': 'play-forward', 'i': 'build', 'f': 'chatbox-ellipses', 't': 'today', 'm': 'browsers', 'l': 'bug', 'c': 'chatbox', 'y': 'restaurant', 's': 'shield', 'h': 'color-filter', 'u': 'glasses', 'b': 'storefront', 'a': 'sad', 'o': 'move'}",
+  "other_info": "{'Author': 'Albert Camus'}"
+}
