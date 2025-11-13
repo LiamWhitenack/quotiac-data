@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "if you are what you eat, then i only want to eat the good stuff",
+  "hints": [
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "battery-charging",
+    "u": "heart-dislike",
+    "a": "remove",
+    "i": "document-text",
+    "n": "finger-print",
+    "f": "cash",
+    "e": "document-lock",
+    "y": "layers",
+    "h": "receipt",
+    "s": "help-buoy",
+    "l": "caret-back",
+    "r": "chatbox-ellipses",
+    "t": "disc",
+    "w": "tv",
+    "o": "code",
+    "g": "musical-note"
+  },
+  "other_info": {
+    "Character Name": "Remy",
+    "Source": "Ratatouille",
+    "Date": "2007"
+  }
+}
