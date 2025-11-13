@@ -1,7 +1,6 @@
 from typing import Any, TypeVar
-from codiac_sandbox.puzzle_types import (
-    CryptographBase,
-)
+
+from quotiac_sandbox.puzzle_types import CryptographBase
 
 
 def get_all_subclasses(cls: type[CryptographBase]) -> set[type[CryptographBase]]:

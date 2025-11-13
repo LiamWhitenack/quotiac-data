@@ -4,8 +4,8 @@ import types
 import typing
 from typing import get_args, get_origin
 
-from codiac_sandbox.puzzle_types import CryptographBase
-from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
+from quotiac_sandbox.puzzle_types import CryptographBase
+from quotiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
 
 
 def save_puzzle(cls: type[CryptographBase], kwargs: dict[str, str | list[str]]) -> None:

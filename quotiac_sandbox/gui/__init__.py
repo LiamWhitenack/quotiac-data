@@ -1,11 +1,7 @@
-from PySide6.QtWidgets import (
-    QWidget,
-    QPushButton,
-    QVBoxLayout,
-    QHBoxLayout,
-)
-from codiac_sandbox.gui.new_puzzle_modal import AddPuzzleDialog
-from codiac_sandbox.gui.view_puzzles import PuzzleUI
+from PySide6.QtWidgets import QHBoxLayout, QPushButton, QVBoxLayout, QWidget
+
+from quotiac_sandbox.gui.new_puzzle_modal import AddPuzzleDialog
+from quotiac_sandbox.gui.view_puzzles import PuzzleUI
 
 
 class MainWindow(QWidget):

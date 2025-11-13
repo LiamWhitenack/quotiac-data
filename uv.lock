@@ -75,7 +75,7 @@ wheels = [
 ]
 
 [[package]]
-name = "codiac-puzzles"
+name = "quotiac-puzzles"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

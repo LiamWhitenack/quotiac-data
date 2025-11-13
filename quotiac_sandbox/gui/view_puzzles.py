@@ -16,9 +16,9 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from codiac_sandbox.gui.date_selector_widget import DateSelectorWidget
-from codiac_sandbox.puzzle_types import CryptographBase
-from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
+from quotiac_sandbox.gui.date_selector_widget import DateSelectorWidget
+from quotiac_sandbox.puzzle_types import CryptographBase
+from quotiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES, from_json
 
 ALPHABET = set("qwertyuiopasdfghjklzxcvbnm ")
 

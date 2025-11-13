@@ -13,8 +13,8 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from codiac_sandbox.crud.create import get_puzzle_parameters, save_puzzle
-from codiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
+from quotiac_sandbox.crud.create import get_puzzle_parameters, save_puzzle
+from quotiac_sandbox.utils.puzzle_classes import PUZZLE_CLASSES
 
 
 class AddPuzzleDialog(QDialog):

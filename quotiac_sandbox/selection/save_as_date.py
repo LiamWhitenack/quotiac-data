@@ -2,8 +2,8 @@ import json
 
 from PySide6.QtCore import QDate
 
-from codiac_sandbox.puzzle_types import CryptographBase
-from codiac_sandbox.utils.update_puzzle_list import save_puzzle_types
+from quotiac_sandbox.puzzle_types import CryptographBase
+from quotiac_sandbox.utils.update_puzzle_list import save_puzzle_types
 
 
 def save_as_new_file(puzzle: CryptographBase, date: QDate) -> None:

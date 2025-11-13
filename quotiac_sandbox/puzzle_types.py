@@ -2,8 +2,8 @@ import random
 from abc import ABC, abstractmethod
 from typing import Any, Self
 
-from codiac_sandbox.hint_types import GiveALetterHint, HintBase
-from codiac_sandbox.utils.make_letter_map import get_new_letter_map
+from quotiac_sandbox.hint_types import GiveALetterHint, HintBase
+from quotiac_sandbox.utils.make_letter_map import get_new_letter_map
 
 # from PySide6.QtCore import QDate
 

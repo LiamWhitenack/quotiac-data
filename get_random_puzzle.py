@@ -2,8 +2,8 @@ import json
 from datetime import datetime, timedelta
 from random import choice
 
-from codiac_sandbox.utils.puzzle_classes import parse_puzzle
-from codiac_sandbox.utils.update_puzzle_list import save_puzzle_types
+from quotiac_sandbox.utils.puzzle_classes import parse_puzzle
+from quotiac_sandbox.utils.update_puzzle_list import save_puzzle_types
 
 tomorrow = datetime.now() + timedelta(days=3)
 

@@ -11,8 +11,8 @@ from PySide6.QtWidgets import (
     QWidget,
 )
 
-from codiac_sandbox.puzzle_types import CryptographBase
-from codiac_sandbox.selection.save_as_date import save_as_new_file
+from quotiac_sandbox.puzzle_types import CryptographBase
+from quotiac_sandbox.selection.save_as_date import save_as_new_file
 
 DAYS_OF_WEEK = [
     "Monday",
