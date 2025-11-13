@@ -1,7 +1,9 @@
-from datetime import datetime, timedelta
 import json
+from datetime import datetime, timedelta
 from random import choice
+
 from codiac_sandbox.utils.puzzle_classes import parse_puzzle
+from codiac_sandbox.utils.update_puzzle_list import save_puzzle_types
 
 tomorrow = datetime.now() + timedelta(days=3)
 
@@ -13,3 +15,5 @@ with open("resources/master-puzzle-list.json", "r") as read:
         data = puzzle.to_json(to_read_from_frontend=True)
 
         json.dump(data, write, indent=2)
+
+save_puzzle_types()
