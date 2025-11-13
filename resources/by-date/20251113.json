@@ -1,25 +1,9 @@
 {
-  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
-  "string_to_encrypt": "^browns^ ^lions^ ^texans^ ^jaguars^",
+  "puzzle_type": "Members of The Fellowship",
+  "string_to_encrypt": "^gandalf^ ^meriadoc^ ^legolas^ ^samwise^ ^aragorn^ ^gimli^ ^frodo^ ^peregrin^ ^boromir^",
   "hints": [
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "x",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
@@ -27,31 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "j",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
+      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
@@ -59,32 +19,82 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "g": "contract",
-    "s": "cart",
-    "l": "water",
-    "a": "shuffle",
-    "t": "attach",
-    "x": "train",
-    "j": "scale",
-    "b": "trophy",
-    "n": "person",
-    "r": "briefcase",
-    "i": "sad",
-    "w": "beer",
-    "e": "expand",
-    "o": "business",
-    "u": "heart-dislike"
+    "g": "pizza",
+    "s": "mic-off",
+    "e": "play-back",
+    "m": "business",
+    "b": "chevron-forward",
+    "a": "medkit",
+    "l": "caret-up",
+    "w": "bag-add",
+    "i": "today",
+    "f": "hardware-chip",
+    "d": "time",
+    "n": "color-filter",
+    "c": "server",
+    "r": "people",
+    "p": "easel",
+    "o": "cube"
   },
   "elements": [
-    "Browns",
-    "Lions",
-    "Texans",
-    "Jaguars"
+    "Gandalf",
+    "Meriadoc",
+    "Legolas",
+    "Samwise",
+    "Aragorn",
+    "Gimli",
+    "Frodo",
+    "Peregrin",
+    "Boromir"
   ],
   "other_info": {}
 }

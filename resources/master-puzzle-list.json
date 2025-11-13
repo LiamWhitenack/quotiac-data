@@ -1913,5 +1913,25 @@
     "character_name": "Ferris Bueller",
     "source": "Ferris Bueller's Day Off",
     "date": "1986"
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Members of The Fellowship",
+    "string_to_encrypt": "^Aragorn^ ^Meriadoc^ ^Frodo^ ^Boromir^ ^Gimli^ ^Peregrin^ ^Samwise^ ^Gandalf^ ^Legolas^",
+    "length": 87,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Aragorn",
+      "Meriadoc",
+      "Frodo",
+      "Boromir",
+      "Gimli",
+      "Peregrin",
+      "Samwise",
+      "Gandalf",
+      "Legolas"
+    ]
   }
 ]
