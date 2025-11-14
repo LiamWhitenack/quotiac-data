@@ -1933,5 +1933,16 @@
       "Gandalf",
       "Legolas"
     ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Poem",
+    "string_to_encrypt": "I am the least difficult of men. All I want is boundless love. ",
+    "length": 63,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Frank O'Hara",
+    "date": null
   }
 ]
