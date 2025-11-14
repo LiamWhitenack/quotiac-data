@@ -184,10 +184,11 @@ class DirectQuote(CryptographBase):
         self,
         quote: str,
         author: str,
+        puzzle_type: str = "Quote",
         date: str | None = None,
         used: bool = False,
     ) -> None:
-        super().__init__(quote, "Quote", used=used)
+        super().__init__(quote, puzzle_type=puzzle_type, used=used)
         self.author = author
         self.date = date
 
@@ -195,6 +196,7 @@ class DirectQuote(CryptographBase):
     def from_json(cls, data: dict[str, Any]) -> Self:
         return cls(
             quote=data["string_to_encrypt"],
+            puzzle_type=data["puzzle_type"],
             author=data["author"],
             date=data.get("date"),
             used=data["used"],

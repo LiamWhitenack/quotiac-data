@@ -1,9 +1,13 @@
 {
-  "puzzle_type": "Quote",
+  "puzzle_type": "Poem",
   "string_to_encrypt": "i am the least difficult of men. all i want is boundless love. ",
   "hints": [
     {
-      "letter": "l",
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
@@ -15,19 +19,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
@@ -35,27 +27,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "o",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
@@ -63,32 +39,56 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "v",
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
       "type": "GiveALetterHint"
     },
     {
       "letter": "w",
       "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "b": "cloud-download",
-    "c": "film",
-    "e": "caret-down",
-    "w": "star",
-    "l": "enter",
+    "f": "grid",
+    "a": "cellular",
+    "h": "library",
+    "s": "bookmark",
+    "v": "chevron-expand",
+    "d": "cloud-done",
+    "e": "chevron-back",
+    "w": "backspace",
+    "u": "brush",
+    "c": "alarm",
+    "o": "partly-sunny",
+    "i": "square",
+    "m": "options",
+    "n": "newspaper",
+    "l": "water",
     "t": "bag-check",
-    "o": "ticket",
-    "u": "glasses",
-    "d": "chatbox-ellipses",
-    "a": "chatbubble-ellipses",
-    "n": "fish",
-    "m": "bus",
-    "h": "mic",
-    "v": "medical",
-    "s": "receipt",
-    "f": "chatbubbles",
-    "i": "invert-mode"
+    "b": "caret-forward"
   },
   "other_info": {
     "Author": "Frank O'Hara"
