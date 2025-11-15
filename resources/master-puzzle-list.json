@@ -1944,5 +1944,16 @@
     "used": true,
     "author": "Frank O'Hara",
     "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "The greatest trick the devil ever pulled was convincing the world he didn't exist.",
+    "length": 82,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Charles Baudelaire",
+    "date": null
   }
 ]
