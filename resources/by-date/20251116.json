@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "two guys walk into a bar. the third one ducks.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "save",
+    "i": "trash",
+    "g": "scan",
+    "s": "videocam",
+    "h": "refresh",
+    "n": "egg",
+    "c": "ban",
+    "r": "gift",
+    "y": "flame",
+    "t": "caret-back",
+    "u": "unlink",
+    "o": "create",
+    "l": "american-football",
+    "b": "play-forward",
+    "d": "today",
+    "k": "alarm",
+    "a": "keypad",
+    "e": "remove"
+  },
+  "other_info": {}
+}

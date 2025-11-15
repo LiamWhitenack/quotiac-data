@@ -862,7 +862,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Any sufficiently advanced technology is indistinguishable from magic.",
     "author": "Arthur C. Clarke",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2059,5 +2059,63 @@
     "encryption_map": null,
     "hints": null,
     "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Poem",
+    "string_to_encrypt": "The best laid plans of mice and men aft gang agley.",
+    "length": 51,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Robert Burns, To a Mouse",
+    "date": null
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "U.S. Presidents Over 6' Tall",
+    "string_to_encrypt": "^Washington^ ^Obama^ ^Arthur^ ^Clinton^ ^Jackson^ ^Johnson^ ^Lincoln^ ^Reagan^ ^Jefferson^ ^Kennedy^ ^Roosevelt^ ^Bush^ ^Trump^",
+    "length": 127,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Washington",
+      "Obama",
+      "Arthur",
+      "Clinton",
+      "Jackson",
+      "Johnson",
+      "Lincoln",
+      "Reagan",
+      "Jefferson",
+      "Kennedy",
+      "Roosevelt",
+      "Bush",
+      "Trump"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "If I was on that plane with my kids, it wouldn't have went down like it did. ",
+    "length": 77,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Mark Wahlberg",
+    "date": null
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You've always been crazy. This is just the first chance you've ever had to really express yourself.",
+    "length": 99,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Louise Sawyer",
+    "source": "Thelma & Louise",
+    "date": "1991"
   }
 ]

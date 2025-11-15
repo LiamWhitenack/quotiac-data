@@ -1,0 +1,123 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you've always been crazy. this is just the first chance you've ever had to really express yourself.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "beer",
+    "j": "refresh",
+    "u": "scan",
+    "o": "code",
+    "v": "bicycle",
+    "a": "home",
+    "h": "rose",
+    "l": "square",
+    "c": "add",
+    "n": "exit",
+    "y": "scale",
+    "w": "fish",
+    "d": "help-buoy",
+    "s": "wine",
+    "f": "cellular",
+    "z": "open",
+    "b": "filter",
+    "e": "cube",
+    "r": "golf",
+    "t": "call",
+    "p": "time",
+    "x": "trash"
+  },
+  "other_info": {
+    "Character Name": "Louise Sawyer",
+    "Source": "Thelma & Louise",
+    "Date": "1991"
+  }
+}

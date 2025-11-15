@@ -1,0 +1,139 @@
+{
+  "puzzle_type": "U.S. Presidents Over 6' Tall",
+  "string_to_encrypt": "^bush^ ^kennedy^ ^clinton^ ^roosevelt^ ^jefferson^ ^trump^ ^washington^ ^johnson^ ^reagan^ ^jackson^ ^arthur^ ^obama^ ^lincoln^",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "k": "sparkles",
+    "i": "barbell",
+    "j": "checkmark-done",
+    "u": "log-in",
+    "o": "bandage",
+    "v": "flash",
+    "m": "document-lock",
+    "a": "golf",
+    "h": "barcode",
+    "l": "sad",
+    "c": "rose",
+    "n": "reader",
+    "y": "warning",
+    "w": "basket",
+    "d": "hand-left",
+    "s": "funnel",
+    "f": "headset",
+    "b": "infinite",
+    "e": "alarm",
+    "r": "time",
+    "t": "medical",
+    "g": "medal",
+    "p": "thunderstorm"
+  },
+  "elements": [
+    "Bush",
+    "Kennedy",
+    "Clinton",
+    "Roosevelt",
+    "Jefferson",
+    "Trump",
+    "Washington",
+    "Johnson",
+    "Reagan",
+    "Jackson",
+    "Arthur",
+    "Obama",
+    "Lincoln"
+  ],
+  "other_info": {}
+}
