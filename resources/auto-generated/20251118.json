@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "what goes up but never goes down? your age.",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "chevron-forward",
+    "g": "ellipsis-horizontal",
+    "u": "trophy",
+    "d": "pin",
+    "y": "accessibility",
+    "w": "build",
+    "v": "paper-plane",
+    "o": "star",
+    "t": "book",
+    "a": "caret-back",
+    "h": "water",
+    "n": "construct",
+    "p": "pie-chart",
+    "e": "code",
+    "s": "nutrition",
+    "r": "pint"
+  },
+  "question_answer": "What goes up but never goes down? Your age.",
+  "other_info": {}
+}
