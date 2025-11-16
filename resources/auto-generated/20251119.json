@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "abraham lincoln was a licenced bartender.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "medal",
+    "e": "locate",
+    "o": "chevron-up",
+    "c": "today",
+    "w": "lock-open",
+    "m": "newspaper",
+    "a": "bag-handle",
+    "r": "recording",
+    "t": "navigate",
+    "h": "golf",
+    "b": "bookmark",
+    "s": "reader",
+    "l": "copy",
+    "n": "infinite",
+    "d": "caret-up"
+  },
+  "other_info": {}
+}
