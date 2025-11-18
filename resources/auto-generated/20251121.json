@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "for once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "caret-up",
+    "r": "square",
+    "g": "nuclear",
+    "l": "water",
+    "o": "basketball",
+    "c": "key",
+    "u": "football",
+    "h": "enter",
+    "w": "settings",
+    "i": "ribbon",
+    "k": "cloud",
+    "b": "home",
+    "y": "rose",
+    "f": "ticket",
+    "v": "pie-chart",
+    "e": "cloudy-night",
+    "s": "extension-puzzle",
+    "n": "headset",
+    "t": "pin",
+    "a": "heart-dislike"
+  },
+  "other_info": {
+    "Author": "Leonardo Da Vinci"
+  }
+}
