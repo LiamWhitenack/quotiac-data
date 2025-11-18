@@ -1,13 +1,9 @@
 {
   "puzzle_type": "Quote",
-  "string_to_encrypt": "any sufficiently advanced technology is indistinguishable from magic.",
+  "string_to_encrypt": "then one fine mornin' she puts on a new york station. you know her life was saved by rock 'n' roll.",
   "hints": [
     {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
+      "letter": "m",
       "type": "GiveALetterHint"
     },
     {
@@ -15,55 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
       "type": "GiveALetterHint"
     },
     {
@@ -71,36 +19,98 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
       "letter": "r",
       "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "i": "disc",
-    "u": "rose",
-    "o": "finger-print",
-    "v": "gift",
-    "m": "calculator",
-    "a": "shuffle",
-    "h": "repeat",
-    "l": "sparkles",
-    "c": "settings",
-    "n": "open",
-    "y": "bonfire",
-    "d": "add",
-    "s": "keypad",
-    "f": "document-lock",
-    "b": "mic-off",
-    "e": "musical-notes",
-    "r": "moon",
-    "t": "scan",
-    "g": "bookmark"
+    "h": "documents",
+    "i": "cloud-upload",
+    "c": "medical",
+    "w": "archive",
+    "s": "list",
+    "m": "bed",
+    "l": "caret-down",
+    "a": "flame",
+    "b": "planet",
+    "p": "rose",
+    "o": "trophy",
+    "y": "chevron-expand",
+    "e": "ribbon",
+    "t": "chevron-collapse",
+    "d": "wine",
+    "r": "alarm",
+    "k": "paper-plane",
+    "u": "resize",
+    "f": "game-controller",
+    "v": "search",
+    "n": "pizza"
   },
   "other_info": {
-    "Author": "Arthur C. Clarke"
+    "Author": "The Velvet Underground"
   }
 }

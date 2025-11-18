@@ -791,8 +791,8 @@
     "type": "DirectQuote",
     "puzzle_type": "Quote",
     "string_to_encrypt": "Then one fine mornin' she puts on a New York station. You know her life was saved by Rock 'n' Roll.",
-    "author": "The Velvet Underground, 'Rock And Roll'",
-    "used": false
+    "author": "The Velvet Underground",
+    "used": true
   },
   {
     "type": "DirectQuote",
