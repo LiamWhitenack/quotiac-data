@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "to bring about the rule of righteousness in the land, so that the strong should not harm the weak.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "medkit",
+    "l": "accessibility",
+    "r": "document-text",
+    "e": "notifications",
+    "a": "musical-notes",
+    "i": "hardware-chip",
+    "g": "browsers",
+    "h": "scan",
+    "d": "aperture",
+    "b": "today",
+    "n": "add",
+    "t": "help-buoy",
+    "k": "calendar",
+    "f": "bag-check",
+    "w": "copy",
+    "m": "shield",
+    "u": "partly-sunny",
+    "s": "cloud-done"
+  },
+  "other_info": {
+    "Author": "Hammurabi's Code; Prologue"
+  }
+}
