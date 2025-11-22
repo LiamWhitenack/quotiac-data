@@ -624,7 +624,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "You can get more of what you want with a kind word and a gun than you can with just a kind word.",
     "author": "Al Capone",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -820,7 +820,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "The only thing worse than being talked about is not being talked about.",
     "author": "Oscar Wilde",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1297,7 +1297,7 @@
     "length": 52,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1547,7 +1547,7 @@
     "length": 134,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Tyler Burden",
     "source": "Fight Club",
     "date": "1996"
@@ -2117,5 +2117,88 @@
     "character_name": "Louise Sawyer",
     "source": "Thelma & Louise",
     "date": "1991"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Once I read a book about glue. I couldn't put it down.",
+    "length": 54,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The average person blinks 14-17 times per minute.",
+    "length": 49,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Tracks from Michael Jackson's \"BAD\"",
+    "string_to_encrypt": "^Liberian Girl^ ^Dirty Diana^ ^Leave Me Alone^ ^Just Good Friends^ ^Bad^ ^Speed Demon^ ^I Just Can't Stop Loving You^ ^The Way You Make Me Feel^ ^Another Part Of Me^ ^Smooth Criminal^ ^Man in The Mirror^",
+    "length": 203,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "Liberian Girl",
+      "Dirty Diana",
+      "Leave Me Alone",
+      "Just Good Friends",
+      "Bad",
+      "Speed Demon",
+      "I Just Can't Stop Loving You",
+      "The Way You Make Me Feel",
+      "Another Part Of Me",
+      "Smooth Criminal",
+      "Man in The Mirror"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Pies",
+    "string_to_encrypt": "^Cherry^ ^Meat^ ^Pumpkin^ ^Lemon Meringue^ ^Chicken Pot Pie^ ^Pecan^ ^Apple^ ^Shepherd's^ ^Key Lime^ ^Blueberry^",
+    "length": 100,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "Cherry",
+      "Meat",
+      "Pumpkin",
+      "Lemon Meringue",
+      "Chicken Pot Pie",
+      "Pecan",
+      "Apple",
+      "Shepherd's",
+      "Key Lime",
+      "Blueberry"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force.",
+    "length": 112,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Sir Isaac Newton",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Gratitude is not only the greatest of virtues, but the parent of all the others.",
+    "length": 80,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Cicero",
+    "date": null
   }
 ]

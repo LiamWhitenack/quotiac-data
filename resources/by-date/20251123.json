@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "once i read a book about glue. i couldn't put it down.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "code-download",
+    "i": "aperture",
+    "d": "medkit",
+    "k": "checkmark-done",
+    "a": "male",
+    "u": "barbell",
+    "p": "nutrition",
+    "e": "funnel",
+    "l": "eye-off",
+    "g": "card",
+    "n": "cloudy-night",
+    "w": "cube",
+    "r": "leaf",
+    "b": "umbrella",
+    "t": "business",
+    "o": "warning"
+  },
+  "other_info": {}
+}
