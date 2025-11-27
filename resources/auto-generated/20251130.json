@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "from the heights of these pyramids, forty centuries look down on us",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "cloud-done",
+    "a": "cloud-download",
+    "g": "flash",
+    "p": "beaker",
+    "c": "telescope",
+    "l": "save",
+    "s": "calendar",
+    "r": "wallet",
+    "h": "nutrition",
+    "d": "medal",
+    "o": "basket",
+    "n": "aperture",
+    "k": "settings",
+    "w": "help-buoy",
+    "e": "unlink",
+    "m": "documents",
+    "u": "chatbox",
+    "i": "barcode",
+    "y": "paper-plane",
+    "t": "speedometer"
+  },
+  "other_info": {
+    "Author": "Napoleon Bonaparte, to his troops in Egypt"
+  }
+}
