@@ -2200,5 +2200,14 @@
     "used": true,
     "author": "Cicero",
     "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I tried to catch some fog earlier. I guess I mist",
+    "length": 49,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
   }
 ]
