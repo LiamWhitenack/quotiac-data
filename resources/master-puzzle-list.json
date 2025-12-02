@@ -806,7 +806,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "I just want to say one word to you. Just one word: plastics.",
     "author": "Calder Willingham, The Graduate",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2117,5 +2117,16 @@
     "character_name": "Louise Sawyer",
     "source": "Thelma & Louise",
     "date": "1991"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "It's not easy bein' green\nIt seems you blend in\nWith so many other ordinary things\nAnd people tend to pass you over\n'Cause you're not standing out\nLike flashy sparkles in the water\nOr stars in the sky",
+    "length": 200,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Kermit the Frog",
+    "date": null
   }
 ]
