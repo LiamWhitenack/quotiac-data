@@ -1,21 +1,13 @@
 {
   "puzzle_type": "Quote",
-  "string_to_encrypt": "for once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.",
+  "string_to_encrypt": "you can get more of what you want with a kind word and a gun than you can with just a kind word.",
   "hints": [
     {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
       "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
       "type": "GiveALetterHint"
     },
     {
@@ -27,27 +19,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
+      "letter": "g",
       "type": "GiveALetterHint"
     },
     {
@@ -55,11 +27,19 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "v",
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -67,45 +47,60 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "c",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "g",
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
       "letter": "s",
       "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
-      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "d": "caret-up",
-    "r": "square",
-    "g": "nuclear",
-    "l": "water",
-    "o": "basketball",
-    "c": "key",
-    "u": "football",
-    "h": "enter",
-    "w": "settings",
-    "i": "ribbon",
-    "k": "cloud",
-    "b": "home",
-    "y": "rose",
-    "f": "ticket",
-    "v": "pie-chart",
-    "e": "cloudy-night",
-    "s": "extension-puzzle",
-    "n": "headset",
-    "t": "pin",
-    "a": "heart-dislike"
+    "c": "duplicate",
+    "h": "cloud-done",
+    "m": "code-working",
+    "t": "at",
+    "f": "briefcase",
+    "u": "contract",
+    "e": "wine",
+    "n": "card",
+    "g": "chevron-collapse",
+    "r": "wallet",
+    "s": "link",
+    "a": "bug",
+    "j": "flag",
+    "w": "journal",
+    "y": "chevron-forward",
+    "i": "medal",
+    "d": "snow",
+    "k": "browsers",
+    "o": "bonfire"
   },
   "other_info": {
-    "Author": "Leonardo Da Vinci"
+    "Author": "Al Capone"
   }
 }

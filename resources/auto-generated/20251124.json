@@ -1,25 +1,9 @@
 {
   "puzzle_type": "Quote",
-  "string_to_encrypt": "for once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.",
+  "string_to_encrypt": "any sufficiently advanced technology is indistinguishable from magic.",
   "hints": [
     {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
+      "letter": "c",
       "type": "GiveALetterHint"
     },
     {
@@ -31,11 +15,23 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "d",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "y",
+      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
@@ -43,31 +39,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "w",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
+      "letter": "m",
       "type": "GiveALetterHint"
     },
     {
@@ -75,7 +47,31 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
       "type": "GiveALetterHint"
     },
     {
@@ -84,28 +80,27 @@
     }
   ],
   "encryption_map": {
-    "d": "caret-up",
-    "r": "square",
-    "g": "nuclear",
-    "l": "water",
-    "o": "basketball",
-    "c": "key",
-    "u": "football",
-    "h": "enter",
-    "w": "settings",
-    "i": "ribbon",
-    "k": "cloud",
-    "b": "home",
-    "y": "rose",
-    "f": "ticket",
-    "v": "pie-chart",
-    "e": "cloudy-night",
-    "s": "extension-puzzle",
-    "n": "headset",
-    "t": "pin",
-    "a": "heart-dislike"
+    "o": "medical",
+    "b": "color-wand",
+    "v": "document-lock",
+    "u": "stop",
+    "y": "code-working",
+    "i": "nutrition",
+    "r": "map",
+    "l": "female",
+    "c": "umbrella",
+    "e": "caret-back",
+    "s": "play-back",
+    "m": "football",
+    "t": "cash",
+    "d": "baseball",
+    "g": "funnel",
+    "a": "search",
+    "f": "star",
+    "n": "clipboard",
+    "h": "medkit"
   },
   "other_info": {
-    "Author": "Leonardo Da Vinci"
+    "Author": "Arthur C. Clarke"
   }
 }

@@ -1,0 +1,119 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "instead of being sucked all the way in, quicksand victims will float once they get about waist deep.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "golf",
+    "p": "link",
+    "f": "notifications-off",
+    "i": "reader",
+    "y": "create",
+    "o": "build",
+    "q": "checkmark-done",
+    "g": "hand-left",
+    "b": "copy",
+    "v": "analytics",
+    "t": "musical-note",
+    "e": "cart",
+    "n": "chevron-expand",
+    "a": "log-in",
+    "c": "paw",
+    "k": "flash-off",
+    "d": "telescope",
+    "m": "home",
+    "h": "apps",
+    "s": "color-wand",
+    "u": "cash",
+    "w": "bandage"
+  },
+  "other_info": {}
+}
