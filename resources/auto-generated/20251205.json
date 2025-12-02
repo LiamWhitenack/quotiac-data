@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Novel Quote",
+  "string_to_encrypt": "the first rule of fight club is: you do not talk about fight club. the second rule of fight club is: you do not talk about fight club!",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "cloud-download",
+    "y": "enter",
+    "r": "today",
+    "h": "settings",
+    "c": "tv",
+    "d": "document",
+    "g": "receipt",
+    "t": "mail-open",
+    "k": "toggle",
+    "b": "extension-puzzle",
+    "u": "car",
+    "e": "checkbox",
+    "l": "videocam",
+    "o": "download",
+    "a": "code-download",
+    "f": "cloud",
+    "i": "musical-note",
+    "s": "caret-forward"
+  },
+  "other_info": {
+    "Character Name": "Tyler Burden",
+    "Source": "Fight Club",
+    "Date": "1996"
+  }
+}
