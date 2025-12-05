@@ -1,41 +1,9 @@
 {
-  "puzzle_type": "Novel Quote",
-  "string_to_encrypt": "the first rule of fight club is: you do not talk about fight club. the second rule of fight club is: you do not talk about fight club!",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "many go fishing all their lives without knowing that it is not fish they are after.",
   "hints": [
     {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -47,15 +15,47 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -63,41 +63,39 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "y",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "m",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "n",
+      "letter": "k",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "n": "cloud-download",
-    "y": "enter",
-    "r": "today",
-    "h": "settings",
-    "c": "tv",
-    "d": "document",
-    "g": "receipt",
-    "t": "mail-open",
-    "k": "toggle",
-    "b": "extension-puzzle",
-    "u": "car",
-    "e": "checkbox",
-    "l": "videocam",
-    "o": "download",
-    "a": "code-download",
-    "f": "cloud",
-    "i": "musical-note",
-    "s": "caret-forward"
+    "o": "medal",
+    "s": "moon",
+    "l": "shuffle",
+    "t": "play-back",
+    "u": "key",
+    "f": "shield",
+    "g": "bed",
+    "k": "cloudy-night",
+    "e": "wine",
+    "h": "layers",
+    "y": "dice",
+    "v": "pie-chart",
+    "m": "fitness",
+    "n": "save",
+    "w": "pin",
+    "a": "radio",
+    "r": "server",
+    "i": "infinite"
   },
   "other_info": {
-    "Character Name": "Tyler Burden",
-    "Source": "Fight Club",
-    "Date": "1996"
+    "Author": "Henry David Thoreau"
   }
 }
