@@ -93,7 +93,7 @@
     "character_name": "Dr. Doofenshmirtz",
     "source": "Phineas and Ferb the Movie: Across the 2nd Dimension",
     "date": "2011",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
