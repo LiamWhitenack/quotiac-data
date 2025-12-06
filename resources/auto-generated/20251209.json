@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "good morning, and in case i don't see ya, good afternoon, good evening, and good night!",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "calculator",
+    "v": "bag-handle",
+    "i": "call",
+    "o": "time",
+    "f": "scale",
+    "t": "expand",
+    "n": "chatbubble-ellipses",
+    "a": "cube",
+    "h": "search",
+    "y": "restaurant",
+    "r": "toggle",
+    "g": "subway",
+    "e": "infinite",
+    "m": "rainy",
+    "c": "enter",
+    "d": "chatbubble"
+  },
+  "other_info": {
+    "Character Name": "Truman Burbank",
+    "Source": "The Truman Show",
+    "Date": "1998"
+  }
+}
