@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the liver is the only human organ that can fully regenerate itself.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "musical-note",
+    "s": "battery-charging",
+    "c": "documents",
+    "n": "remove",
+    "t": "nuclear",
+    "a": "heart",
+    "e": "chevron-collapse",
+    "g": "bus",
+    "l": "body",
+    "v": "document-lock",
+    "m": "download",
+    "h": "chevron-expand",
+    "o": "man",
+    "u": "settings",
+    "f": "hardware-chip",
+    "r": "accessibility",
+    "y": "hourglass"
+  },
+  "other_info": {}
+}
