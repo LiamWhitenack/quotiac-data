@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the script for the terminator was sold for just a dollar.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "fitness",
+    "u": "planet",
+    "i": "trophy",
+    "s": "code-working",
+    "d": "disc",
+    "a": "color-filter",
+    "f": "bag-remove",
+    "h": "walk",
+    "j": "scan",
+    "c": "chatbubbles",
+    "l": "documents",
+    "p": "search",
+    "t": "caret-up",
+    "o": "cloud-offline",
+    "m": "unlink",
+    "r": "cart",
+    "e": "body",
+    "n": "browsers"
+  },
+  "other_info": {}
+}
