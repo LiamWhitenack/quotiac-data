@@ -349,7 +349,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "It is from their foes, not their friends, that cities learn the lesson of building high walls.",
     "author": "Aristophanes",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
