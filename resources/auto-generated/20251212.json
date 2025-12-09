@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the lord bless you and keep you; the lord make his face to shine upon you and be gracious to you; the lord lift up his countenance upon you and give you peace.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "wifi",
+    "d": "cellular",
+    "p": "chevron-forward",
+    "k": "leaf",
+    "l": "football",
+    "y": "shirt",
+    "r": "clipboard",
+    "a": "fast-food",
+    "s": "pin",
+    "u": "build",
+    "f": "checkmark",
+    "i": "refresh",
+    "g": "layers",
+    "h": "body",
+    "b": "watch",
+    "v": "pizza",
+    "e": "document-lock",
+    "c": "flower",
+    "t": "male",
+    "n": "ticket",
+    "o": "hourglass"
+  },
+  "other_info": {
+    "Author": "The Bible, Numbers"
+  }
+}
