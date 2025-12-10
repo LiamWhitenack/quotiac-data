@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "forget that... there are places in this world that aren't made out of stone. that there's something inside...that they can't get to, that they can't touch. that's yours.",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "attach",
+    "s": "rose",
+    "c": "bag-check",
+    "h": "cut",
+    "t": "calendar",
+    "p": "toggle",
+    "n": "cloud-offline",
+    "l": "log-in",
+    "o": "chatbox-ellipses",
+    "e": "flower",
+    "d": "desktop",
+    "a": "build",
+    "w": "archive",
+    "y": "eyedrop",
+    "u": "keypad",
+    "r": "eye-off",
+    "i": "help-buoy",
+    "g": "female",
+    "f": "browsers"
+  },
+  "other_info": {
+    "Character Name": "Andy Dufresne",
+    "Source": "The Shawshank Redemption",
+    "Date": "1994"
+  }
+}
