@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "The Twelve Caesars",
+  "string_to_encrypt": "^vitellius^ ^augustus^ ^julius^ ^galba^ ^domitian^ ^caligula^ ^titus^ ^nero^ ^tiberius^ ^otho^ ^claudius^ ^vespasian^",
+  "hints": [
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "thunderstorm",
+    "h": "brush",
+    "i": "shield",
+    "d": "navigate",
+    "r": "time",
+    "u": "paper-plane",
+    "a": "shirt",
+    "e": "square",
+    "g": "download",
+    "n": "rocket",
+    "c": "film",
+    "t": "snow",
+    "j": "flame",
+    "m": "paw",
+    "p": "cloudy-night",
+    "o": "pint",
+    "s": "earth",
+    "l": "contrast",
+    "b": "flask"
+  },
+  "elements": [
+    "Vitellius",
+    "Augustus",
+    "Julius",
+    "Galba",
+    "Domitian",
+    "Caligula",
+    "Titus",
+    "Nero",
+    "Tiberius",
+    "Otho",
+    "Claudius",
+    "Vespasian"
+  ],
+  "other_info": {}
+}

@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Pies",
+  "string_to_encrypt": "^shepherd's^ ^pecan^ ^lemon meringue^ ^key lime^ ^pumpkin^ ^blueberry^ ^cherry^ ^apple^ ^chicken pot pie^ ^meat^",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "contract",
+    "i": "resize",
+    "y": "browsers",
+    "d": "hammer",
+    "r": "shield",
+    "u": "keypad",
+    "a": "cellular",
+    "e": "airplane",
+    "g": "newspaper",
+    "n": "location",
+    "c": "heart",
+    "t": "card",
+    "k": "play-back",
+    "m": "magnet",
+    "p": "partly-sunny",
+    "o": "barcode",
+    "s": "musical-note",
+    "l": "egg",
+    "b": "funnel"
+  },
+  "elements": [
+    "Shepherd's",
+    "Pecan",
+    "Lemon Meringue",
+    "Key Lime",
+    "Pumpkin",
+    "Blueberry",
+    "Cherry",
+    "Apple",
+    "Chicken Pot Pie",
+    "Meat"
+  ],
+  "other_info": {}
+}

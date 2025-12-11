@@ -159,7 +159,7 @@
     "character_name": "Commissioner Gordon",
     "source": "The Dark Knight",
     "date": "2008",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -273,7 +273,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Put your shoulder to the wheel.",
     "author": "Aesop",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -922,7 +922,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "Fear can hold you prisoner. Hope can set you free.",
     "length": 50,
-    "used": false,
+    "used": true,
     "author": "Stephen King"
   },
   {
@@ -2154,7 +2154,7 @@
     "length": 203,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "elements": [
       "Liberian Girl",
       "Dirty Diana",
@@ -2176,7 +2176,7 @@
     "length": 100,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "elements": [
       "Cherry",
       "Meat",
@@ -2220,5 +2220,82 @@
     "encryption_map": null,
     "hints": null,
     "used": true
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "Tell me why Ain't nothin' but a heartache Tell me why Ain't nothing but a mistake Tell me why I never wanna hear you say\nI want it that way",
+    "length": 139,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "",
+    "title": "",
+    "hint": "Has a notoriously muddled interpetation",
+    "date": "1999"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "All that I am, or hope to be, I owe to my angel mother",
+    "length": 54,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Abraham Lincoln",
+    "date": null
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "I can travel around the world while staying in a corner.",
+    "length": 59,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "question_answer": "I can travel around the world while staying in a corner."
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "By the traditional textbook definition, life is alive: it moves, grows, eats, breathes oxygen, produces heat and waste, and dies.",
+    "length": 129,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "The Twelve Caesars",
+    "string_to_encrypt": "^Caligula^ ^Claudius^ ^Julius^ ^Nero^ ^Galba^ ^Vitellius^ ^Domitian^ ^Otho^ ^Titus^ ^Tiberius^ ^Vespasian^ ^Augustus^",
+    "length": 117,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Caligula",
+      "Claudius",
+      "Julius",
+      "Nero",
+      "Galba",
+      "Vitellius",
+      "Domitian",
+      "Otho",
+      "Titus",
+      "Tiberius",
+      "Vespasian",
+      "Augustus"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.",
+    "length": 85,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Winston Churchill",
+    "date": null
   }
 ]

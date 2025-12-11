@@ -1,0 +1,97 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "i can travel around the world while staying in a corner.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "caret-back",
+    "a": "cash",
+    "e": "document-text",
+    "v": "link",
+    "y": "bag-handle",
+    "l": "football",
+    "g": "star",
+    "w": "sparkles",
+    "h": "chatbox",
+    "c": "walk",
+    "n": "paw",
+    "i": "female",
+    "t": "build",
+    "o": "battery-charging",
+    "r": "compass",
+    "s": "medal",
+    "d": "locate"
+  },
+  "question_answer": "I can travel around the world while staying in a corner.",
+  "other_info": {
+    "What am I?": "A stamp"
+  }
+}

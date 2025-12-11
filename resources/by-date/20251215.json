@@ -1,0 +1,124 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "by the traditional textbook definition, life is alive: it moves, grows, eats, breathes oxygen, produces heat and waste, and dies.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "musical-note",
+    "h": "location",
+    "i": "basketball",
+    "y": "funnel",
+    "d": "alarm",
+    "r": "square",
+    "x": "shuffle",
+    "u": "cafe",
+    "a": "chevron-up",
+    "e": "beaker",
+    "g": "help-buoy",
+    "n": "eye-off",
+    "c": "color-palette",
+    "t": "airplane",
+    "k": "subway",
+    "f": "calculator",
+    "w": "scan",
+    "m": "infinite",
+    "p": "mic-off",
+    "o": "code-slash",
+    "s": "at",
+    "l": "repeat",
+    "b": "accessibility"
+  },
+  "other_info": {}
+}

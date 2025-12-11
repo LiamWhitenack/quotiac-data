@@ -1,0 +1,107 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "tell me why ain't nothin' but a heartache tell me why ain't nothing but a mistake tell me why i never wanna hear you say\ni want it that way",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "heart-half",
+    "h": "watch",
+    "i": "apps",
+    "y": "pie-chart",
+    "r": "sad",
+    "u": "square",
+    "a": "exit",
+    "e": "cog",
+    "g": "log-in",
+    "n": "nutrition",
+    "c": "heart-dislike",
+    "t": "basketball",
+    "k": "code-working",
+    "w": "compass",
+    "m": "play-back",
+    "o": "water",
+    "s": "today",
+    "l": "finger-print",
+    "b": "airplane"
+  },
+  "other_info": {
+    "Hint": "Has a notoriously muddled interpetation",
+    "Date": "1999"
+  }
+}
