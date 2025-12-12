@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "soon it will be a sin for parents to have a child which carries the heavy burden of genetic disease.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "bar-chart",
+    "i": "american-football",
+    "s": "star",
+    "r": "magnet",
+    "b": "paw",
+    "o": "mail-open",
+    "n": "card",
+    "y": "calendar",
+    "d": "cash",
+    "e": "paper-plane",
+    "f": "download",
+    "v": "finger-print",
+    "p": "nuclear",
+    "l": "cloud-offline",
+    "g": "browsers",
+    "t": "menu",
+    "u": "help-buoy",
+    "w": "moon",
+    "h": "heart-half",
+    "c": "contract"
+  },
+  "other_info": {
+    "Author": "Bob Edwards"
+  }
+}
