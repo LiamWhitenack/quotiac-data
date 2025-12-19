@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i have to remind myself that some birds aren\u2019t meant to be caged. their feathers are just too bright.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "server",
+    "t": "train",
+    "h": "checkmark-done",
+    "b": "flag",
+    "f": "ellipsis-horizontal",
+    "l": "unlink",
+    "d": "pie-chart",
+    "u": "hourglass",
+    "s": "receipt",
+    "v": "analytics",
+    "e": "moon",
+    "n": "toggle",
+    "m": "bag-check",
+    "j": "body",
+    "y": "rocket",
+    "g": "navigate",
+    "o": "apps",
+    "a": "extension-puzzle",
+    "r": "flask",
+    "i": "copy"
+  },
+  "other_info": {
+    "Character Name": "Red",
+    "Source": "The Shawshank Redemption",
+    "Date": "1994"
+  }
+}

@@ -1,61 +1,9 @@
 {
-  "puzzle_type": "Film Quote",
-  "string_to_encrypt": "you either die a hero, or you live long enough to see yourself become the villain.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "all that i am, or hope to be, i owe to my angel mother",
   "hints": [
     {
       "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
       "type": "GiveALetterHint"
     },
     {
@@ -63,11 +11,15 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "r",
+      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "b",
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -75,34 +27,61 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "v": "location",
-    "h": "hammer",
-    "i": "bonfire",
-    "y": "heart-half",
-    "d": "people",
-    "r": "settings",
-    "u": "beaker",
-    "a": "ribbon",
-    "e": "fast-food",
-    "g": "contract",
-    "n": "shuffle",
-    "c": "open",
-    "t": "musical-note",
-    "f": "planet",
-    "m": "menu",
-    "o": "flash-off",
-    "s": "leaf",
-    "l": "pie-chart",
-    "b": "gift"
+    "a": "location",
+    "l": "hammer",
+    "t": "bonfire",
+    "h": "heart-half",
+    "i": "people",
+    "m": "settings",
+    "o": "beaker",
+    "r": "ribbon",
+    "p": "fast-food",
+    "e": "contract",
+    "b": "shuffle",
+    "w": "open",
+    "y": "musical-note",
+    "n": "basketball",
+    "g": "planet"
   },
   "other_info": {
-    "Character Name": "Commissioner Gordon",
-    "Source": "The Dark Knight",
-    "Date": "2008"
+    "Author": "Abraham Lincoln",
+    "For": "My mother - it is her birthday today!"
   }
 }

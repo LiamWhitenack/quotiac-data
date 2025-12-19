@@ -1,0 +1,137 @@
+{
+  "puzzle_type": "Tracks from Michael Jackson's \"BAD\"",
+  "string_to_encrypt": "^i just can't stop loving you^ ^speed demon^ ^dirty diana^ ^man in the mirror^ ^leave me alone^ ^smooth criminal^ ^liberian girl^ ^just good friends^ ^the way you make me feel^ ^bad^ ^another part of me^",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "add",
+    "n": "shirt",
+    "i": "cash",
+    "t": "body",
+    "s": "egg",
+    "r": "walk",
+    "o": "apps",
+    "w": "grid",
+    "u": "bug",
+    "k": "code-working",
+    "b": "paper-plane",
+    "m": "airplane",
+    "y": "musical-notes",
+    "f": "medical",
+    "a": "caret-up",
+    "g": "exit",
+    "c": "cloud-done",
+    "h": "settings",
+    "e": "chevron-expand",
+    "p": "repeat",
+    "d": "code-download",
+    "j": "map",
+    "l": "save"
+  },
+  "elements": [
+    "I Just Can't Stop Loving You",
+    "Speed Demon",
+    "Dirty Diana",
+    "Man in The Mirror",
+    "Leave Me Alone",
+    "Smooth Criminal",
+    "Liberian Girl",
+    "Just Good Friends",
+    "The Way You Make Me Feel",
+    "Bad",
+    "Another Part Of Me"
+  ],
+  "other_info": {}
+}

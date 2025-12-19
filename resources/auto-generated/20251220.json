@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
+  "string_to_encrypt": "^jaguars^ ^lions^ ^texans^ ^browns^",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "ticket",
+    "r": "bag-check",
+    "i": "documents",
+    "e": "key",
+    "o": "server",
+    "a": "construct",
+    "w": "medical",
+    "j": "ice-cream",
+    "x": "tv",
+    "n": "color-palette",
+    "l": "pint",
+    "s": "partly-sunny",
+    "g": "chatbubble-ellipses",
+    "u": "cloud",
+    "t": "cube"
+  },
+  "elements": [
+    "Jaguars",
+    "Lions",
+    "Texans",
+    "Browns"
+  ],
+  "other_info": {}
+}

@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "one does not simply walk into mordor",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "sunny",
+    "r": "documents",
+    "t": "headset",
+    "d": "calendar",
+    "w": "home",
+    "y": "telescope",
+    "e": "analytics",
+    "i": "checkbox",
+    "s": "chatbubbles",
+    "l": "battery-charging",
+    "m": "megaphone",
+    "p": "bag-remove",
+    "k": "reader",
+    "a": "restaurant",
+    "o": "attach"
+  },
+  "other_info": {
+    "Character Name": "Boromir",
+    "Source": "Lord of the Rings: The Fellowship of the Ring",
+    "Date": "2001"
+  }
+}
