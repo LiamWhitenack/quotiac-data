@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "you would make a ship sail against the winds and currents by lighting a bonfire under her deck ? i have no time for such nonsense.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "chatbubble",
+    "i": "color-fill",
+    "u": "sparkles",
+    "r": "checkmark-done",
+    "o": "fitness",
+    "n": "key",
+    "a": "location",
+    "t": "happy",
+    "m": "chevron-forward",
+    "h": "sunny",
+    "s": "football",
+    "g": "walk",
+    "y": "ribbon",
+    "k": "umbrella",
+    "e": "speedometer",
+    "c": "school",
+    "w": "briefcase",
+    "p": "nuclear",
+    "l": "refresh",
+    "v": "document",
+    "f": "airplane",
+    "d": "today"
+  },
+  "other_info": {
+    "Author": "Napoleon, on Robert Fulton's Steamship"
+  }
+}
