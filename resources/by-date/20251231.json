@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "tomorrow is the first blank page of a 365-page book. write a good one.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "chevron-back",
+    "e": "rose",
+    "w": "wallet",
+    "o": "keypad",
+    "h": "scale",
+    "b": "contrast",
+    "d": "caret-down",
+    "n": "crop",
+    "k": "book",
+    "l": "settings",
+    "p": "archive",
+    "t": "apps",
+    "r": "subway",
+    "i": "browsers",
+    "g": "watch",
+    "m": "cloud-offline",
+    "f": "at",
+    "s": "reload"
+  },
+  "other_info": {
+    "Author": "Brad Paisley"
+  }
+}

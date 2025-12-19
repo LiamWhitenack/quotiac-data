@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Christmas Quote",
+  "string_to_encrypt": "we elves try to stick to the four main food groups. candy, candy canes, candy corns, and syrup.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "image",
+    "m": "wine",
+    "v": "magnet",
+    "i": "document-lock",
+    "r": "musical-note",
+    "h": "paper-plane",
+    "l": "train",
+    "s": "paw",
+    "y": "bar-chart",
+    "g": "pin",
+    "n": "disc",
+    "t": "link",
+    "p": "tv",
+    "w": "caret-down",
+    "k": "checkmark",
+    "f": "fast-food",
+    "o": "recording",
+    "u": "trophy",
+    "e": "alarm",
+    "c": "map",
+    "d": "menu"
+  },
+  "other_info": {
+    "Character Name": "Buddy",
+    "Source": "Elf",
+    "Date": "2003"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "banking establishments are more dangerous than standing armies.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "newspaper",
+    "e": "today",
+    "o": "sparkles",
+    "h": "notifications",
+    "b": "chevron-expand",
+    "d": "game-controller",
+    "g": "basketball",
+    "n": "dice",
+    "k": "cash",
+    "l": "server",
+    "t": "call",
+    "r": "happy",
+    "i": "wifi",
+    "u": "disc",
+    "m": "checkbox",
+    "s": "gift"
+  },
+  "other_info": {
+    "Author": "Thomas Jefferson"
+  }
+}

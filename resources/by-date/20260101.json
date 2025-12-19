@@ -1,0 +1,141 @@
+{
+  "puzzle_type": "Highest-grossing Films of 2025 (Domestic)",
+  "string_to_encrypt": "^captain america: brave new world^ ^lilo & stitch^ ^a minecraft movie^ ^zootopia 2^ ^sinners^ ^superman^ ^the fantastic four: first steps^ ^how to train your dragon^ ^wicked: for good^ ^jurassic world rebirth^",
+  "hints": [
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "z": "today",
+    "a": "trash",
+    "m": "toggle",
+    "v": "eyedrop",
+    "i": "document",
+    "b": "flash",
+    "r": "code-working",
+    "h": "tv",
+    "l": "bag-check",
+    "s": "bug",
+    "y": "wallet",
+    "g": "medal",
+    "n": "cut",
+    "t": "flag",
+    "p": "server",
+    "w": "log-in",
+    "k": "funnel",
+    "j": "warning",
+    "f": "browsers",
+    "o": "heart-dislike",
+    "u": "caret-down",
+    "e": "chevron-forward",
+    "c": "hardware-chip",
+    "d": "pie-chart"
+  },
+  "elements": [
+    "Captain America: Brave New World",
+    "Lilo & Stitch",
+    "A Minecraft Movie",
+    "Zootopia 2",
+    "Sinners",
+    "Superman",
+    "The Fantastic Four: First Steps",
+    "How to Train Your Dragon",
+    "Wicked: For Good",
+    "Jurassic World Rebirth"
+  ],
+  "other_info": {}
+}

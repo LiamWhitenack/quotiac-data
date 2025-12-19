@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Recommendation",
+  "string_to_encrypt": "always knock before opening the fridge door - there might be a salad dressing!",
+  "hints": [
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "send",
+    "m": "man",
+    "i": "open",
+    "b": "bicycle",
+    "r": "server",
+    "h": "repeat",
+    "l": "train",
+    "s": "radio",
+    "y": "tv",
+    "g": "cloud-done",
+    "n": "funnel",
+    "t": "hammer",
+    "p": "attach",
+    "w": "save",
+    "k": "reload",
+    "f": "cloud-download",
+    "o": "today",
+    "e": "cube",
+    "c": "time",
+    "d": "bag-add"
+  },
+  "other_info": {}
+}

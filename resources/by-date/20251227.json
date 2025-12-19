@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i don't like sand. it's coarse and rough and irritating and it gets everywhere.",
+  "hints": [
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "briefcase",
+    "e": "create",
+    "w": "bar-chart",
+    "o": "star",
+    "h": "eye-off",
+    "d": "scale",
+    "g": "bag-check",
+    "s": "train",
+    "c": "caret-back",
+    "v": "leaf",
+    "n": "receipt",
+    "k": "flash-off",
+    "l": "exit",
+    "t": "send",
+    "r": "american-football",
+    "i": "hand-left",
+    "u": "chevron-collapse",
+    "y": "flag"
+  },
+  "other_info": {
+    "Character Name": "Anakin Skywalker",
+    "Source": "Episode II: Attack of The Clones",
+    "Date": "2002"
+  }
+}

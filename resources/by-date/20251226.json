@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "santa, tell me if he really cares 'cause i can't give it all away if he won't be here next year",
+  "hints": [
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "invert-mode",
+    "m": "happy",
+    "v": "code-slash",
+    "i": "cloud-download",
+    "b": "musical-notes",
+    "r": "card",
+    "h": "disc",
+    "l": "desktop",
+    "s": "build",
+    "y": "play-forward",
+    "g": "location",
+    "n": "menu",
+    "t": "contrast",
+    "w": "leaf",
+    "x": "refresh",
+    "f": "partly-sunny",
+    "o": "earth",
+    "u": "cart",
+    "e": "rose",
+    "c": "newspaper"
+  },
+  "other_info": {
+    "Date": "2014"
+  }
+}

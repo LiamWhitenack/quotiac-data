@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "bikes can't stand up on their own because they're two tired.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "bus",
+    "e": "expand",
+    "w": "chevron-back",
+    "o": "walk",
+    "h": "code-slash",
+    "b": "heart-half",
+    "d": "map",
+    "s": "card",
+    "c": "play-back",
+    "n": "person",
+    "k": "unlink",
+    "p": "settings",
+    "t": "exit",
+    "r": "wallet",
+    "i": "grid",
+    "u": "options",
+    "y": "globe"
+  },
+  "other_info": {}
+}

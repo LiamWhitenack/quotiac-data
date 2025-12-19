@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Picture Quote",
+  "string_to_encrypt": "it came without ribbons. it came without tags. it came without packages, boxes, or bags.",
+  "hints": [
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "x": "notifications-off",
+    "b": "hardware-chip",
+    "r": "at",
+    "n": "scan",
+    "o": "mic-off",
+    "a": "partly-sunny",
+    "u": "medkit",
+    "h": "baseball",
+    "e": "scale",
+    "c": "cellular",
+    "s": "heart-dislike",
+    "m": "navigate",
+    "t": "map",
+    "i": "bag",
+    "p": "caret-down",
+    "w": "eyedrop",
+    "g": "bonfire",
+    "k": "filter"
+  },
+  "other_info": {
+    "Character Name": "The Grinch",
+    "Source": "How the Grinch Stole Christmas!",
+    "Date": "1957"
+  }
+}

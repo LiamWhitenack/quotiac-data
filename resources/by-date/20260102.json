@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the very fact of snow is such an amazement",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "chatbox",
+    "f": "color-filter",
+    "z": "locate",
+    "o": "attach",
+    "n": "caret-forward",
+    "a": "dice",
+    "u": "bicycle",
+    "h": "today",
+    "e": "expand",
+    "m": "flash-off",
+    "s": "grid",
+    "t": "heart-half",
+    "v": "camera",
+    "i": "cloud-download",
+    "y": "newspaper",
+    "w": "fitness",
+    "c": "hand-left"
+  },
+  "other_info": {
+    "Author": "Roger Ebert"
+  }
+}

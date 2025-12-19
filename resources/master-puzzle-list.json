@@ -84,7 +84,7 @@
     "character_name": "Anakin Skywalker",
     "source": "Episode II: Attack of The Clones",
     "date": "2002",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -120,7 +120,7 @@
     "character_name": "Tighten",
     "source": "Megamind",
     "date": "2010",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -561,7 +561,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Banking establishments are more dangerous than standing armies.",
     "author": "Thomas Jefferson",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1270,7 +1270,7 @@
     "length": 91,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1306,7 +1306,7 @@
     "length": 63,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1461,7 +1461,7 @@
     "length": 50,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Thomas Carlyle",
     "date": null
   },
@@ -2296,6 +2296,115 @@
     "hints": null,
     "used": true,
     "author": "Winston Churchill",
+    "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Always knock before opening the fridge door - there might be a salad dressing!",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Christmas Movie Quote",
+    "string_to_encrypt": "We Elves try to stick to the four main food groups. Candy, candy canes, candy corns, and syrup.",
+    "length": 95,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Buddy",
+    "source": "Elf",
+    "date": "2003"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Strange, isn't it? Each man's life touches so many other lives. When he isn't around he leaves an awful hole, doesn't he?",
+    "length": 121,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Clarence",
+    "source": "It's a Wonderful Life",
+    "date": "1946"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Picture Book Quote",
+    "string_to_encrypt": "It came without ribbons. It came without tags. It came without packages, boxes, or bags.",
+    "length": 88,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "The Grinch",
+    "source": "How the Grinch Stole Christmas!",
+    "date": "1957"
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "Santa, tell me if he really cares 'Cause I can't give it all away if he won't be here next year",
+    "length": 95,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "Ariana Grande",
+    "title": "Santa Tell Me",
+    "date": "2014"
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Bikes can't stand up on their own because they're two tired.",
+    "length": 60,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Tomorrow is the first blank page of a 365-page book. Write a good one.",
+    "length": 70,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Brad Paisley",
+    "date": null
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Highest-grossing Films of 2025 (Domestic)",
+    "string_to_encrypt": "^Jurassic World Rebirth^ ^Wicked: For Good^ ^Superman^ ^How to Train Your Dragon^ ^Sinners^ ^A Minecraft Movie^ ^The Fantastic Four: First Steps^ ^Lilo & Stitch^ ^Captain America: Brave New World^ ^Zootopia 2^",
+    "length": 217,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Jurassic World Rebirth",
+      "Wicked: For Good",
+      "Superman",
+      "How to Train Your Dragon",
+      "Sinners",
+      "A Minecraft Movie",
+      "The Fantastic Four: First Steps",
+      "Lilo & Stitch",
+      "Captain America: Brave New World",
+      "Zootopia 2"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "The very fact of snow is such an amazement",
+    "length": 42,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Roger Ebert",
     "date": null
   }
 ]
