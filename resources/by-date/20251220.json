@@ -1,45 +1,9 @@
 {
-  "puzzle_type": "Film Quote",
-  "string_to_encrypt": "you either die a hero, or you live long enough to see yourself become the villain.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "you would make a ship sail against the winds and currents by lighting a bonfire under her deck ? i have no time for such nonsense.",
   "hints": [
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
@@ -47,27 +11,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "v",
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
+      "letter": "k",
       "type": "GiveALetterHint"
     },
     {
@@ -75,34 +23,99 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "v": "location",
-    "h": "hammer",
-    "i": "bonfire",
-    "y": "heart-half",
-    "d": "people",
-    "r": "settings",
-    "u": "beaker",
-    "a": "ribbon",
-    "e": "fast-food",
-    "g": "contract",
-    "n": "shuffle",
-    "c": "open",
-    "t": "musical-note",
-    "f": "planet",
-    "m": "menu",
-    "o": "flash-off",
-    "s": "leaf",
-    "l": "pie-chart",
-    "b": "gift"
+    "b": "chatbubble",
+    "i": "color-fill",
+    "u": "sparkles",
+    "r": "checkmark-done",
+    "o": "fitness",
+    "n": "key",
+    "a": "location",
+    "t": "happy",
+    "m": "chevron-forward",
+    "h": "sunny",
+    "s": "football",
+    "g": "walk",
+    "y": "ribbon",
+    "k": "umbrella",
+    "e": "speedometer",
+    "c": "school",
+    "w": "briefcase",
+    "p": "nuclear",
+    "l": "refresh",
+    "v": "document",
+    "f": "airplane",
+    "d": "today"
   },
   "other_info": {
-    "Character Name": "Commissioner Gordon",
-    "Source": "The Dark Knight",
-    "Date": "2008"
+    "Author": "Napoleon, on Robert Fulton's Steamship"
   }
 }
