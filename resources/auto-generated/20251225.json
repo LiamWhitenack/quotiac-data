@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the movies are like a machine that generates empathy.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "map",
+    "l": "megaphone",
+    "p": "hardware-chip",
+    "e": "caret-up",
+    "c": "rainy",
+    "o": "move",
+    "a": "document-lock",
+    "i": "golf",
+    "k": "shuffle",
+    "v": "trophy",
+    "m": "car",
+    "r": "code-download",
+    "t": "home",
+    "y": "aperture",
+    "s": "filter",
+    "n": "snow",
+    "g": "bus"
+  },
+  "other_info": {
+    "Author": "Roger Ebert"
+  }
+}
