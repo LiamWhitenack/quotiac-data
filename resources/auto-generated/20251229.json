@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Novel Quote",
+  "string_to_encrypt": "the only thing you can do easily is be wrong, and that's hardly worth the effort.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "contract",
+    "i": "brush",
+    "o": "football",
+    "f": "hammer",
+    "g": "cog",
+    "s": "help-buoy",
+    "n": "document-text",
+    "u": "mail-open",
+    "b": "telescope",
+    "h": "create",
+    "t": "cloud-upload",
+    "d": "accessibility",
+    "l": "calendar",
+    "c": "chatbubbles",
+    "y": "thunderstorm",
+    "a": "eye-off",
+    "r": "duplicate",
+    "w": "compass"
+  },
+  "other_info": {
+    "Character Name": "The Mathemegician",
+    "Source": "The Phantom Tollbooth",
+    "Date": "1961"
+  }
+}

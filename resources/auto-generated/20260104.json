@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "nothing in life is to be feared, it is only to be understood. now is the time to understand more, so that we may fear less.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "finger-print",
+    "m": "headset",
+    "d": "boat",
+    "l": "code",
+    "y": "invert-mode",
+    "r": "aperture",
+    "e": "clipboard",
+    "f": "ribbon",
+    "w": "cloud-download",
+    "h": "download",
+    "a": "bicycle",
+    "u": "train",
+    "o": "megaphone",
+    "s": "ear",
+    "n": "save",
+    "t": "people",
+    "i": "bar-chart",
+    "b": "mic"
+  },
+  "other_info": {
+    "Author": "Marie Curie"
+  }
+}

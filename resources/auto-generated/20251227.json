@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the price good men pay for indifference to public affairs is to be ruled by evil men.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "medkit",
+    "f": "home",
+    "t": "open",
+    "d": "cafe",
+    "o": "recording",
+    "s": "add",
+    "g": "golf",
+    "y": "heart-half",
+    "a": "hardware-chip",
+    "c": "bandage",
+    "b": "heart-dislike",
+    "e": "options",
+    "h": "locate",
+    "p": "bag-add",
+    "n": "build",
+    "l": "bed",
+    "i": "apps",
+    "m": "megaphone",
+    "u": "man",
+    "v": "bonfire"
+  },
+  "other_info": {
+    "Author": "Plato"
+  }
+}

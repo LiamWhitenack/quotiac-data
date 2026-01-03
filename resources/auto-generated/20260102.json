@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "he who would catch fish must not mind getting wet.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "enter",
+    "w": "notifications",
+    "u": "reload",
+    "s": "document-lock",
+    "g": "cloud-offline",
+    "i": "hand-left",
+    "e": "star",
+    "c": "train",
+    "d": "infinite",
+    "t": "man",
+    "o": "business",
+    "n": "clipboard",
+    "l": "attach",
+    "h": "pin",
+    "f": "telescope",
+    "m": "cloud-done"
+  },
+  "other_info": {}
+}

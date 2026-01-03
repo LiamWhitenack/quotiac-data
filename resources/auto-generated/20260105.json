@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "there is one rule for the industrialist and that is: make the best quality of goods possible at the lowest cost possible, paying the highest wages possible.",
+  "hints": [
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "bed",
+    "e": "sad",
+    "s": "easel",
+    "p": "list",
+    "k": "document-text",
+    "m": "server",
+    "h": "key",
+    "u": "globe",
+    "a": "train",
+    "n": "nuclear",
+    "r": "code-download",
+    "i": "thunderstorm",
+    "w": "alarm",
+    "f": "mic",
+    "d": "at",
+    "t": "ticket",
+    "o": "ellipsis-horizontal",
+    "y": "bandage",
+    "q": "pizza",
+    "g": "female",
+    "l": "locate",
+    "c": "planet"
+  },
+  "other_info": {
+    "Author": "Henry Ford"
+  }
+}
