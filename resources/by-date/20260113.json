@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it doesn't matter how beautiful your theory is, it doesn't matter how smart you are. if it doesn't agree with experiment, it's wrong. in that simple statement is the key to science.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "musical-notes",
+    "x": "pie-chart",
+    "g": "disc",
+    "r": "play-back",
+    "f": "calendar",
+    "d": "compass",
+    "w": "cloudy-night",
+    "u": "warning",
+    "c": "list",
+    "i": "construct",
+    "h": "beer",
+    "a": "wine",
+    "o": "accessibility",
+    "l": "open",
+    "e": "mic",
+    "k": "flashlight",
+    "p": "bag-handle",
+    "m": "lock-open",
+    "y": "journal",
+    "t": "ticket",
+    "n": "cube",
+    "s": "telescope"
+  },
+  "other_info": {
+    "Author": "Richard Feynman"
+  }
+}

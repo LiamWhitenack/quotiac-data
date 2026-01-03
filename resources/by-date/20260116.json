@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "i keep a close watch on this heart of mine i keep my eyes wide open all the time i keep the ends out for the tie that binds",
+  "hints": [
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "checkmark",
+    "r": "refresh",
+    "f": "golf",
+    "d": "save",
+    "w": "recording",
+    "u": "hammer",
+    "c": "bookmark",
+    "i": "chevron-collapse",
+    "h": "reload",
+    "a": "code-slash",
+    "o": "caret-forward",
+    "l": "at",
+    "e": "cut",
+    "k": "chevron-expand",
+    "p": "ticket",
+    "m": "eye-off",
+    "y": "finger-print",
+    "t": "book",
+    "n": "card",
+    "s": "brush"
+  },
+  "other_info": {
+    "Hint": "The first verse of a tune written about staying true to his wife, Vivian"
+  }
+}

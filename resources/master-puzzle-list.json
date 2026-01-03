@@ -533,7 +533,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Two cities have been formed by two loves: the earthly by the love of self; the heavenly by the love of God.",
     "author": "St. Augustine",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -595,8 +595,8 @@
     "type": "DirectQuote",
     "puzzle_type": "Quote",
     "string_to_encrypt": "No freeman shall be taken, imprisoned, or in any other way destroyed, except by the lawful judgment of his peers.",
-    "author": "The Magna Carta]",
-    "used": false
+    "author": "The Magna Carta",
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -960,7 +960,7 @@
     "puzzle_type": "Film Quote",
     "string_to_encrypt": "Good morning starshine, the earth says hello!",
     "length": 45,
-    "used": false,
+    "used": true,
     "character_name": "Willy Wonka",
     "source": "Charlie and the Chocolate Factory",
     "date": "2005"
@@ -1261,7 +1261,7 @@
     "length": 83,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -1630,7 +1630,7 @@
     "length": 103,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1789,7 +1789,7 @@
     "length": 73,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Michael Scott",
     "source": "The Office",
     "date": "2008"
@@ -2406,5 +2406,104 @@
     "used": true,
     "author": "Roger Ebert",
     "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Scientists opened up Beethoven's grave, and he was sitting up erasing something. They asked him what he was doing, and he said, \"I'm decomposing.\"",
+    "length": 146,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "The Seven \"Modern\" Wonders",
+    "string_to_encrypt": "^Christo Redentor^ ^Great Wall of China^ ^Taj Mahal^ ^Petra^ ^Colosseum^ ^Machu Picchu^ ^Chichen Itza^",
+    "length": 102,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Christo Redentor",
+      "Great Wall of China",
+      "Taj Mahal",
+      "Petra",
+      "Colosseum",
+      "Machu Picchu",
+      "Chichen Itza"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Seven Wonders of The Ancient World",
+    "string_to_encrypt": "^Mausoleum at Halicarnassus^ ^Temple of Artemis at Ephesus^ ^Colossus of Rhodes^ ^Great Pyramid of Giza^ ^Hanging Gardens of Babylon^ ^Lighthouse of Alexandria^ ^Statue of Zeus at Olympia^",
+    "length": 188,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Mausoleum at Halicarnassus",
+      "Temple of Artemis at Ephesus",
+      "Colossus of Rhodes",
+      "Great Pyramid of Giza",
+      "Hanging Gardens of Babylon",
+      "Lighthouse of Alexandria",
+      "Statue of Zeus at Olympia"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.",
+    "length": 121,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Ted Williams",
+    "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "The stoic grape didn't say a word when it was crushed - it just let out a little wine.",
+    "length": 86,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong. In that simple statement is the key to science.",
+    "length": 181,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Richard Feynman",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "New scientific theories are never accepted until old scientists die.",
+    "length": 68,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Thomas Kuhn",
+    "date": null
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "I keep a close watch on this heart of mine I keep my eyes wide open all the time I keep the ends out for the tie that binds",
+    "length": 123,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "Johnny Cash",
+    "title": "I Walk the Line",
+    "date": "67"
   }
 ]

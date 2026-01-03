@@ -1,0 +1,126 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "no freeman shall be taken, imprisoned, or in any other way destroyed, except by the lawful judgment of his peers.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "open",
+    "x": "caret-back",
+    "g": "hammer",
+    "r": "play-forward",
+    "f": "receipt",
+    "d": "lock-open",
+    "w": "finger-print",
+    "u": "telescope",
+    "j": "flag",
+    "c": "ear",
+    "i": "ban",
+    "h": "chevron-expand",
+    "a": "cut",
+    "o": "color-palette",
+    "l": "add",
+    "e": "dice",
+    "k": "toggle",
+    "p": "document",
+    "m": "cloud-offline",
+    "y": "refresh",
+    "t": "cart",
+    "n": "image",
+    "s": "cloud-done"
+  },
+  "other_info": {
+    "Author": "The Magna Carta"
+  }
+}

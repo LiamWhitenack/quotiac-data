@@ -1,0 +1,123 @@
+{
+  "puzzle_type": "Seven Wonders of The Ancient World",
+  "string_to_encrypt": "^mausoleum at halicarnassus^ ^lighthouse of alexandria^ ^colossus of rhodes^ ^temple of artemis at ephesus^ ^great pyramid of giza^ ^hanging gardens of babylon^ ^statue of zeus at olympia^",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "eye-off",
+    "x": "bookmark",
+    "g": "keypad",
+    "r": "baseball",
+    "f": "beer",
+    "d": "battery-charging",
+    "u": "card",
+    "c": "refresh",
+    "z": "move",
+    "i": "paw",
+    "h": "journal",
+    "a": "boat",
+    "o": "cafe",
+    "l": "bag-check",
+    "e": "ellipsis-horizontal",
+    "p": "backspace",
+    "m": "gift",
+    "y": "storefront",
+    "t": "chevron-expand",
+    "n": "fish",
+    "s": "american-football"
+  },
+  "elements": [
+    "Mausoleum at Halicarnassus",
+    "Lighthouse of Alexandria",
+    "Colossus of Rhodes",
+    "Temple of Artemis at Ephesus",
+    "Great Pyramid of Giza",
+    "Hanging Gardens of Babylon",
+    "Statue of Zeus at Olympia"
+  ],
+  "other_info": {}
+}

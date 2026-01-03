@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "The Seven \"Modern\" Wonders",
+  "string_to_encrypt": "^taj mahal^ ^colosseum^ ^machu picchu^ ^christo redentor^ ^great wall of china^ ^petra^ ^chichen itza^",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "cloudy-night",
+    "r": "extension-puzzle",
+    "f": "cafe",
+    "d": "rose",
+    "w": "sparkles",
+    "u": "radio",
+    "j": "notifications",
+    "c": "cloud-offline",
+    "z": "watch",
+    "i": "heart",
+    "h": "grid",
+    "a": "megaphone",
+    "o": "ticket",
+    "l": "gift",
+    "e": "water",
+    "p": "chevron-back",
+    "m": "document",
+    "n": "planet",
+    "t": "body",
+    "s": "bonfire"
+  },
+  "elements": [
+    "Taj Mahal",
+    "Colosseum",
+    "Machu Picchu",
+    "Christo Redentor",
+    "Great Wall of China",
+    "Petra",
+    "Chichen Itza"
+  ],
+  "other_info": {}
+}

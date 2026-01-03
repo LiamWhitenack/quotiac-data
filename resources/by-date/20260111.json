@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "the stoic grape didn't say a word when it was crushed - it just let out a little wine.",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "eye",
+    "o": "scale",
+    "l": "train",
+    "w": "cloud-offline",
+    "e": "restaurant",
+    "y": "infinite",
+    "t": "bag",
+    "u": "documents",
+    "j": "scan",
+    "n": "backspace",
+    "c": "clipboard",
+    "i": "contract",
+    "s": "search",
+    "g": "wallet",
+    "p": "easel",
+    "r": "cloudy-night",
+    "h": "radio",
+    "a": "pin"
+  },
+  "other_info": {}
+}

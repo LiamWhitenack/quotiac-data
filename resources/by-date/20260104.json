@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "scientists opened up beethoven's grave, and he was sitting up erasing something. they asked him what he was doing, and he said, \"i'm decomposing.\"",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "finger-print",
+    "g": "watch",
+    "r": "trash",
+    "d": "play-forward",
+    "v": "disc",
+    "w": "train",
+    "u": "heart",
+    "c": "pint",
+    "i": "code",
+    "h": "ellipsis-horizontal",
+    "a": "moon",
+    "o": "code-working",
+    "e": "cloudy-night",
+    "k": "today",
+    "p": "chatbox-ellipses",
+    "m": "log-in",
+    "y": "shirt",
+    "t": "school",
+    "n": "musical-note",
+    "s": "flash-off"
+  },
+  "other_info": {}
+}

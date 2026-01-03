@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "you miss 100% of the shots you don't take -wayne gretzky -michael scott",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "create",
+    "r": "water",
+    "f": "flash",
+    "d": "bag-handle",
+    "w": "backspace",
+    "u": "options",
+    "c": "cash",
+    "z": "body",
+    "i": "play-forward",
+    "h": "hourglass",
+    "a": "duplicate",
+    "o": "cube",
+    "l": "flash-off",
+    "e": "cloud",
+    "k": "cloud-download",
+    "m": "musical-note",
+    "y": "locate",
+    "t": "storefront",
+    "n": "remove",
+    "s": "caret-down"
+  },
+  "other_info": {
+    "Character Name": "Michael Scott",
+    "Source": "The Office",
+    "Date": "2008"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "time passes faster the further you are from a massive object, but it passes slower the faster you move.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "chevron-back",
+    "r": "heart-dislike",
+    "f": "at",
+    "v": "stop",
+    "w": "paper-plane",
+    "u": "battery-charging",
+    "j": "locate",
+    "c": "shirt",
+    "i": "log-in",
+    "h": "backspace",
+    "a": "crop",
+    "o": "repeat",
+    "l": "color-wand",
+    "e": "clipboard",
+    "p": "cog",
+    "m": "pin",
+    "y": "business",
+    "t": "desktop",
+    "s": "document"
+  },
+  "other_info": {}
+}

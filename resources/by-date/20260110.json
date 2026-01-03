@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "good morning starshine, the earth says hello!",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "bandage",
+    "m": "film",
+    "o": "bar-chart",
+    "l": "medal",
+    "e": "headset",
+    "y": "list",
+    "t": "hammer",
+    "n": "trash",
+    "i": "earth",
+    "s": "american-football",
+    "g": "menu",
+    "r": "build",
+    "h": "happy",
+    "a": "walk"
+  },
+  "other_info": {
+    "Character Name": "Willy Wonka",
+    "Source": "Charlie and the Chocolate Factory",
+    "Date": "2005"
+  }
+}
