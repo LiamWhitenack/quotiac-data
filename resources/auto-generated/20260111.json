@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "why don't you make like a tree and get outta here",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "heart-dislike",
+    "m": "bed",
+    "w": "fish",
+    "k": "cut",
+    "r": "scale",
+    "o": "speedometer",
+    "u": "list",
+    "a": "chatbubbles",
+    "d": "locate",
+    "e": "cart",
+    "g": "journal",
+    "l": "cloud",
+    "h": "film",
+    "n": "cloud-done",
+    "t": "star",
+    "i": "school"
+  },
+  "other_info": {
+    "Character Name": "Biff Tannen",
+    "Source": "Back to The Future Part II",
+    "Date": "1989"
+  }
+}

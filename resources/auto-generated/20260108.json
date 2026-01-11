@@ -1,0 +1,73 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "this isn't flying, this is falling with style!",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "play-forward",
+    "n": "trash",
+    "a": "earth",
+    "f": "play-back",
+    "s": "pizza",
+    "e": "help-buoy",
+    "h": "calendar",
+    "t": "open",
+    "l": "cube",
+    "g": "stop",
+    "i": "rose",
+    "y": "ice-cream"
+  },
+  "other_info": {
+    "Character Name": "Buzz Lightyear",
+    "Source": "Toy Story",
+    "Date": "1995"
+  }
+}

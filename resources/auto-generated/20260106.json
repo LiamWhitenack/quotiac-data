@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "i would have written a shorter letter, but i did not have the time.",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "map",
+    "u": "play-forward",
+    "t": "people",
+    "w": "infinite",
+    "v": "locate",
+    "b": "checkbox",
+    "n": "bicycle",
+    "m": "shirt",
+    "i": "medkit",
+    "h": "bar-chart",
+    "d": "code",
+    "l": "bug",
+    "s": "at",
+    "e": "calendar",
+    "r": "chatbubbles",
+    "o": "car"
+  },
+  "other_info": {
+    "Author": "Blaise Pascal"
+  }
+}
