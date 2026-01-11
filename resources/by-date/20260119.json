@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "nuclear",
+    "i": "barbell",
+    "t": "beer",
+    "e": "medkit",
+    "o": "musical-note",
+    "n": "brush",
+    "a": "contrast",
+    "d": "thunderstorm",
+    "m": "cafe",
+    "h": "build",
+    "f": "chatbubbles",
+    "g": "leaf",
+    "v": "home",
+    "u": "fitness",
+    "s": "infinite"
+  },
+  "other_info": {}
+}

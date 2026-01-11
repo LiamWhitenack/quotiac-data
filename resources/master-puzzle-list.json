@@ -314,7 +314,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "The man who moves a mountain begins by carrying away small stones.",
     "author": "Confucius",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -638,7 +638,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Political power grows out of the barrel of a gun.",
     "author": "Mao Zedong",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1243,7 +1243,7 @@
     "length": 76,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -2505,5 +2505,59 @@
     "artist": "Johnny Cash",
     "title": "I Walk the Line",
     "date": "67"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "If you want to know the gender of an ant, drop it in water. If it sinks, it\u2019s a girl ant; if it floats, boy ant.",
+    "length": 112,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Richest People on Earth",
+    "string_to_encrypt": "^Bernard Arnault^ ^Steve Ballmer^ ^Elon Musk^ ^Larry Page^ ^Sergey Brin^ ^Mark Zuckerburg^ ^Bill Gates^ ^Larry Ellison^ ^Warren Buffett^ ^Jeff Bezos^",
+    "length": 149,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Bernard Arnault",
+      "Steve Ballmer",
+      "Elon Musk",
+      "Larry Page",
+      "Sergey Brin",
+      "Mark Zuckerburg",
+      "Bill Gates",
+      "Larry Ellison",
+      "Warren Buffett",
+      "Jeff Bezos"
+    ]
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "You can't make a living if you're dead, so don't end up in a dead end job like me",
+    "length": 81,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "Sam Shackleton",
+    "title": "Pink Collar Blues",
+    "date": ""
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You want answers? You can't handle the truth!!",
+    "length": 46,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Colonel Jessup",
+    "source": "A Few Good Men",
+    "date": "1992"
   }
 ]

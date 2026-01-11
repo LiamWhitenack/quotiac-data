@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you want answers? you can't handle the truth!!",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "build",
+    "w": "notifications-off",
+    "r": "glasses",
+    "t": "calculator",
+    "c": "musical-notes",
+    "e": "filter",
+    "o": "cloud",
+    "n": "hourglass",
+    "a": "bed",
+    "d": "trophy",
+    "h": "fish",
+    "u": "heart",
+    "l": "analytics",
+    "s": "pint"
+  },
+  "other_info": {
+    "Character Name": "Colonel Jessup",
+    "Source": "A Few Good Men",
+    "Date": "1992"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "you can't make a living if you're dead, so don't end up in a dead end job like me",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "medical",
+    "r": "thunderstorm",
+    "t": "american-football",
+    "v": "lock-open",
+    "g": "hourglass",
+    "j": "airplane",
+    "c": "crop",
+    "u": "toggle",
+    "p": "flower",
+    "m": "bag",
+    "a": "bag-handle",
+    "s": "book",
+    "i": "cloud",
+    "o": "heart-half",
+    "f": "locate",
+    "b": "attach",
+    "l": "train",
+    "k": "send",
+    "e": "leaf",
+    "n": "shirt",
+    "d": "notifications"
+  },
+  "other_info": {
+    "Artist": "Sam Shackleton",
+    "Title": "Pink Collar Blues",
+    "Date": ""
+  }
+}
