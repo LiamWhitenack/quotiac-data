@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i just want to say one word to you. just one word: plastics.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "baseball",
+    "y": "speedometer",
+    "u": "water",
+    "p": "beer",
+    "d": "chatbox",
+    "j": "flashlight",
+    "w": "wallet",
+    "l": "hand-left",
+    "c": "chevron-up",
+    "r": "flower",
+    "n": "chevron-forward",
+    "o": "business",
+    "s": "mic",
+    "i": "reader",
+    "e": "dice",
+    "a": "compass"
+  },
+  "other_info": {
+    "Author": "Calder Willingham, The Graduate"
+  }
+}
