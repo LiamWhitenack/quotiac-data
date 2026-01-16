@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "never gonna give you up, never gonna let you down",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "ellipsis-horizontal",
+    "d": "flash",
+    "g": "grid",
+    "l": "medal",
+    "n": "backspace",
+    "t": "log-in",
+    "e": "navigate",
+    "p": "shuffle",
+    "y": "call",
+    "v": "move",
+    "r": "code-working",
+    "u": "pie-chart",
+    "w": "image",
+    "o": "rose",
+    "a": "ice-cream"
+  },
+  "other_info": {
+    "Artist": "Rick Astley",
+    "Title": "Never Gonna Give You Up",
+    "Date": "1987"
+  }
+}
