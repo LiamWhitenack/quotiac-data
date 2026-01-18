@@ -1,0 +1,126 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "injustice anywhere is a threat to justice everywhere. we are caught in an inescapable network of mutuality, tied in a single garment of destiny",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "planet",
+    "v": "unlink",
+    "r": "chatbox-ellipses",
+    "b": "cafe",
+    "o": "browsers",
+    "e": "ear",
+    "y": "reload",
+    "d": "ticket",
+    "w": "shirt",
+    "k": "watch",
+    "s": "briefcase",
+    "j": "camera",
+    "c": "open",
+    "f": "chatbox",
+    "p": "flash",
+    "u": "log-in",
+    "a": "notifications-off",
+    "n": "trash",
+    "l": "chevron-forward",
+    "g": "cloudy-night",
+    "t": "toggle",
+    "i": "create",
+    "m": "attach"
+  },
+  "other_info": {
+    "Author": "Martin Luther King Jr."
+  }
+}
