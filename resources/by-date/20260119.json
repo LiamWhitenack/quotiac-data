@@ -1,11 +1,7 @@
 {
-  "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "true peace is not merely the absence of tension; it is the presence of justice.",
   "hints": [
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
     {
       "letter": "s",
       "type": "GiveALetterHint"
@@ -15,7 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -23,35 +19,23 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "h",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "r",
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "v",
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
+      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
@@ -59,26 +43,59 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "r": "nuclear",
-    "i": "barbell",
-    "t": "beer",
-    "e": "medkit",
-    "o": "musical-note",
-    "n": "brush",
-    "a": "contrast",
-    "d": "thunderstorm",
-    "m": "cafe",
-    "h": "build",
-    "f": "chatbubbles",
-    "g": "leaf",
-    "v": "home",
-    "u": "fitness",
-    "s": "infinite"
+    "t": "cut",
+    "o": "flame",
+    "i": "open",
+    "e": "trophy",
+    "h": "calculator",
+    "c": "barcode",
+    "m": "ribbon",
+    "y": "stop",
+    "b": "code-working",
+    "r": "journal",
+    "p": "sunny",
+    "a": "remove",
+    "s": "cash",
+    "j": "desktop",
+    "l": "wine",
+    "n": "pie-chart",
+    "f": "link",
+    "u": "hourglass"
   },
-  "other_info": {}
+  "other_info": {
+    "Author": "Martin Luther King Jr."
+  }
 }

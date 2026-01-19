@@ -2559,5 +2559,16 @@
     "character_name": "Colonel Jessup",
     "source": "A Few Good Men",
     "date": "1992"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "True peace is not merely the absence of tension; it is the presence of justice.",
+    "length": 79,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Martin Luther King Jr.",
+    "date": null
   }
 ]
