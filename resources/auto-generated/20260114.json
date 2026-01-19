@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
+  "string_to_encrypt": "^texans^ ^jaguars^ ^browns^ ^lions^",
+  "hints": [
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "happy",
+    "n": "bonfire",
+    "w": "medical",
+    "r": "pint",
+    "o": "time",
+    "g": "accessibility",
+    "s": "color-wand",
+    "x": "trophy",
+    "i": "battery-charging",
+    "l": "desktop",
+    "b": "caret-back",
+    "t": "today",
+    "u": "business",
+    "e": "funnel",
+    "j": "enter"
+  },
+  "elements": [
+    "Texans",
+    "Jaguars",
+    "Browns",
+    "Lions"
+  ],
+  "other_info": {}
+}

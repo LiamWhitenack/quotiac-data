@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "The Seven \"Modern\" Wonders",
+  "string_to_encrypt": "^chichen itza^ ^christo redentor^ ^colosseum^ ^taj mahal^ ^petra^ ^great wall of china^ ^machu picchu^",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "chatbubble-ellipses",
+    "i": "school",
+    "c": "mic",
+    "o": "crop",
+    "p": "ice-cream",
+    "w": "caret-back",
+    "z": "scale",
+    "m": "film",
+    "e": "cloud-done",
+    "j": "archive",
+    "l": "telescope",
+    "h": "download",
+    "t": "football",
+    "r": "contract",
+    "s": "flask",
+    "d": "chevron-forward",
+    "f": "videocam",
+    "g": "wine",
+    "n": "airplane",
+    "u": "medal"
+  },
+  "elements": [
+    "Chichen Itza",
+    "Christo Redentor",
+    "Colosseum",
+    "Taj Mahal",
+    "Petra",
+    "Great Wall of China",
+    "Machu Picchu"
+  ],
+  "other_info": {}
+}
