@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "everyone can be super! amd when everyone's super... [laughs maniacally] ... no one will be.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "female",
+    "b": "save",
+    "e": "expand",
+    "u": "mic",
+    "l": "key",
+    "m": "mic-off",
+    "o": "sparkles",
+    "p": "earth",
+    "d": "call",
+    "h": "aperture",
+    "r": "pizza",
+    "a": "dice",
+    "w": "ice-cream",
+    "s": "document",
+    "i": "bag-add",
+    "n": "people",
+    "v": "game-controller",
+    "c": "calculator",
+    "g": "bonfire"
+  },
+  "other_info": {
+    "Character Name": "Syndrome",
+    "Source": "The Incredibles",
+    "Date": "2004"
+  }
+}

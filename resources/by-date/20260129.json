@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Basic Cloud Types",
+  "string_to_encrypt": "^nimbostratus^ ^stratocumulus^ ^stratus^ ^cirrocumulus^ ^altostratus^ ^altocumulus^ ^cirrostratus^ ^cirrus^ ^cumulonimbus^ ^cumulus^",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "archive",
+    "o": "pie-chart",
+    "r": "chevron-collapse",
+    "i": "eyedrop",
+    "a": "star",
+    "n": "checkmark-done",
+    "b": "cloud",
+    "t": "flash",
+    "s": "fish",
+    "c": "layers",
+    "u": "warning",
+    "m": "cart"
+  },
+  "elements": [
+    "Nimbostratus",
+    "Stratocumulus",
+    "Stratus",
+    "Cirrocumulus",
+    "Altostratus",
+    "Altocumulus",
+    "Cirrostratus",
+    "Cirrus",
+    "Cumulonimbus",
+    "Cumulus"
+  ],
+  "other_info": {}
+}

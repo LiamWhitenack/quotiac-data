@@ -384,7 +384,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "True glory consists in doing what deserves to be written; in writing what deserves to be read.",
     "author": "Pliny the Elder",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2570,5 +2570,58 @@
     "used": true,
     "author": "Martin Luther King Jr.",
     "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Did you know deer can jump higher than the average house? It\u2019s because of their strong hind legs and the fact that the average house can\u2019t jump.",
+    "length": 144,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "The death of one man is a tragedy, the death of millions is a statistic",
+    "length": 71,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Kurt Tucholsky",
+    "date": null
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Basic Cloud Types",
+    "string_to_encrypt": "^Cumulus^ ^Cirrus^ ^Altostratus^ ^Altocumulus^ ^Cirrostratus^ ^Cirrocumulus^ ^Nimbostratus^ ^Stratocumulus^ ^Stratus^ ^Cumulonimbus^",
+    "length": 132,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Cumulus",
+      "Cirrus",
+      "Altostratus",
+      "Altocumulus",
+      "Cirrostratus",
+      "Cirrocumulus",
+      "Nimbostratus",
+      "Stratocumulus",
+      "Stratus",
+      "Cumulonimbus"
+    ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Animated Film Quote",
+    "string_to_encrypt": "Everyone can be super! Amd when everyone's super... [laughs maniacally] ... no one will be.",
+    "length": 91,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Syndrome",
+    "source": "The Incredibles",
+    "date": "2004"
   }
 ]

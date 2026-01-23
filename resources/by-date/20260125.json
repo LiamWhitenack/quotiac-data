@@ -1,0 +1,124 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "did you know deer can jump higher than the average house? it\u2019s because of their strong hind legs and the fact that the average house can\u2019t jump.",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "sparkles",
+    "b": "barcode",
+    "u": "paper-plane",
+    "e": "checkmark-done",
+    "l": "airplane",
+    "m": "nuclear",
+    "o": "analytics",
+    "p": "layers",
+    "f": "invert-mode",
+    "d": "today",
+    "h": "bag-remove",
+    "j": "globe",
+    "r": "easel",
+    "a": "remove",
+    "w": "code-download",
+    "t": "backspace",
+    "s": "cloud-upload",
+    "k": "water",
+    "i": "ribbon",
+    "n": "checkbox",
+    "v": "locate",
+    "c": "link",
+    "g": "business"
+  },
+  "other_info": {}
+}
