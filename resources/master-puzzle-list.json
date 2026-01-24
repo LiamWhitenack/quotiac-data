@@ -475,7 +475,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
     "author": "Antoine de Sain,Exupery",
-    "used": false
+    "used": true
   },
   {
     "type": "SongLyrics",
@@ -757,7 +757,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Everything in life is somewhere else, and you get there in a car.",
     "author": "E. B. White",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2623,5 +2623,76 @@
     "character_name": "Syndrome",
     "source": "The Incredibles",
     "date": "2004"
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "And those who passed by derided him, wagging their heads and saying, \u201cYou who would destroy the temple and rebuild it in three days, save yourself! If you are the Son of God, come down from the cross.\u201d",
+    "length": 201,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Matthew 27:39-40",
+    "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "All the toilets in the NYPD headquarters have been stolen. The police apparently have nothing to go on.\n\n",
+    "length": 105,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Giraffe tongues can be up to 20 inches long",
+    "length": 43,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Albums To Sell More Than 40 Million Copies",
+    "string_to_encrypt": "^The Dark Side of the Moon - 45^ ^Back in Black - 50^ ^Rumours - 40^ ^Come on Over - 40^ ^Saturday Night Fever - 40^ ^Bat Out of Hell - 40^ ^The Bodyguard - 45^ ^The Eagle's Greatest Hits - 44^ ^Hotel California - 42^ ^Thriller - 70^",
+    "length": 233,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "The Dark Side of the Moon - 45",
+      "Back in Black - 50",
+      "Rumours - 40",
+      "Come on Over - 40",
+      "Saturday Night Fever - 40",
+      "Bat Out of Hell - 40",
+      "The Bodyguard - 45",
+      "The Eagle's Greatest Hits - 44",
+      "Hotel California - 42",
+      "Thriller - 70"
+    ]
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Waldo always wears a striped shirt because he doesn\u2019t want to be spotted.",
+    "length": 73,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Not that I condone fascism, or any -ism for that matter. -Ism's in my opinion are not good. A person should not believe in an -ism, he should believe in himself.",
+    "length": 161,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Ferris Bueller",
+    "source": "Ferris Bueller's Day Off",
+    "date": "1986"
   }
 ]

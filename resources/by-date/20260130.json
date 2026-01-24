@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and those who passed by derided him, wagging their heads and saying, \u201cyou who would destroy the temple and rebuild it in three days, save yourself! if you are the son of god, come down from the cross.\u201d",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "image",
+    "c": "eye",
+    "b": "chatbubbles",
+    "h": "mail-open",
+    "e": "save",
+    "g": "stop",
+    "a": "finger-print",
+    "s": "beer",
+    "w": "tv",
+    "t": "today",
+    "i": "cloud-done",
+    "y": "chevron-forward",
+    "u": "chatbubble-ellipses",
+    "n": "menu",
+    "d": "options",
+    "m": "calculator",
+    "l": "code",
+    "v": "flash-off",
+    "o": "wifi",
+    "p": "shirt",
+    "r": "map"
+  },
+  "other_info": {
+    "Author": "Matthew 27:39-40"
+  }
+}

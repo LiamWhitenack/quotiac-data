@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "all the toilets in the nypd headquarters have been stolen. the police apparently have nothing to go on.\n\n",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "contrast",
+    "b": "scan",
+    "h": "caret-down",
+    "e": "shirt",
+    "g": "bandage",
+    "q": "map",
+    "a": "calculator",
+    "s": "car",
+    "t": "dice",
+    "i": "calendar",
+    "y": "cloud-offline",
+    "u": "hammer",
+    "n": "stop",
+    "d": "heart-dislike",
+    "l": "rocket",
+    "v": "accessibility",
+    "o": "invert-mode",
+    "p": "man",
+    "r": "color-filter"
+  },
+  "other_info": {}
+}

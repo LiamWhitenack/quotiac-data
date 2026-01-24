@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "everything in life is somewhere else, and you get there in a car.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "wallet",
+    "c": "hardware-chip",
+    "h": "female",
+    "e": "american-football",
+    "g": "archive",
+    "a": "document-lock",
+    "s": "airplane",
+    "w": "flame",
+    "t": "library",
+    "i": "brush",
+    "y": "medical",
+    "u": "analytics",
+    "n": "caret-forward",
+    "d": "ban",
+    "m": "layers",
+    "l": "football",
+    "v": "cash",
+    "o": "rocket",
+    "r": "open"
+  },
+  "other_info": {
+    "Author": "E. B. White"
+  }
+}

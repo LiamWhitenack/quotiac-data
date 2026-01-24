@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "giraffe tongues can be up to 20 inches long",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "chatbubble-ellipses",
+    "a": "american-football",
+    "f": "subway",
+    "h": "resize",
+    "u": "megaphone",
+    "s": "easel",
+    "c": "eyedrop",
+    "b": "layers",
+    "n": "hand-left",
+    "l": "checkmark-done",
+    "e": "glasses",
+    "o": "basketball",
+    "p": "construct",
+    "t": "calculator",
+    "r": "unlink",
+    "g": "at"
+  },
+  "other_info": {}
+}

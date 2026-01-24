@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Albums To Sell More Than 40 Million Copies",
+  "string_to_encrypt": "^bat out of hell - 40^ ^come on over - 40^ ^hotel california - 42^ ^the bodyguard - 45^ ^the eagle's greatest hits - 44^ ^thriller - 70^ ^the dark side of the moon - 45^ ^rumours - 40^ ^back in black - 50^ ^saturday night fever - 40^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "planet",
+    "c": "shapes",
+    "b": "ice-cream",
+    "h": "musical-notes",
+    "e": "shirt",
+    "g": "star",
+    "a": "videocam",
+    "s": "code-download",
+    "k": "cog",
+    "t": "female",
+    "i": "contrast",
+    "y": "egg",
+    "u": "trophy",
+    "n": "location",
+    "d": "male",
+    "m": "flower",
+    "l": "library",
+    "v": "dice",
+    "o": "book",
+    "r": "settings"
+  },
+  "elements": [
+    "Bat Out of Hell - 40",
+    "Come on Over - 40",
+    "Hotel California - 42",
+    "The Bodyguard - 45",
+    "The Eagle's Greatest Hits - 44",
+    "Thriller - 70",
+    "The Dark Side of the Moon - 45",
+    "Rumours - 40",
+    "Back in Black - 50",
+    "Saturday Night Fever - 40"
+  ],
+  "other_info": {}
+}

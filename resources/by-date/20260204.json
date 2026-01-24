@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "a designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "notifications",
+    "c": "headset",
+    "b": "move",
+    "h": "videocam",
+    "e": "wallet",
+    "g": "compass",
+    "a": "link",
+    "s": "shield",
+    "k": "cloud-download",
+    "w": "earth",
+    "t": "tv",
+    "i": "toggle",
+    "y": "reader",
+    "u": "newspaper",
+    "n": "ban",
+    "d": "remove",
+    "l": "cloud",
+    "v": "library",
+    "o": "refresh",
+    "p": "bus",
+    "r": "hammer"
+  },
+  "other_info": {
+    "Author": "Antoine de Sain,Exupery"
+  }
+}

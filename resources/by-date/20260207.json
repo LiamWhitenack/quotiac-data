@@ -1,9 +1,9 @@
 {
-  "puzzle_type": "Song lyrics",
-  "string_to_encrypt": "you can't make a living if you're dead, so don't end up in a dead end job like me",
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "not that i condone fascism, or any -ism for that matter. -ism's in my opinion are not good. a person should not believe in an -ism, he should believe in himself.",
   "hints": [
     {
-      "letter": "o",
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
@@ -15,27 +15,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -43,35 +23,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "r",
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
@@ -79,38 +35,79 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
+      "letter": "m",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "j",
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "b": "cloud-done",
-    "s": "shapes",
-    "o": "flash-off",
-    "g": "eye-off",
-    "a": "color-wand",
-    "r": "menu",
-    "p": "disc",
-    "l": "funnel",
-    "e": "school",
-    "d": "apps",
-    "c": "compass",
-    "y": "cafe",
+    "f": "fish",
+    "c": "desktop",
+    "b": "build",
+    "h": "bag-add",
+    "e": "image",
+    "g": "options",
+    "a": "barcode",
+    "s": "train",
+    "t": "backspace",
+    "i": "fitness",
+    "y": "pizza",
+    "u": "square",
+    "n": "film",
+    "d": "school",
     "m": "eyedrop",
-    "t": "hardware-chip",
-    "i": "calculator",
-    "v": "football",
-    "j": "cash",
-    "u": "chatbubble-ellipses",
-    "f": "beaker",
-    "n": "nutrition",
-    "k": "pie-chart"
+    "l": "heart-half",
+    "v": "pint",
+    "o": "move",
+    "p": "ear",
+    "r": "menu"
   },
   "other_info": {
-    "Artist": "Sam Shackleton",
-    "Title": "Pink Collar Blues"  }
+    "Character Name": "Ferris Bueller",
+    "Source": "Ferris Bueller's Day Off",
+    "Date": "1986"
+  }
 }

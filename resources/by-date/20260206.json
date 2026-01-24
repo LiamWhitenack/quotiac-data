@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "waldo always wears a striped shirt because he doesn\u2019t want to be spotted.",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "at",
+    "y": "ice-cream",
+    "a": "today",
+    "h": "mail-open",
+    "u": "aperture",
+    "s": "shield",
+    "c": "brush",
+    "b": "game-controller",
+    "n": "bag",
+    "d": "chevron-expand",
+    "l": "mic-off",
+    "e": "train",
+    "o": "telescope",
+    "w": "calculator",
+    "p": "chatbox-ellipses",
+    "t": "color-palette",
+    "r": "baseball"
+  },
+  "other_info": {}
+}
