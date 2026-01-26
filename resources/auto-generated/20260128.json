@@ -1,0 +1,61 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the medium is the message.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "eye-off",
+    "s": "duplicate",
+    "g": "wifi",
+    "e": "medal",
+    "h": "log-in",
+    "i": "expand",
+    "u": "document-text",
+    "m": "exit",
+    "d": "pause",
+    "a": "chevron-up"
+  },
+  "other_info": {
+    "Author": "Marshall McLuhan"
+  }
+}
