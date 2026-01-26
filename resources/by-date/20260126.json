@@ -1,25 +1,9 @@
 {
   "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "string_to_encrypt": "90 % of the world\u2019s population lives in the northern hemisphere.",
   "hints": [
     {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
@@ -27,15 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
+      "letter": "l",
       "type": "GiveALetterHint"
     },
     {
@@ -43,7 +19,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "g",
+      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
@@ -51,7 +27,31 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
@@ -59,26 +59,36 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "t": "happy",
-    "o": "thunderstorm",
-    "i": "glasses",
-    "e": "fitness",
-    "h": "pint",
-    "m": "home",
-    "v": "cube",
-    "r": "shapes",
-    "a": "telescope",
-    "s": "receipt",
-    "d": "refresh",
-    "n": "bar-chart",
-    "g": "star",
-    "f": "headset",
-    "u": "flower"
+    "m": "funnel",
+    "t": "settings",
+    "p": "body",
+    "r": "mic",
+    "d": "help-buoy",
+    "f": "desktop",
+    "n": "flame",
+    "h": "stop",
+    "i": "rocket",
+    "w": "ticket",
+    "a": "pin",
+    "u": "film",
+    "l": "today",
+    "o": "eyedrop",
+    "e": "mail-open",
+    "s": "map",
+    "v": "enter"
   },
   "other_info": {}
 }
