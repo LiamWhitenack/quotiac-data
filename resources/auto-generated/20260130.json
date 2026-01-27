@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "not that i condone fascism, or any -ism for that matter. -ism's in my opinion are not good. a person should not believe in an -ism, he should believe in himself.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "rainy",
+    "o": "barbell",
+    "l": "mail-open",
+    "y": "restaurant",
+    "a": "play-forward",
+    "b": "add",
+    "v": "log-in",
+    "i": "newspaper",
+    "m": "earth",
+    "s": "options",
+    "r": "crop",
+    "n": "eye-off",
+    "p": "apps",
+    "d": "nuclear",
+    "u": "fast-food",
+    "f": "mic",
+    "t": "layers",
+    "h": "link",
+    "g": "book",
+    "c": "grid"
+  },
+  "other_info": {
+    "Character Name": "Ferris Bueller",
+    "Source": "Ferris Bueller's Day Off",
+    "Date": "1986"
+  }
+}
