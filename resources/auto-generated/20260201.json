@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "tell me what you eat, and i will tell you what you are.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "storefront",
+    "i": "person",
+    "t": "documents",
+    "l": "car",
+    "m": "bed",
+    "w": "bar-chart",
+    "o": "key",
+    "d": "attach",
+    "e": "archive",
+    "u": "move",
+    "a": "beer",
+    "n": "cloud-offline",
+    "h": "people",
+    "r": "cash"
+  },
+  "other_info": {
+    "Author": "Anthelme Brilla,S-avarin"
+  }
+}
