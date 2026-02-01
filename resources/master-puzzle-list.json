@@ -589,7 +589,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.",
     "author": "Sun Tzu",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -610,7 +610,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Any society that would give up a little liberty to gain a little security will deserve neither and lose both.",
     "author": "Benjamin Franklin",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1226,15 +1226,6 @@
     "encryption_map": null,
     "hints": null,
     "used": true
-  },
-  {
-    "type": "TrivialFact",
-    "puzzle_type": "Trivial Fact",
-    "string_to_encrypt": "Lobsters have blue blood.",
-    "length": 25,
-    "encryption_map": null,
-    "hints": null,
-    "used": false
   },
   {
     "type": "TrivialFact",
@@ -2694,5 +2685,74 @@
     "character_name": "Ferris Bueller",
     "source": "Ferris Bueller's Day Off",
     "date": "1986"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I stayed up all night to see where the sun went. Then it dawned on me.",
+    "length": 70,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The only word in English with three consecutive sets of double letters is \u201cbookkeeper\".",
+    "length": 87,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Individual Books to Sell More Than 100 Million Copies",
+    "string_to_encrypt": "^The Hobbit^ ^And Then There Were None^ ^Alice's Adventures in Wonderland^ ^Harry Potter and the Philosopher's Stone^ ^Dream of the Red Chamber^ ^The Little Prince^ ^A Tale of Two Cities^ ^The Alchemist^",
+    "length": 203,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "The Hobbit",
+      "And Then There Were None",
+      "Alice's Adventures in Wonderland",
+      "Harry Potter and the Philosopher's Stone",
+      "Dream of the Red Chamber",
+      "The Little Prince",
+      "A Tale of Two Cities",
+      "The Alchemist"
+    ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "As far back as I can remember, I've always wanted to be a gangster.",
+    "length": 67,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Henry Hill",
+    "source": "Goodfellas",
+    "date": "1990"
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The word \"stewardesses\" can be typed entirely with your left hand.",
+    "length": 66,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "We can't run. We can't pass. We can't stop the run. We can't stop the pass. We can't kick. Other than that, we're just not a very good football team right now.",
+    "length": 159,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Bruce Coslet",
+    "date": null
   }
 ]

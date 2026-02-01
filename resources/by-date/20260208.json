@@ -1,0 +1,126 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "we can't run. we can't pass. we can't stop the run. we can't stop the pass. we can't kick. other than that, we're just not a very good football team right now.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "medal",
+    "f": "easel",
+    "v": "image",
+    "s": "man",
+    "k": "football",
+    "l": "scan",
+    "t": "alarm",
+    "o": "musical-notes",
+    "w": "thunderstorm",
+    "h": "brush",
+    "g": "male",
+    "i": "mic",
+    "d": "stop",
+    "y": "funnel",
+    "u": "today",
+    "b": "caret-down",
+    "n": "caret-forward",
+    "m": "expand",
+    "r": "bag-handle",
+    "a": "flag",
+    "c": "copy",
+    "e": "chatbox",
+    "j": "storefront"
+  },
+  "other_info": {
+    "Author": "Bruce Coslet"
+  }
+}

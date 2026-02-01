@@ -1,0 +1,119 @@
+{
+  "puzzle_type": "Individual Books to Sell More Than 100 Million Copies",
+  "string_to_encrypt": "^the hobbit^ ^alice's adventures in wonderland^ ^and then there were none^ ^the alchemist^ ^dream of the red chamber^ ^harry potter and the philosopher's stone^ ^a tale of two cities^ ^the little prince^",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "reader",
+    "f": "ice-cream",
+    "v": "exit",
+    "s": "archive",
+    "l": "notifications",
+    "t": "code-working",
+    "o": "refresh",
+    "w": "construct",
+    "h": "flame",
+    "i": "fitness",
+    "d": "repeat",
+    "y": "camera",
+    "u": "eyedrop",
+    "b": "extension-puzzle",
+    "n": "document",
+    "m": "sparkles",
+    "r": "mic-off",
+    "a": "caret-forward",
+    "c": "shirt",
+    "e": "water"
+  },
+  "elements": [
+    "The Hobbit",
+    "Alice's Adventures in Wonderland",
+    "And Then There Were None",
+    "The Alchemist",
+    "Dream of the Red Chamber",
+    "Harry Potter and the Philosopher's Stone",
+    "A Tale of Two Cities",
+    "The Little Prince"
+  ],
+  "other_info": {}
+}
