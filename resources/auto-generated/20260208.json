@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you want answers? you can't handle the truth!!",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "medal",
+    "a": "shuffle",
+    "w": "headset",
+    "d": "hourglass",
+    "h": "reload",
+    "l": "people",
+    "r": "move",
+    "t": "library",
+    "u": "flame",
+    "c": "resize",
+    "e": "beer",
+    "y": "fish",
+    "n": "pin",
+    "o": "flash-off"
+  },
+  "other_info": {
+    "Character Name": "Colonel Jessup",
+    "Source": "A Few Good Men",
+    "Date": "1992"
+  }
+}
