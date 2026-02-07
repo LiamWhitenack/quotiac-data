@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "what if this is a past life as well, and we are already something else to each other in our next life? who do you think we are then?",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "shirt",
+    "i": "chatbubble-ellipses",
+    "x": "home",
+    "n": "basket",
+    "c": "heart-dislike",
+    "h": "videocam",
+    "a": "briefcase",
+    "f": "caret-down",
+    "k": "earth",
+    "o": "snow",
+    "l": "bug",
+    "r": "code-working",
+    "m": "mail-open",
+    "y": "barbell",
+    "g": "bicycle",
+    "d": "build",
+    "w": "reader",
+    "s": "scale",
+    "t": "square",
+    "e": "grid",
+    "p": "scan"
+  },
+  "other_info": {
+    "Character Name": "Hae Sung",
+    "Source": "Past Lives",
+    "Date": "2023"
+  }
+}

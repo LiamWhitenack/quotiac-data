@@ -1,0 +1,132 @@
+{
+  "puzzle_type": "Synonyms for \"decode\"",
+  "string_to_encrypt": "^solve^ ^render^ ^break^ ^translate^ ^decrypt^ ^decipher^ ^work^ ^figure out^ ^unscramble^ ^unravel^ ^crack^",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "tv",
+    "i": "flash-off",
+    "n": "grid",
+    "c": "cloud-done",
+    "h": "bag-add",
+    "a": "nutrition",
+    "f": "calendar",
+    "k": "resize",
+    "o": "female",
+    "l": "document-lock",
+    "r": "cloudy-night",
+    "m": "musical-notes",
+    "y": "compass",
+    "g": "cafe",
+    "v": "unlink",
+    "b": "clipboard",
+    "d": "easel",
+    "w": "shield",
+    "s": "flashlight",
+    "t": "eye-off",
+    "e": "musical-note",
+    "p": "enter"
+  },
+  "elements": [
+    "solve",
+    "render",
+    "break",
+    "translate",
+    "decrypt",
+    "decipher",
+    "work",
+    "figure out",
+    "unscramble",
+    "unravel",
+    "crack"
+  ],
+  "other_info": {}
+}

@@ -735,8 +735,8 @@
     "type": "DirectQuote",
     "puzzle_type": "Quote",
     "string_to_encrypt": "The great masses of the people... Will more easily fall victims to a big lie than to a small one.",
-    "author": "Adolf Hitler ,Misatributted)",
-    "used": false
+    "author": "Adolf Hitler, (Misatributted)",
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -785,7 +785,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Tell me what you eat, and I will tell you what you are.",
     "author": "Anthelme Brilla,S-avarin",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2754,5 +2754,78 @@
     "used": true,
     "author": "Bruce Coslet",
     "date": null
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Did you hear about the actuary who wouldn\u2019t make whipped cream? She was whisk-averse.",
+    "length": 85,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "More than 50% of the earth's living oranisms are underwater.",
+    "length": 60,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Synonyms for \"decode\"",
+    "string_to_encrypt": "^translate^ ^unravel^ ^unscramble^ ^decrypt^ ^work^ ^render^ ^decipher^ ^crack^ ^solve^ ^break^ ^figure out^",
+    "length": 108,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "translate",
+      "unravel",
+      "unscramble",
+      "decrypt",
+      "work",
+      "render",
+      "decipher",
+      "crack",
+      "solve",
+      "break",
+      "figure out"
+    ]
+  },
+  {
+    "type": "List",
+    "puzzle_type": "Antonyms for \"decode\"",
+    "string_to_encrypt": "^encode^ ^cipher^ ^encrypt^ ^mix up^ ^jumble^ ^garble^ ^obscure^ ^whitewash^ ^shroud^ ^veil^",
+    "length": 92,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "encode",
+      "cipher",
+      "encrypt",
+      "mix up",
+      "jumble",
+      "garble",
+      "obscure",
+      "whitewash",
+      "shroud",
+      "veil"
+    ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "What if this is a past life as well, and we are already something else to each other in our next life? Who do you think we are then?",
+    "length": 132,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Hae Sung",
+    "source": "Past Lives",
+    "date": "2023"
   }
 ]

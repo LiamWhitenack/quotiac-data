@@ -1,0 +1,131 @@
+{
+  "puzzle_type": "Antonyms for \"decode\"",
+  "string_to_encrypt": "^encode^ ^cipher^ ^encrypt^ ^mix up^ ^jumble^ ^garble^ ^obscure^ ^whitewash^ ^shroud^ ^veil^",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "bar-chart",
+    "i": "wine",
+    "j": "document",
+    "x": "paper-plane",
+    "n": "funnel",
+    "c": "boat",
+    "h": "document-text",
+    "a": "nutrition",
+    "o": "brush",
+    "l": "gift",
+    "r": "bed",
+    "m": "color-palette",
+    "y": "flag",
+    "g": "mic-off",
+    "v": "cloud-download",
+    "b": "recording",
+    "d": "options",
+    "w": "briefcase",
+    "s": "musical-notes",
+    "t": "shapes",
+    "e": "flash-off",
+    "p": "search"
+  },
+  "elements": [
+    "encode",
+    "cipher",
+    "encrypt",
+    "mix up",
+    "jumble",
+    "garble",
+    "obscure",
+    "whitewash",
+    "shroud",
+    "veil"
+  ],
+  "other_info": {}
+}

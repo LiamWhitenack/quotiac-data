@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "tell me what you eat, and i will tell you what you are.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "beer",
+    "h": "book",
+    "a": "refresh",
+    "d": "watch",
+    "u": "bicycle",
+    "y": "extension-puzzle",
+    "w": "caret-back",
+    "i": "glasses",
+    "o": "bag-remove",
+    "t": "water",
+    "l": "shapes",
+    "e": "shield",
+    "n": "remove",
+    "r": "settings"
+  },
+  "other_info": {
+    "Author": "Anthelme Brilla,S-avarin"
+  }
+}
