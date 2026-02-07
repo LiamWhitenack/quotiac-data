@@ -1,0 +1,97 @@
+{
+  "puzzle_type": "Barbeque Meats",
+  "string_to_encrypt": "^chicken^ ^brisket^ ^turkey^ ^sausage^ ^ribs^ ^pork^",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "locate",
+    "e": "caret-forward",
+    "o": "shield",
+    "s": "storefront",
+    "g": "trash",
+    "h": "cloudy-night",
+    "k": "link",
+    "n": "school",
+    "c": "brush",
+    "y": "bonfire",
+    "p": "shuffle",
+    "b": "cog",
+    "t": "tv",
+    "r": "barcode",
+    "i": "flask",
+    "a": "pin"
+  },
+  "elements": [
+    "Chicken",
+    "Brisket",
+    "Turkey",
+    "Sausage",
+    "Ribs",
+    "Pork"
+  ],
+  "other_info": {}
+}
