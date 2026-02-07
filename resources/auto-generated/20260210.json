@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i don't like sand. it's coarse and rough and irritating and it gets everywhere.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "chatbubble-ellipses",
+    "h": "color-filter",
+    "r": "cash",
+    "t": "server",
+    "v": "bicycle",
+    "o": "construct",
+    "i": "ticket",
+    "e": "golf",
+    "y": "chatbubbles",
+    "u": "caret-down",
+    "a": "lock-open",
+    "s": "planet",
+    "w": "locate",
+    "d": "remove",
+    "g": "water",
+    "c": "flame",
+    "n": "cart",
+    "k": "layers"
+  },
+  "other_info": {
+    "Character Name": "Anakin Skywalker",
+    "Source": "Episode II: Attack of The Clones",
+    "Date": "2002"
+  }
+}
