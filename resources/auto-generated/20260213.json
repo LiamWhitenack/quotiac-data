@@ -1,0 +1,71 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "put your shoulder to the wheel.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "person",
+    "r": "cloud-done",
+    "d": "expand",
+    "h": "chevron-expand",
+    "u": "key",
+    "e": "notifications-off",
+    "s": "hand-left",
+    "t": "apps",
+    "y": "mic-off",
+    "o": "card",
+    "w": "flash",
+    "p": "bag-remove"
+  },
+  "other_info": {
+    "Author": "Aesop"
+  }
+}
