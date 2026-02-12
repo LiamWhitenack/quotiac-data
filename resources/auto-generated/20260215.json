@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "time passes faster the further you are from a massive object, but it passes slower the faster you move.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "j": "egg",
+    "y": "car",
+    "m": "shapes",
+    "h": "cut",
+    "t": "cloud-upload",
+    "a": "game-controller",
+    "v": "bus",
+    "w": "notifications-off",
+    "o": "cog",
+    "p": "square",
+    "e": "finger-print",
+    "i": "color-palette",
+    "f": "layers",
+    "s": "scale",
+    "c": "chatbubble-ellipses",
+    "r": "journal",
+    "l": "exit",
+    "b": "pie-chart",
+    "u": "school"
+  },
+  "other_info": {}
+}
