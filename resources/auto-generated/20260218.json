@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "there are decades where nothing happens; and there are weeks where decades happen",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "locate",
+    "e": "paw",
+    "k": "bookmark",
+    "n": "medkit",
+    "h": "copy",
+    "r": "disc",
+    "w": "apps",
+    "g": "wifi",
+    "i": "cloud-done",
+    "s": "sparkles",
+    "p": "documents",
+    "c": "caret-up",
+    "d": "beaker",
+    "t": "snow",
+    "a": "cash"
+  },
+  "other_info": {
+    "Author": "Vladamir llyich Lenin"
+  }
+}
