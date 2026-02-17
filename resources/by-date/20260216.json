@@ -1,6 +1,6 @@
 {
   "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "more than 50% of the earth's living oranisms are underwater.",
+  "string_to_encrypt": "more than 50% of the earth's living organisms are underwater.",
   "hints": [
     {
       "letter": "t",
@@ -75,6 +75,7 @@
     "m": "document",
     "h": "leaf",
     "a": "at",
+    "g": "basketball",
     "d": "trophy",
     "f": "boat",
     "u": "shield",
