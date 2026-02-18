@@ -1,9 +1,41 @@
 {
-  "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "more than 50% of the earth's living organisms are underwater.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the very fact of snow is such an amazement",
   "hints": [
     {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
       "type": "GiveALetterHint"
     },
     {
@@ -15,11 +47,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -27,27 +55,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "n",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
+      "letter": "e",
       "type": "GiveALetterHint"
     },
     {
@@ -55,41 +67,30 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "w",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "m": "document",
-    "h": "leaf",
-    "a": "at",
-    "g": "basketball",
-    "d": "trophy",
-    "f": "boat",
-    "u": "shield",
-    "w": "library",
-    "i": "filter",
-    "o": "hourglass",
-    "t": "checkmark",
-    "s": "menu",
-    "l": "add",
-    "e": "radio",
-    "n": "people",
-    "g": "newspaper",
-    "r": "paw",
-    "v": "location"
+    "a": "bus",
+    "n": "code",
+    "e": "game-controller",
+    "u": "call",
+    "i": "cloudy-night",
+    "o": "chevron-expand",
+    "t": "pint",
+    "s": "chevron-forward",
+    "f": "ribbon",
+    "z": "cut",
+    "y": "radio",
+    "v": "crop",
+    "r": "caret-down",
+    "c": "walk",
+    "m": "unlink",
+    "h": "code-working",
+    "w": "musical-note"
   },
-  "other_info": {}
+  "other_info": {
+    "Author": "Roger Ebert"
+  }
 }

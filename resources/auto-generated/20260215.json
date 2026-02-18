@@ -1,9 +1,13 @@
 {
   "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "more than 50% of the earth's living organisms are underwater.",
+  "string_to_encrypt": "time passes faster the further you are from a massive object, but it passes slower the faster you move.",
   "hints": [
     {
-      "letter": "t",
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
       "type": "GiveALetterHint"
     },
     {
@@ -11,7 +15,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "o",
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
       "type": "GiveALetterHint"
     },
     {
@@ -19,23 +27,19 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "r",
+      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
+      "letter": "b",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
@@ -43,7 +47,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "g",
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -55,41 +59,46 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
       "letter": "w",
       "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "m": "document",
-    "h": "leaf",
-    "a": "at",
-    "g": "basketball",
-    "d": "trophy",
-    "f": "boat",
-    "u": "shield",
-    "w": "library",
-    "i": "filter",
-    "o": "hourglass",
-    "t": "checkmark",
-    "s": "menu",
-    "l": "add",
-    "e": "radio",
-    "n": "people",
-    "g": "newspaper",
-    "r": "paw",
-    "v": "location"
+    "j": "egg",
+    "y": "car",
+    "m": "shapes",
+    "h": "cut",
+    "t": "cloud-upload",
+    "a": "game-controller",
+    "v": "bus",
+    "w": "notifications-off",
+    "o": "cog",
+    "p": "square",
+    "e": "finger-print",
+    "i": "color-palette",
+    "f": "layers",
+    "s": "scale",
+    "c": "chatbubble-ellipses",
+    "r": "journal",
+    "l": "exit",
+    "b": "pie-chart",
+    "u": "school"
   },
   "other_info": {}
 }

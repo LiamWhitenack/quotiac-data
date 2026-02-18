@@ -1,17 +1,33 @@
 {
-  "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "more than 50% of the earth's living organisms are underwater.",
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "why can't dinosaurs clap their hands? because they're extinct.",
   "hints": [
     {
-      "letter": "t",
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "h",
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
       "type": "GiveALetterHint"
     },
     {
       "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
@@ -23,39 +39,15 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
@@ -63,7 +55,19 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
@@ -72,24 +76,24 @@
     }
   ],
   "encryption_map": {
-    "m": "document",
-    "h": "leaf",
-    "a": "at",
-    "g": "basketball",
-    "d": "trophy",
-    "f": "boat",
-    "u": "shield",
-    "w": "library",
-    "i": "filter",
-    "o": "hourglass",
-    "t": "checkmark",
-    "s": "menu",
-    "l": "add",
-    "e": "radio",
-    "n": "people",
-    "g": "newspaper",
-    "r": "paw",
-    "v": "location"
+    "p": "flower",
+    "u": "cafe",
+    "d": "log-in",
+    "o": "caret-forward",
+    "h": "flashlight",
+    "x": "nutrition",
+    "s": "location",
+    "c": "chevron-up",
+    "w": "at",
+    "b": "key",
+    "e": "link",
+    "i": "male",
+    "n": "cut",
+    "a": "extension-puzzle",
+    "l": "ice-cream",
+    "t": "trophy",
+    "r": "locate",
+    "y": "call"
   },
   "other_info": {}
 }
