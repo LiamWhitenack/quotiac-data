@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "we do not inherit the earth from our ancestors, we borrow it from our children",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "chevron-up",
+    "h": "partly-sunny",
+    "a": "umbrella",
+    "c": "create",
+    "d": "barbell",
+    "w": "mic-off",
+    "o": "globe",
+    "e": "mail-open",
+    "s": "bag-handle",
+    "f": "extension-puzzle",
+    "t": "heart-half",
+    "b": "home",
+    "i": "shirt",
+    "l": "mic",
+    "n": "business",
+    "m": "add",
+    "r": "time"
+  },
+  "other_info": {
+    "Author": "Native American Song"
+  }
+}

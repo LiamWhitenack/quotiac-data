@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "for once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "document-text",
+    "e": "bonfire",
+    "s": "paw",
+    "f": "pin",
+    "v": "rose",
+    "u": "list",
+    "b": "caret-forward",
+    "l": "gift",
+    "g": "layers",
+    "k": "cart",
+    "h": "egg",
+    "c": "remove",
+    "w": "analytics",
+    "t": "watch",
+    "a": "pint",
+    "d": "chevron-expand",
+    "y": "download",
+    "i": "wine",
+    "n": "cloud-download",
+    "r": "bicycle"
+  },
+  "other_info": {
+    "Author": "Leonardo Da Vinci"
+  }
+}

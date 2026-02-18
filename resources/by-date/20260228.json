@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "if i'm not back in five minutes... just wait longer.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "flash",
+    "e": "magnet",
+    "s": "radio",
+    "f": "infinite",
+    "v": "planet",
+    "u": "desktop",
+    "b": "golf",
+    "l": "receipt",
+    "g": "hammer",
+    "k": "rocket",
+    "c": "tv",
+    "w": "chevron-forward",
+    "t": "square",
+    "j": "pizza",
+    "a": "create",
+    "m": "shapes",
+    "i": "card",
+    "n": "car",
+    "r": "beaker"
+  },
+  "other_info": {
+    "Character Name": "Ace Ventura",
+    "Source": "Ace Ventura: Pet Detective",
+    "Date": "1994"
+  }
+}

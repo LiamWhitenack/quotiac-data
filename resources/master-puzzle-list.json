@@ -722,7 +722,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.",
     "author": "Leonardo Da Vinci",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -841,7 +841,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "We do not inherit the earth from our ancestors, we borrow it from our children",
     "author": "Native American Song",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2742,7 +2742,7 @@
     "length": 66,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2827,5 +2827,66 @@
     "character_name": "Hae Sung",
     "source": "Past Lives",
     "date": "2023"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I just burned a Hawaiian pizza I was making. Should have cooked it at aloha temperature!",
+    "length": 88,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Octopuses have three hearts, and two of them stop beating when they swim",
+    "length": 72,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "",
+    "string_to_encrypt": "^^",
+    "length": 2,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": []
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Fastest Mammals",
+    "string_to_encrypt": "^Thomson's gazelle^ ^Lion^ ^Pronghorn^ ^Wildebeest^ ^Cheetah^ ^Blackbuck^ ^Mexican free-tailed bat^ ^Tsessebe^ ^Springbok^ ^Domestic Horse^",
+    "length": 139,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Thomson's gazelle",
+      "Lion",
+      "Pronghorn",
+      "Wildebeest",
+      "Cheetah",
+      "Blackbuck",
+      "Mexican free-tailed bat",
+      "Tsessebe",
+      "Springbok",
+      "Domestic Horse"
+    ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "If I'm not back in five minutes... just wait longer.",
+    "length": 52,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Ace Ventura",
+    "source": "Ace Ventura: Pet Detective",
+    "date": "1994"
   }
 ]

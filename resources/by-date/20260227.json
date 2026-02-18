@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the word \"stewardesses\" can be typed entirely with your left hand.",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "medical",
+    "h": "flashlight",
+    "a": "code-slash",
+    "c": "expand",
+    "d": "color-palette",
+    "w": "happy",
+    "y": "magnet",
+    "e": "trophy",
+    "o": "image",
+    "s": "filter",
+    "t": "funnel",
+    "f": "hand-left",
+    "b": "clipboard",
+    "i": "download",
+    "l": "cloud-download",
+    "p": "code",
+    "n": "sad",
+    "r": "menu"
+  },
+  "other_info": {}
+}

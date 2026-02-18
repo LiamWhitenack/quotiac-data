@@ -1,0 +1,131 @@
+{
+  "puzzle_type": "Fastest Mammals",
+  "string_to_encrypt": "^tsessebe^ ^lion^ ^springbok^ ^pronghorn^ ^blackbuck^ ^mexican free-tailed bat^ ^thomson's gazelle^ ^wildebeest^ ^domestic horse^ ^cheetah^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "layers",
+    "e": "camera",
+    "s": "color-fill",
+    "f": "play-back",
+    "x": "time",
+    "u": "invert-mode",
+    "b": "send",
+    "l": "chevron-expand",
+    "p": "barbell",
+    "g": "navigate",
+    "k": "beer",
+    "h": "bar-chart",
+    "c": "bug",
+    "w": "nutrition",
+    "t": "resize",
+    "z": "rocket",
+    "a": "checkbox",
+    "m": "thunderstorm",
+    "d": "caret-back",
+    "i": "female",
+    "n": "body",
+    "r": "pin"
+  },
+  "elements": [
+    "Tsessebe",
+    "Lion",
+    "Springbok",
+    "Pronghorn",
+    "Blackbuck",
+    "Mexican free-tailed bat",
+    "Thomson's gazelle",
+    "Wildebeest",
+    "Domestic Horse",
+    "Cheetah"
+  ],
+  "other_info": {}
+}
