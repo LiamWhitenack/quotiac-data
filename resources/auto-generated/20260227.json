@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i fooled you, i fooled you, i got pig iron, i got pig iron, i got all pig iron.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "sunny",
+    "f": "person",
+    "d": "nuclear",
+    "i": "rainy",
+    "p": "build",
+    "g": "copy",
+    "l": "battery-charging",
+    "y": "eye",
+    "e": "easel",
+    "r": "ice-cream",
+    "n": "bed",
+    "u": "nutrition",
+    "t": "flower",
+    "o": "film"
+  },
+  "other_info": {
+    "Author": "Lonnie Donegan, 'Rock Island Line'"
+  }
+}
