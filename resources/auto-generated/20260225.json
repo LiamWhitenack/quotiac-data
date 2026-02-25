@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "all that i am, or hope to be, i owe to my angel mother",
+  "hints": [
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "football",
+    "h": "car",
+    "o": "easel",
+    "y": "code-slash",
+    "r": "ice-cream",
+    "a": "medical",
+    "w": "unlink",
+    "g": "eyedrop",
+    "b": "build",
+    "m": "heart",
+    "l": "american-football",
+    "t": "heart-dislike",
+    "p": "musical-notes",
+    "i": "wifi",
+    "n": "bar-chart"
+  },
+  "other_info": {
+    "Author": "Abraham Lincoln"
+  }
+}

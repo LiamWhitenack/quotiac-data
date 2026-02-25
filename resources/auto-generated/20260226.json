@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Novel Quote",
+  "string_to_encrypt": "do you wish me a good morning, or mean that it is a good morning whether i want it or not; or that you feel good this morning; or that it is a morning to be good on?",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "rocket",
+    "y": "location",
+    "b": "fast-food",
+    "s": "eye-off",
+    "d": "code-working",
+    "t": "briefcase",
+    "h": "clipboard",
+    "e": "flag",
+    "i": "document",
+    "f": "ban",
+    "g": "camera",
+    "n": "pie-chart",
+    "l": "nutrition",
+    "a": "enter",
+    "r": "options",
+    "u": "cloudy-night",
+    "o": "medal",
+    "w": "recording"
+  },
+  "other_info": {
+    "Character Name": "Gandalf The Grey",
+    "Source": "The Hobbit",
+    "Date": "1937"
+  }
+}

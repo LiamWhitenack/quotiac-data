@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "i stayed up all night to see where the sun went. then it dawned on me.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "ribbon",
+    "w": "color-palette",
+    "l": "contract",
+    "r": "paw",
+    "t": "send",
+    "a": "duplicate",
+    "u": "rose",
+    "o": "menu",
+    "d": "train",
+    "g": "code-download",
+    "e": "resize",
+    "n": "hammer",
+    "h": "ice-cream",
+    "m": "bus",
+    "s": "glasses",
+    "y": "receipt",
+    "p": "extension-puzzle"
+  },
+  "other_info": {}
+}
