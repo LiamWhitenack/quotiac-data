@@ -9,12 +9,6 @@
     "used": true
   },
   {
-    "type": "DirectQuote",
-    "string_to_encrypt": "You miss 100% of the shots you don't take",
-    "author": "Wayne Gretzky",
-    "used": false
-  },
-  {
     "type": "CharacterQuote",
     "puzzle_type": "Film Quote",
     "string_to_encrypt": "One does not simply walk into Mordor",
@@ -356,7 +350,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "If you speak the truth, have a foot in the stirrup.",
     "author": "Turkish Proverb",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -708,7 +702,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "It is not the strongest of the species that survive, but the one most responsive to change.",
     "author": "Charles Darwin",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -2844,17 +2838,7 @@
     "length": 72,
     "encryption_map": null,
     "hints": null,
-    "used": false
-  },
-  {
-    "type": "Set",
-    "puzzle_type": "",
-    "string_to_encrypt": "^^",
-    "length": 2,
-    "encryption_map": null,
-    "hints": null,
-    "used": false,
-    "elements": []
+    "used": true
   },
   {
     "type": "Set",
@@ -2888,5 +2872,53 @@
     "character_name": "Ace Ventura",
     "source": "Ace Ventura: Pet Detective",
     "date": "1994"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "If a Wizard uses magic to hold up a camera and take a picture of himself, is that a Spellfie?",
+    "length": 93,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "There are three hundred days remaining in the year.",
+    "length": 51,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You see, in this world there's two kinds of people, my friend: Those with loaded guns and those who dig. You dig.",
+    "length": 113,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Blondie",
+    "source": "The Good, the Bad and the Ugly",
+    "date": "1966"
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Noble Gases",
+    "string_to_encrypt": "^Oganesson^ ^Radon^ ^Argon^ ^Neon^ ^Helium^ ^Krypton^ ^Xenon^",
+    "length": 61,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Oganesson",
+      "Radon",
+      "Argon",
+      "Neon",
+      "Helium",
+      "Krypton",
+      "Xenon"
+    ]
   }
 ]

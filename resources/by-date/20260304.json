@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "if you speak the truth, have a foot in the stirrup.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "chevron-forward",
+    "r": "bed",
+    "s": "code-slash",
+    "a": "shuffle",
+    "i": "build",
+    "y": "receipt",
+    "k": "library",
+    "f": "document",
+    "h": "time",
+    "u": "cut",
+    "e": "rose",
+    "o": "bonfire",
+    "p": "exit",
+    "t": "save",
+    "n": "briefcase"
+  },
+  "other_info": {
+    "Author": "Turkish Proverb"
+  }
+}

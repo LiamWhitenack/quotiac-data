@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Noble Gases",
+  "string_to_encrypt": "^oganesson^ ^neon^ ^argon^ ^xenon^ ^helium^ ^krypton^ ^radon^",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "code-slash",
+    "r": "refresh",
+    "s": "bookmark",
+    "a": "bag",
+    "i": "caret-forward",
+    "y": "newspaper",
+    "k": "car",
+    "h": "man",
+    "u": "barbell",
+    "e": "bag-add",
+    "o": "shield",
+    "x": "infinite",
+    "l": "exit",
+    "d": "play-forward",
+    "m": "heart-dislike",
+    "p": "scan",
+    "t": "call",
+    "n": "cog"
+  },
+  "elements": [
+    "Oganesson",
+    "Neon",
+    "Argon",
+    "Xenon",
+    "Helium",
+    "Krypton",
+    "Radon"
+  ],
+  "other_info": {}
+}

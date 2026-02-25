@@ -1,0 +1,74 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "there are three hundred days remaining in the year.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "recording",
+    "r": "bus",
+    "s": "enter",
+    "a": "pie-chart",
+    "i": "pin",
+    "y": "walk",
+    "h": "thunderstorm",
+    "u": "radio",
+    "e": "archive",
+    "d": "color-wand",
+    "m": "accessibility",
+    "t": "build",
+    "n": "golf"
+  },
+  "other_info": {}
+}

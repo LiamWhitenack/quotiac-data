@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you see, in this world there's two kinds of people, my friend: those with loaded guns and those who dig. you dig.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "partly-sunny",
+    "k": "copy",
+    "y": "home",
+    "u": "paw",
+    "l": "duplicate",
+    "d": "send",
+    "m": "bandage",
+    "r": "code-working",
+    "h": "pizza",
+    "p": "enter",
+    "g": "ellipsis-horizontal",
+    "i": "color-palette",
+    "n": "musical-notes",
+    "w": "checkmark",
+    "s": "easel",
+    "f": "bag-add",
+    "e": "hammer",
+    "o": "cloud-offline",
+    "t": "people"
+  },
+  "other_info": {
+    "Character Name": "Blondie",
+    "Source": "The Good, the Bad and the Ugly",
+    "Date": "1966"
+  }
+}
