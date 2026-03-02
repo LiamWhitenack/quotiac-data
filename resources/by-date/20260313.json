@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "oh, you think darkness is your ally? but you merely adopted the dark. i was born in it. molded by it. i didn't see the light until i was already a man. by then, it was nothing to me but blinding! the shadows betray you because they belong to me!",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "color-palette",
+    "m": "code-slash",
+    "g": "repeat",
+    "n": "game-controller",
+    "e": "bus",
+    "s": "home",
+    "d": "flashlight",
+    "k": "paper-plane",
+    "r": "sparkles",
+    "h": "document-lock",
+    "b": "image",
+    "u": "bag-check",
+    "o": "wine",
+    "t": "cloudy-night",
+    "w": "man",
+    "l": "newspaper",
+    "i": "eye-off",
+    "a": "download",
+    "c": "create",
+    "p": "female"
+  },
+  "other_info": {
+    "Character Name": "Bane",
+    "Source": "The Dark Knight Rises",
+    "Date": "2012"
+  }
+}

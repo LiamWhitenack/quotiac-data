@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the oldest living tree is methuselah, a great basin bristlecone pine, estimated to be over 4,855 years old",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "flower",
+    "m": "brush",
+    "g": "watch",
+    "n": "beaker",
+    "e": "business",
+    "v": "save",
+    "s": "fish",
+    "d": "game-controller",
+    "r": "easel",
+    "h": "tv",
+    "b": "mic-off",
+    "u": "analytics",
+    "o": "invert-mode",
+    "t": "flask",
+    "l": "headset",
+    "i": "image",
+    "a": "ban",
+    "c": "american-football",
+    "p": "open"
+  },
+  "other_info": {}
+}

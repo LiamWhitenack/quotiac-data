@@ -646,7 +646,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Corporation, n. An ingenious device for obtaining individual profit without individual responsibility.",
     "author": "Ambrose Bierce",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1370,7 +1370,7 @@
     "string_to_encrypt": "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
     "author": "Plato",
     "date": null,
-    "used": false
+    "used": true
   },
   {
     "string_to_encrypt": "If the grass looks greener, it's probably AstroTurf!",
@@ -2920,5 +2920,56 @@
       "Krypton",
       "Xenon"
     ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Oh, you think darkness is your ally? But you merely adopted the dark. I was born in it. Molded by it. I didn't see the light until I was already a man. By then, it was nothing to me but blinding! The shadows betray you because they belong to me!",
+    "length": 245,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Bane",
+    "source": "The Dark Knight Rises",
+    "date": "2012"
+  },
+  {
+    "type": "List",
+    "puzzle_type": "Most Popular Currencies, Excluding Dollars",
+    "string_to_encrypt": "^Euro^ ^Yen^ ^Sterling^ ^Renminbi^ ^Franc^ ^Rupee^ ^Won^ ^Krona^ ^Peso^ ^Krone^",
+    "length": 79,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Euro",
+      "Yen",
+      "Sterling",
+      "Renminbi",
+      "Franc",
+      "Rupee",
+      "Won",
+      "Krona",
+      "Peso",
+      "Krone"
+    ]
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The oldest living tree is Methuselah, a Great Basin bristlecone pine, estimated to be over 4,855 years old",
+    "length": 106,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Did you hear about the glass blower who accidentally inhaled? He got stomach pane.",
+    "length": 82,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
   }
 ]

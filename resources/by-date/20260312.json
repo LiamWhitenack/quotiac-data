@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Most Popular Currencies, Excluding Dollars",
+  "string_to_encrypt": "^euro^ ^yen^ ^sterling^ ^renminbi^ ^franc^ ^rupee^ ^won^ ^krona^ ^peso^ ^krone^",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "aperture",
+    "m": "shuffle",
+    "f": "cloud-download",
+    "g": "cloud-upload",
+    "e": "cloud",
+    "n": "accessibility",
+    "s": "documents",
+    "k": "flame",
+    "r": "ellipsis-horizontal",
+    "b": "bag",
+    "u": "download",
+    "o": "chatbubbles",
+    "t": "extension-puzzle",
+    "w": "earth",
+    "l": "beer",
+    "i": "cube",
+    "a": "chatbubble-ellipses",
+    "c": "code",
+    "p": "sparkles"
+  },
+  "elements": [
+    "Euro",
+    "Yen",
+    "Sterling",
+    "Renminbi",
+    "Franc",
+    "Rupee",
+    "Won",
+    "Krona",
+    "Peso",
+    "Krone"
+  ],
+  "other_info": {}
+}
