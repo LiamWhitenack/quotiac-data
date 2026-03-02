@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "time passes faster the further you are from a massive object, but it passes slower the faster you move.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "basket",
+    "l": "body",
+    "e": "restaurant",
+    "u": "rocket",
+    "o": "speedometer",
+    "h": "chatbubbles",
+    "y": "aperture",
+    "m": "library",
+    "w": "reader",
+    "j": "earth",
+    "v": "log-in",
+    "r": "rainy",
+    "p": "exit",
+    "b": "walk",
+    "i": "settings",
+    "s": "layers",
+    "t": "cellular",
+    "f": "magnet",
+    "a": "remove"
+  },
+  "other_info": {}
+}
