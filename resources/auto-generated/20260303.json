@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
+  "string_to_encrypt": "^lions^ ^jaguars^ ^browns^ ^texans^",
+  "hints": [
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "magnet",
+    "x": "flashlight",
+    "g": "accessibility",
+    "b": "shield",
+    "a": "glasses",
+    "o": "brush",
+    "w": "sunny",
+    "u": "resize",
+    "s": "compass",
+    "t": "trash",
+    "j": "layers",
+    "r": "flash-off",
+    "l": "receipt",
+    "e": "bag-remove",
+    "n": "remove"
+  },
+  "elements": [
+    "Lions",
+    "Jaguars",
+    "Browns",
+    "Texans"
+  ],
+  "other_info": {}
+}

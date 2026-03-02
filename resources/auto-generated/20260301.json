@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "fear can hold you prisoner. hope can set you free.",
+  "hints": [
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "send",
+    "h": "notifications-off",
+    "t": "newspaper",
+    "e": "mic",
+    "s": "library",
+    "o": "key",
+    "n": "color-filter",
+    "y": "navigate",
+    "a": "sad",
+    "r": "car",
+    "i": "compass",
+    "u": "contract",
+    "d": "battery-charging",
+    "l": "dice",
+    "f": "invert-mode",
+    "c": "location"
+  },
+  "other_info": {
+    "Author": "Stephen King"
+  }
+}
