@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it is entirely seemly for a young man killed in battle to lie mangled by the bronze spear. in his death all things appear fair.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "compass",
+    "i": "mic-off",
+    "n": "menu",
+    "b": "unlink",
+    "y": "cut",
+    "z": "hammer",
+    "o": "film",
+    "k": "invert-mode",
+    "a": "hand-left",
+    "f": "partly-sunny",
+    "h": "flask",
+    "u": "code-slash",
+    "d": "journal",
+    "r": "image",
+    "l": "refresh",
+    "m": "eye",
+    "g": "bag",
+    "s": "cellular",
+    "e": "fish",
+    "p": "help-buoy"
+  },
+  "other_info": {
+    "Author": "Homer"
+  }
+}
