@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Noble Gases",
+  "string_to_encrypt": "^xenon^ ^oganesson^ ^krypton^ ^neon^ ^argon^ ^radon^ ^helium^",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "fitness",
+    "n": "restaurant",
+    "g": "heart",
+    "d": "snow",
+    "k": "bag",
+    "y": "remove",
+    "x": "basketball",
+    "i": "heart-half",
+    "m": "watch",
+    "r": "baseball",
+    "o": "document",
+    "p": "paper-plane",
+    "u": "library",
+    "t": "bicycle",
+    "a": "checkmark-done",
+    "l": "ticket",
+    "s": "bag-remove",
+    "e": "code"
+  },
+  "elements": [
+    "Xenon",
+    "Oganesson",
+    "Krypton",
+    "Neon",
+    "Argon",
+    "Radon",
+    "Helium"
+  ],
+  "other_info": {}
+}
