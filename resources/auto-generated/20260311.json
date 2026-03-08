@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "everyone can be super! amd when everyone's super... [laughs maniacally] ... no one will be.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "archive",
+    "y": "bug",
+    "l": "cellular",
+    "w": "play-back",
+    "u": "build",
+    "g": "analytics",
+    "h": "pause",
+    "i": "wifi",
+    "s": "map",
+    "c": "lock-open",
+    "b": "ribbon",
+    "m": "chatbox",
+    "a": "invert-mode",
+    "v": "help-buoy",
+    "n": "game-controller",
+    "r": "fish",
+    "e": "cube",
+    "o": "code-slash",
+    "d": "notifications-off"
+  },
+  "other_info": {
+    "Character Name": "Syndrome",
+    "Source": "The Incredibles",
+    "Date": "2004"
+  }
+}
