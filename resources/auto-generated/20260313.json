@@ -1,0 +1,73 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i feel the need - the need for speed!",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "bug",
+    "t": "create",
+    "n": "hammer",
+    "s": "body",
+    "f": "musical-notes",
+    "r": "rose",
+    "i": "magnet",
+    "p": "funnel",
+    "l": "cloud-done",
+    "d": "bookmark",
+    "e": "man",
+    "o": "notifications-off"
+  },
+  "other_info": {
+    "Character Name": "Pete Mitchell",
+    "Source": "Top Gun",
+    "Date": "1986"
+  }
+}
