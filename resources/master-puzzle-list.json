@@ -2971,5 +2971,44 @@
     "encryption_map": null,
     "hints": null,
     "used": false
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Johnny, you're exactly as big as I let you be, and no bigger, and don't forget it, ever.",
+    "length": 88,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Leo O'Bannion",
+    "source": "Miller's Crossing",
+    "date": "1990"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Why aren\u2019t depressed people worried about flat tires? They\u2019re always carrying despair.\n\n",
+    "length": 88,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "How much do computer scientists like 0 and 1? Quite a bit.",
+    "length": 58,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Giraffes are 30 times more likely to be struck by lightning than humans.",
+    "length": 72,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
   }
 ]
