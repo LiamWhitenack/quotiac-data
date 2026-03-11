@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "octopuses have three hearts, and two of them stop beating when they swim",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "link",
+    "y": "male",
+    "f": "umbrella",
+    "c": "color-filter",
+    "w": "brush",
+    "n": "newspaper",
+    "u": "snow",
+    "v": "game-controller",
+    "t": "cube",
+    "r": "flash-off",
+    "i": "wifi",
+    "d": "mic-off",
+    "s": "reload",
+    "h": "ticket",
+    "p": "square",
+    "e": "radio",
+    "g": "build",
+    "o": "document",
+    "b": "bag-add",
+    "a": "storefront"
+  },
+  "other_info": {}
+}
