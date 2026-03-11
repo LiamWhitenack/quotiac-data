@@ -1,17 +1,9 @@
 {
-  "puzzle_type": "Most Popular Currencies, Excluding Dollars",
-  "string_to_encrypt": "^euro^ ^yen^ ^sterling^ ^renminbi^ ^franc^ ^rupee^ ^won^ ^krona^ ^peso^ ^krone^",
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "those who wish to sing always find a song. at the touch of a lover, everyone becomes a poet.",
   "hints": [
     {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
+      "letter": "y",
       "type": "GiveALetterHint"
     },
     {
@@ -19,7 +11,23 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "n",
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
       "type": "GiveALetterHint"
     },
     {
@@ -31,19 +39,15 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "w",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
@@ -51,7 +55,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "y",
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
@@ -59,58 +67,50 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "c",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "l",
+      "letter": "w",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "y": "aperture",
-    "m": "shuffle",
-    "f": "cloud-download",
-    "g": "cloud-upload",
-    "e": "cloud",
-    "n": "accessibility",
-    "s": "documents",
-    "k": "flame",
-    "r": "ellipsis-horizontal",
-    "b": "bag",
-    "u": "download",
-    "o": "chatbubbles",
-    "t": "extension-puzzle",
-    "w": "earth",
-    "l": "beer",
-    "i": "cube",
-    "a": "chatbubble-ellipses",
-    "c": "code",
-    "p": "sparkles"
+    "b": "nuclear",
+    "t": "shirt",
+    "y": "paw",
+    "c": "attach",
+    "s": "cube",
+    "l": "color-wand",
+    "v": "rainy",
+    "g": "umbrella",
+    "e": "basketball",
+    "i": "journal",
+    "u": "bag-handle",
+    "n": "at",
+    "w": "color-palette",
+    "d": "repeat",
+    "o": "home",
+    "p": "shield",
+    "h": "wifi",
+    "m": "briefcase",
+    "r": "flag",
+    "f": "options",
+    "a": "chatbox-ellipses"
   },
-  "elements": [
-    "Euro",
-    "Yen",
-    "Sterling",
-    "Renminbi",
-    "Franc",
-    "Rupee",
-    "Won",
-    "Krona",
-    "Peso",
-    "Krone"
-  ],
-  "other_info": {}
+  "other_info": {
+    "Author": "Plato"
+  }
 }

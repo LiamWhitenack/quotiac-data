@@ -1360,7 +1360,7 @@
     "length": 92,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Plato",
     "date": null
   },
@@ -2226,7 +2226,7 @@
     "length": 54,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Abraham Lincoln",
     "date": null
   },

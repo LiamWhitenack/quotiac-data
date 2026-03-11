@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Most Popular Currencies, Excluding Dollars",
+  "string_to_encrypt": "^euro^ ^yen^ ^sterling^ ^renminbi^ ^franc^ ^rupee^ ^won^ ^krona^ ^peso^ ^krone^",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "duplicate",
+    "t": "archive",
+    "y": "mic-off",
+    "c": "code-download",
+    "s": "funnel",
+    "l": "filter",
+    "g": "contract",
+    "e": "cart",
+    "i": "accessibility",
+    "u": "add",
+    "n": "battery-charging",
+    "w": "refresh",
+    "o": "caret-back",
+    "p": "hammer",
+    "m": "home",
+    "r": "crop",
+    "f": "newspaper",
+    "a": "briefcase",
+    "k": "pin"
+  },
+  "elements": [
+    "Euro",
+    "Yen",
+    "Sterling",
+    "Renminbi",
+    "Franc",
+    "Rupee",
+    "Won",
+    "Krona",
+    "Peso",
+    "Krone"
+  ],
+  "other_info": {}
+}
