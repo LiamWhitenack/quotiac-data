@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "you'll come a waltzing matilda with me and he sang as he watched and waited till his billy boiled you'll come a-waltzing matilda with me",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "calculator",
+    "c": "trophy",
+    "d": "mail-open",
+    "w": "chatbox",
+    "t": "battery-charging",
+    "b": "cloud-done",
+    "z": "recording",
+    "h": "filter",
+    "g": "shapes",
+    "i": "flag",
+    "m": "hammer",
+    "u": "subway",
+    "n": "notifications-off",
+    "s": "bar-chart",
+    "y": "barbell",
+    "o": "alarm",
+    "a": "pint",
+    "l": "image"
+  },
+  "other_info": {
+    "Artist": "A.B. Paterson",
+    "Title": "Waltzing Matilda (The Unofficial Australian National Anthem)",
+    "Date": "1895"
+  }
+}
