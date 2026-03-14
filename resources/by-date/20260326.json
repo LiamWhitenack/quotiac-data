@@ -1,0 +1,132 @@
+{
+  "puzzle_type": "Dinosaurs in The Jurassic Park Trilogy",
+  "string_to_encrypt": "^compsognathus^ ^corythosaurus^ ^gallimimus^ ^ceratosaurus^ ^stegosaurus^ ^brachiosaurus^ ^ankylosaurus^ ^pteranodon^ ^spinosaurus^ ^velociraptor^ ^pachycephalosaurus^ ^mamenchisaurus^ ^parasaurolophus^ ^triceratops^ ^tyrannosaurus rex^ ^dilophosaurus^",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "home",
+    "y": "pie-chart",
+    "r": "cube",
+    "k": "nuclear",
+    "s": "journal",
+    "u": "calculator",
+    "t": "golf",
+    "b": "star",
+    "p": "eye",
+    "g": "create",
+    "x": "document-lock",
+    "a": "cart",
+    "e": "aperture",
+    "h": "chevron-up",
+    "i": "bag-check",
+    "o": "key",
+    "n": "tv",
+    "d": "flashlight",
+    "v": "hand-left",
+    "c": "football",
+    "l": "earth"
+  },
+  "elements": [
+    "Compsognathus",
+    "Corythosaurus",
+    "Gallimimus",
+    "Ceratosaurus",
+    "Stegosaurus",
+    "Brachiosaurus",
+    "Ankylosaurus",
+    "Pteranodon",
+    "Spinosaurus",
+    "Velociraptor",
+    "Pachycephalosaurus",
+    "Mamenchisaurus",
+    "Parasaurolophus",
+    "Triceratops",
+    "Tyrannosaurus rex",
+    "Dilophosaurus"
+  ],
+  "other_info": {"Advice": "Try to save your hints as long as possible. Some of these are very obscure. Some also may appear to "}
+}
