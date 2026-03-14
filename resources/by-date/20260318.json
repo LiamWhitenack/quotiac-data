@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "worry does not empty tomorrow of its sorrow, it empties today of its strength.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "gift",
+    "f": "medkit",
+    "i": "checkbox",
+    "o": "reader",
+    "n": "shuffle",
+    "t": "chevron-forward",
+    "w": "code-download",
+    "d": "list",
+    "y": "extension-puzzle",
+    "r": "star",
+    "p": "chevron-up",
+    "s": "rainy",
+    "a": "key",
+    "e": "medal",
+    "g": "person",
+    "h": "hardware-chip"
+  },
+  "other_info": {
+    "Author": "Corrie Ten Boom"
+  }
+}

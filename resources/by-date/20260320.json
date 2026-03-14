@@ -1,0 +1,100 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "o say does that star-spangled banner yet wave\no'er the land of the free and the home of the brave? ",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "bag",
+    "f": "chatbox-ellipses",
+    "o": "megaphone",
+    "n": "mic",
+    "t": "checkmark",
+    "w": "cafe",
+    "d": "speedometer",
+    "y": "list",
+    "r": "dice",
+    "v": "hammer",
+    "b": "barcode",
+    "p": "musical-notes",
+    "s": "duplicate",
+    "a": "newspaper",
+    "e": "flower",
+    "g": "aperture",
+    "l": "paper-plane",
+    "h": "card"
+  },
+  "other_info": {
+  }
+}

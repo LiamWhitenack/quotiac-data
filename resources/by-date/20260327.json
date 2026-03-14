@@ -1,0 +1,110 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "this thing all things devours;\nbirds, beasts, trees, flowers;\ngnaws iron, bites steel;\ngrinds hard stones to meal;\nslays king, ruins town,\nand beats mountain down.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "book",
+    "y": "image",
+    "r": "speedometer",
+    "k": "color-fill",
+    "s": "crop",
+    "f": "chatbubble",
+    "u": "cog",
+    "t": "basket",
+    "b": "flash-off",
+    "g": "play-forward",
+    "w": "analytics",
+    "a": "warning",
+    "e": "today",
+    "h": "hand-left",
+    "i": "nuclear",
+    "o": "log-in",
+    "n": "chevron-collapse",
+    "d": "fitness",
+    "v": "egg",
+    "l": "paw"
+  },
+  "question_answer": "This thing all things devours;\nBirds, beasts, trees, flowers;\nGnaws iron, bites steel;\nGrinds hard stones to meal;\nSlays king, ruins town,\nAnd beats mountain down.",
+  "other_info": {}
+}

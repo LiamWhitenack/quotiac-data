@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "johnny, you're exactly as big as i let you be, and no bigger, and don't forget it, ever.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "color-palette",
+    "r": "bus",
+    "s": "shirt",
+    "f": "checkmark",
+    "u": "send",
+    "t": "play-forward",
+    "j": "umbrella",
+    "b": "baseball",
+    "g": "add",
+    "x": "heart-half",
+    "a": "ellipsis-horizontal",
+    "e": "repeat",
+    "h": "server",
+    "i": "walk",
+    "o": "speedometer",
+    "n": "male",
+    "d": "musical-notes",
+    "v": "contract",
+    "c": "cafe",
+    "l": "beaker"
+  },
+  "other_info": {
+    "Character Name": "Leo O'Bannion",
+    "Source": "Miller's Crossing",
+    "Date": "1990"
+  }
+}

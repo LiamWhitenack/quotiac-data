@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "give me liberty, or give me death!",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "stop",
+    "i": "duplicate",
+    "o": "analytics",
+    "t": "chevron-up",
+    "d": "golf",
+    "y": "recording",
+    "r": "add",
+    "v": "bed",
+    "b": "cafe",
+    "a": "heart",
+    "e": "at",
+    "g": "partly-sunny",
+    "l": "bandage",
+    "h": "sunny"
+  },
+  "other_info": {
+    "Author": "Patrick Henry"
+  }
+}

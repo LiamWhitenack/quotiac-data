@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "only the dead have seen the end of war.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "moon",
+    "o": "caret-down",
+    "n": "hardware-chip",
+    "t": "person",
+    "w": "cube",
+    "d": "flag",
+    "y": "subway",
+    "r": "film",
+    "v": "megaphone",
+    "s": "trash",
+    "a": "open",
+    "e": "football",
+    "l": "map",
+    "h": "chevron-collapse"
+  },
+  "other_info": {
+    "Author": "Plato"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "did you hear about the glass blower who accidentally inhaled? he got stomach pane.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "finger-print",
+    "y": "bus",
+    "r": "cash",
+    "s": "checkmark-done",
+    "u": "build",
+    "t": "flask",
+    "b": "documents",
+    "p": "globe",
+    "g": "scan",
+    "w": "bar-chart",
+    "a": "nutrition",
+    "e": "flash",
+    "h": "battery-charging",
+    "i": "card",
+    "o": "funnel",
+    "n": "school",
+    "d": "fish",
+    "c": "navigate",
+    "l": "ban"
+  },
+  "other_info": {}
+}

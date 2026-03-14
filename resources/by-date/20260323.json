@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "humanity has mapped more of the surface of mars in high resolution than the earth's ocean floors",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "bonfire",
+    "f": "nutrition",
+    "u": "infinite",
+    "i": "rocket",
+    "o": "flash-off",
+    "t": "key",
+    "d": "gift",
+    "n": "lock-open",
+    "y": "chevron-collapse",
+    "r": "happy",
+    "p": "apps",
+    "c": "airplane",
+    "s": "reload",
+    "a": "flag",
+    "e": "eye",
+    "g": "compass",
+    "l": "bookmark",
+    "h": "ban"
+  },
+  "other_info": {}
+}

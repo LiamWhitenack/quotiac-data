@@ -1083,7 +1083,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "Give me liberty, or give me death!",
     "length": 34,
-    "used": false,
+    "used": true,
     "author": "Patrick Henry"
   },
   {
@@ -1103,14 +1103,6 @@
     "length": 58,
     "used": false,
     "author": "Neil Armstrong"
-  },
-  {
-    "type": "DirectQuote",
-    "puzzle_type": "Direct Quote",
-    "string_to_encrypt": "To be or not to be, that is the question.",
-    "length": 41,
-    "used": false,
-    "author": "William Shakespeare"
   },
   {
     "type": "CharacterQuote",
@@ -1327,7 +1319,7 @@
     "length": 39,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Plato",
     "date": null
   },
@@ -1566,7 +1558,7 @@
     "length": 36,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Jonathan Swift",
     "date": null
   },
@@ -2970,7 +2962,7 @@
     "length": 82,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -2979,7 +2971,7 @@
     "length": 88,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Leo O'Bannion",
     "source": "Miller's Crossing",
     "date": "1990"
@@ -3009,6 +3001,114 @@
     "length": 72,
     "encryption_map": null,
     "hints": null,
+    "used": true
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Worry does not empty tomorrow of its sorrow, it empties today of its strength.",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Corrie Ten Boom",
+    "date": null
+  },
+  {
+    "type": "SongLyrics",
+    "puzzle_type": "Song lyrics",
+    "string_to_encrypt": "O say does that star-spangled banner yet wave\nO'er the land of the free and the home of the brave? ",
+    "length": 99,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "artist": "secret",
+    "title": "secret",
+    "date": "secret"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Play Quote",
+    "string_to_encrypt": "To be, or not to be, that is the question:\n\nWhether 'tis nobler in the mind to suffer\n\nThe slings and arrows of outrageous fortune,\n\nOr to take arms against a sea of troubles\n\nAnd by opposing end them.",
+    "length": 201,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "g",
+    "source": "fghjk",
+    "date": "ghjkl"
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Of any nation in the world, Brazil grows the most coffee.",
+    "length": 57,
+    "encryption_map": null,
+    "hints": null,
     "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "humanity has mapped more of the surface of Mars in high resolution than the earth's ocean floors",
+    "length": 96,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Dinosaurs in The Jurassic Park Trilogy",
+    "string_to_encrypt": "^Spinosaurus^ ^Triceratops^ ^Stegosaurus^ ^Compsognathus^ ^Dilophosaurus^ ^Ankylosaurus^ ^Velociraptor^ ^Pachycephalosaurus^ ^Parasaurolophus^ ^Ceratosaurus^ ^Pteranodon^ ^Corythosaurus^ ^Brachiosaurus^ ^Mamenchisaurus^ ^Tyrannosaurus rex^ ^Gallimimus^",
+    "length": 252,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "Spinosaurus",
+      "Triceratops",
+      "Stegosaurus",
+      "Compsognathus",
+      "Dilophosaurus",
+      "Ankylosaurus",
+      "Velociraptor",
+      "Pachycephalosaurus",
+      "Parasaurolophus",
+      "Ceratosaurus",
+      "Pteranodon",
+      "Corythosaurus",
+      "Brachiosaurus",
+      "Mamenchisaurus",
+      "Tyrannosaurus rex",
+      "Gallimimus"
+    ]
+  },
+  {
+    "type": "Riddle",
+    "puzzle_type": "Riddle",
+    "string_to_encrypt": "This thing all things devours;\nBirds, beasts, trees, flowers;\nGnaws iron, bites steel;\nGrinds hard stones to meal;\nSlays king, ruins town,\nAnd beats mountain down.",
+    "length": 163,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "question_answer": "This thing all things devours;\nBirds, beasts, trees, flowers;\nGnaws iron, bites steel;\nGrinds hard stones to meal;\nSlays king, ruins town,\nAnd beats mountain down."
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Invasive Species From America",
+    "string_to_encrypt": "^Mink^ ^Squirrel^ ^Rosy Wolfsnail^ ^Largemouth Bass^ ^Red-Eared Sliders^ ^Bullfrog^ ^Raccoon^",
+    "length": 83,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Mink",
+      "Squirrel",
+      "Rosy Wolfsnail",
+      "Largemouth Bass",
+      "Red-Eared Sliders",
+      "Bullfrog",
+      "Raccoon"
+    ]
   }
 ]
