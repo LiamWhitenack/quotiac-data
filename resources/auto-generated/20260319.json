@@ -1,0 +1,98 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "there is no easter bunny, there is no tooth fairy, and there is no queen of england.",
+  "hints": [
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "q": "notifications-off",
+    "y": "leaf",
+    "g": "create",
+    "b": "infinite",
+    "a": "code-slash",
+    "f": "today",
+    "s": "hammer",
+    "h": "funnel",
+    "n": "locate",
+    "r": "bag-add",
+    "i": "attach",
+    "d": "flag",
+    "l": "walk",
+    "u": "location",
+    "e": "basketball",
+    "o": "unlink",
+    "t": "flower"
+  },
+  "other_info": {
+    "Character Name": "Tighten",
+    "Source": "Megamind",
+    "Date": "2010"
+  }
+}
