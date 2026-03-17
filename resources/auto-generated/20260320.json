@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "did you hear about the glass blower who accidentally inhaled? he got stomach pane.",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "copy",
+    "r": "stop",
+    "n": "settings",
+    "c": "calendar",
+    "g": "desktop",
+    "o": "magnet",
+    "d": "hardware-chip",
+    "m": "construct",
+    "b": "thunderstorm",
+    "h": "medical",
+    "s": "alarm",
+    "w": "notifications",
+    "i": "analytics",
+    "u": "code-working",
+    "a": "body",
+    "e": "checkmark",
+    "l": "time",
+    "p": "eye-off",
+    "t": "browsers"
+  },
+  "other_info": {}
+}
