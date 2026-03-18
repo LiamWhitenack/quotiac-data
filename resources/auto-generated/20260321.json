@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "not that i condone fascism, or any -ism for that matter. -ism's in my opinion are not good. a person should not believe in an -ism, he should believe in himself.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "exit",
+    "m": "bug",
+    "t": "mail-open",
+    "r": "football",
+    "i": "chatbox-ellipses",
+    "g": "cloud-upload",
+    "v": "body",
+    "n": "open",
+    "y": "videocam",
+    "d": "shield",
+    "s": "square",
+    "p": "log-in",
+    "l": "home",
+    "e": "ice-cream",
+    "h": "caret-up",
+    "f": "trash",
+    "b": "man",
+    "c": "code-slash",
+    "o": "compass",
+    "u": "ellipsis-horizontal"
+  },
+  "other_info": {
+    "Character Name": "Ferris Bueller",
+    "Source": "Ferris Bueller's Day Off",
+    "Date": "1986"
+  }
+}
