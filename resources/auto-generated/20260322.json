@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the pen is mightier than the sword",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "navigate",
+    "o": "pint",
+    "n": "wifi",
+    "p": "archive",
+    "s": "notifications-off",
+    "m": "repeat",
+    "a": "hand-left",
+    "i": "color-fill",
+    "e": "journal",
+    "d": "bag-add",
+    "r": "pin",
+    "g": "bag-handle",
+    "h": "document",
+    "w": "bug"
+  },
+  "other_info": {
+    "Author": "Edward Bulwer-Lytton"
+  }
+}
