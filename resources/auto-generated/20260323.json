@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "two guys walk into a bar. the third one ducks.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "cellular",
+    "a": "bag-handle",
+    "d": "menu",
+    "s": "sad",
+    "u": "bicycle",
+    "h": "color-wand",
+    "l": "eyedrop",
+    "n": "watch",
+    "t": "contrast",
+    "b": "link",
+    "g": "document-lock",
+    "o": "alarm",
+    "y": "log-in",
+    "r": "checkbox",
+    "i": "analytics",
+    "c": "chatbox-ellipses",
+    "w": "person",
+    "k": "shield"
+  },
+  "other_info": {}
+}
