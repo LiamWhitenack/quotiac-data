@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it is not the strongest of the species that survive, but the one most responsive to change.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "thunderstorm",
+    "i": "exit",
+    "h": "radio",
+    "t": "rainy",
+    "r": "mic",
+    "o": "notifications-off",
+    "s": "aperture",
+    "a": "chatbox",
+    "e": "code-slash",
+    "c": "glasses",
+    "v": "caret-up",
+    "n": "move",
+    "g": "baseball",
+    "b": "play-back",
+    "m": "help-buoy",
+    "f": "cut",
+    "p": "bicycle"
+  },
+  "other_info": {
+    "Author": "Charles Darwin"
+  }
+}
