@@ -1,0 +1,71 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the future will be better tomorrow.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "scale",
+    "l": "cube",
+    "m": "planet",
+    "e": "cellular",
+    "r": "cloud",
+    "t": "invert-mode",
+    "i": "crop",
+    "o": "bug",
+    "b": "heart",
+    "f": "shapes",
+    "u": "home",
+    "h": "code-slash"
+  },
+  "other_info": {
+    "Author": "Dan Quayle"
+  }
+}
