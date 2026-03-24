@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the lord bless you and keep you; the lord make his face to shine upon you and be gracious to you; the lord lift up his countenance upon you and give you peace.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "flame",
+    "f": "telescope",
+    "o": "happy",
+    "n": "color-filter",
+    "k": "water",
+    "e": "eye",
+    "u": "finger-print",
+    "g": "rocket",
+    "y": "call",
+    "d": "duplicate",
+    "i": "color-fill",
+    "t": "card",
+    "r": "calendar",
+    "s": "archive",
+    "p": "image",
+    "b": "mail-open",
+    "v": "nuclear",
+    "m": "car",
+    "h": "ban",
+    "a": "person",
+    "l": "golf"
+  },
+  "other_info": {
+    "Author": "The Bible, Numbers"
+  }
+}
