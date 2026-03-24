@@ -1,0 +1,73 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "roads? where we're going, we don't need roads.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "sunny",
+    "h": "cloud",
+    "n": "musical-notes",
+    "r": "bag-add",
+    "w": "ice-cream",
+    "a": "brush",
+    "o": "accessibility",
+    "g": "contrast",
+    "e": "checkmark-done",
+    "i": "mail-open",
+    "t": "moon",
+    "s": "planet"
+  },
+  "other_info": {
+    "Character Name": "Doc Brown",
+    "Source": "Back to the Future",
+    "Date": "1985"
+  }
+}

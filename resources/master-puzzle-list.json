@@ -1101,7 +1101,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "That's one stall step for man, one giant leap for mankind.",
     "length": 58,
-    "used": false,
+    "used": true,
     "author": "Neil Armstrong"
   },
   {
@@ -1129,7 +1129,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "Coach, if you need one yard, I'll get you three yards. If you need five yards, I'll get you three yards.",
     "length": 106,
-    "used": false,
+    "used": true,
     "author": "Leroy Hoard (NFL Running Back)"
   },
   {
@@ -1536,7 +1536,7 @@
     "length": 83,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Aristotle",
     "date": null
   },
@@ -3110,5 +3110,62 @@
       "Bullfrog",
       "Raccoon"
     ]
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I did a theatrical performance about puns. It was really just a play on words.",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "4 is the only number with the same number of letters in its name",
+    "length": 64,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "List",
+    "puzzle_type": "Named Characters in Lord of the Flies",
+    "string_to_encrypt": "^Ralph^ ^Jack^ ^Piggy^ ^Simon^ ^Roger^ ^Sam^ ^Eric^",
+    "length": 51,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Ralph",
+      "Jack",
+      "Piggy",
+      "Simon",
+      "Roger",
+      "Sam",
+      "Eric"
+    ]
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "Definition of Gobbledygook",
+    "string_to_encrypt": "language that is meaningless or is made unintelligible by excessive use of abstruse technical terms; nonsense.",
+    "length": 110,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Roads? Where we're going, we don't need roads.",
+    "length": 46,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Doc Brown",
+    "source": "Back to the Future",
+    "date": "1985"
   }
 ]

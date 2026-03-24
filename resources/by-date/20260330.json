@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "4 is the only number with the same number of letters in its name",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "globe",
+    "i": "cloudy-night",
+    "e": "dice",
+    "o": "expand",
+    "w": "school",
+    "a": "medal",
+    "b": "paw",
+    "u": "layers",
+    "n": "baseball",
+    "r": "barcode",
+    "s": "cloud-done",
+    "h": "locate",
+    "m": "golf",
+    "t": "heart",
+    "l": "invert-mode",
+    "y": "cash"
+  },
+  "other_info": {}
+}

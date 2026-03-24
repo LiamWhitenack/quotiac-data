@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "that's one stall step for man, one giant leap for mankind.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "key",
+    "i": "documents",
+    "e": "flame",
+    "g": "flask",
+    "o": "pause",
+    "d": "shirt",
+    "a": "partly-sunny",
+    "k": "bandage",
+    "n": "ban",
+    "r": "paw",
+    "s": "mail-open",
+    "h": "fast-food",
+    "m": "glasses",
+    "t": "grid",
+    "l": "checkmark",
+    "p": "bag-handle"
+  },
+  "other_info": {
+    "Author": "Neil Armstrong"
+  }
+}

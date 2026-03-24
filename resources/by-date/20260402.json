@@ -1,0 +1,98 @@
+{
+  "puzzle_type": "Named Characters in Lord of the Flies",
+  "string_to_encrypt": "^ralph^ ^jack^ ^piggy^ ^simon^ ^roger^ ^sam^ ^eric^",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "stop",
+    "n": "fitness",
+    "o": "key",
+    "e": "code",
+    "y": "infinite",
+    "s": "bandage",
+    "j": "happy",
+    "m": "pause",
+    "p": "bookmark",
+    "a": "golf",
+    "r": "bus",
+    "h": "scale",
+    "k": "caret-back",
+    "i": "medkit",
+    "g": "cloud-done",
+    "c": "flash-off"
+  },
+  "elements": [
+    "Ralph",
+    "Jack",
+    "Piggy",
+    "Simon",
+    "Roger",
+    "Sam",
+    "Eric"
+  ],
+  "other_info": {}
+}
