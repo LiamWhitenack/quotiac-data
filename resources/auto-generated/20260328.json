@@ -1,0 +1,132 @@
+{
+  "puzzle_type": "Synonyms for \"decode\"",
+  "string_to_encrypt": "^break^ ^solve^ ^render^ ^decipher^ ^unscramble^ ^translate^ ^figure out^ ^crack^ ^unravel^ ^decrypt^ ^work^",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "storefront",
+    "d": "sparkles",
+    "y": "dice",
+    "v": "scan",
+    "c": "chevron-back",
+    "m": "caret-back",
+    "t": "trash",
+    "i": "videocam",
+    "e": "square",
+    "a": "bag-add",
+    "u": "game-controller",
+    "n": "leaf",
+    "l": "desktop",
+    "k": "journal",
+    "g": "wine",
+    "s": "wallet",
+    "b": "bug",
+    "p": "cloud-done",
+    "f": "water",
+    "w": "list",
+    "h": "football",
+    "r": "flashlight"
+  },
+  "elements": [
+    "break",
+    "solve",
+    "render",
+    "decipher",
+    "unscramble",
+    "translate",
+    "figure out",
+    "crack",
+    "unravel",
+    "decrypt",
+    "work"
+  ],
+  "other_info": {}
+}
