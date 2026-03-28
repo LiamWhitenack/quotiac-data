@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Longest American Rivers",
+  "string_to_encrypt": "^missouri^ ^mississippi^ ^yukon^ ^rio grande^ ^colorado^ ^arkansas^ ^columbia^ ^red^ ^snake^ ^ohio^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "apps",
+    "d": "resize",
+    "r": "ticket",
+    "l": "menu",
+    "e": "home",
+    "n": "pint",
+    "s": "ice-cream",
+    "h": "ellipsis-horizontal",
+    "a": "sparkles",
+    "g": "happy",
+    "o": "document",
+    "u": "trophy",
+    "p": "attach",
+    "i": "grid",
+    "k": "flower",
+    "c": "server",
+    "m": "trash",
+    "y": "invert-mode"
+  },
+  "elements": [
+    "Missouri",
+    "Mississippi",
+    "Yukon",
+    "Rio Grande",
+    "Colorado",
+    "Arkansas",
+    "Columbia",
+    "Red",
+    "Snake",
+    "Ohio"
+  ],
+  "other_info": {}
+}

@@ -60,7 +60,7 @@
     "character_name": "Bruce",
     "source": "Finding Nemo",
     "date": "2003",
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -420,7 +420,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "The wisest men follow their own direction.",
     "author": "Euripides",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -980,7 +980,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "There are decades where nothing happens; and there are weeks where decades happen",
     "length": 81,
-    "used": false,
+    "used": true,
     "author": "Vladamir llyich Lenin"
   },
   {
@@ -3045,7 +3045,7 @@
     "length": 57,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -3167,5 +3167,44 @@
     "character_name": "Doc Brown",
     "source": "Back to the Future",
     "date": "1985"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "The past, the present and the future all walk into a bar. It was tense.",
+    "length": 71,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "List",
+    "puzzle_type": "Longest American Rivers",
+    "string_to_encrypt": "^Missouri^ ^Mississippi^ ^Yukon^ ^Rio Grande^ ^Colorado^ ^Arkansas^ ^Columbia^ ^Red^ ^Snake^ ^Ohio^",
+    "length": 99,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Missouri",
+      "Mississippi",
+      "Yukon",
+      "Rio Grande",
+      "Colorado",
+      "Arkansas",
+      "Columbia",
+      "Red",
+      "Snake",
+      "Ohio"
+    ]
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "1 Corinthians 13:13 (NIV)",
+    "string_to_encrypt": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "length": 84,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
   }
 ]

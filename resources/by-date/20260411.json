@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i am a nice shark, not a mindless eating machine. if i am to change this image, i must first change myself. fish are friends, not food.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "map",
+    "r": "bug",
+    "l": "calculator",
+    "e": "pie-chart",
+    "n": "calendar",
+    "f": "attach",
+    "s": "baseball",
+    "h": "person",
+    "a": "paper-plane",
+    "g": "funnel",
+    "o": "repeat",
+    "u": "caret-up",
+    "k": "rose",
+    "i": "shuffle",
+    "m": "cloud-download",
+    "c": "chatbubble",
+    "t": "chatbox-ellipses",
+    "y": "infinite"
+  },
+  "other_info": {
+    "Character Name": "Bruce",
+    "Source": "Finding Nemo",
+    "Date": "2003"
+  }
+}

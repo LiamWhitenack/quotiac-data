@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "there are decades where nothing happens; and there are weeks where decades happen",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "chevron-back",
+    "r": "today",
+    "n": "call",
+    "e": "star",
+    "w": "female",
+    "s": "ellipsis-horizontal",
+    "h": "boat",
+    "a": "color-filter",
+    "g": "flash",
+    "o": "flash-off",
+    "p": "toggle",
+    "k": "bus",
+    "i": "pie-chart",
+    "c": "finger-print",
+    "t": "sunny"
+  },
+  "other_info": {
+    "Author": "Vladamir llyich Lenin"
+  }
+}
