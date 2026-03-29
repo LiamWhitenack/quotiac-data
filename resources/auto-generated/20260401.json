@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "there are only two things i can't stand in this world. people who are intolerant of other people's cultures. and the dutch.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "expand",
+    "n": "golf",
+    "f": "cloud-download",
+    "l": "flashlight",
+    "h": "color-filter",
+    "y": "library",
+    "s": "cart",
+    "c": "train",
+    "r": "male",
+    "u": "sad",
+    "i": "caret-down",
+    "g": "location",
+    "e": "options",
+    "a": "color-wand",
+    "p": "warning",
+    "t": "code-working",
+    "o": "build",
+    "w": "walk"
+  },
+  "other_info": {
+    "Character Name": "Nigel Powers",
+    "Source": "Austin Powers in Goldmember",
+    "Date": "2002"
+  }
+}
