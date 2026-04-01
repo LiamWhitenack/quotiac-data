@@ -1,6 +1,6 @@
 {
   "puzzle_type": "Direct Quote",
-  "string_to_encrypt": "that's one stall step for man, one giant leap for mankind.",
+  "string_to_encrypt": "that's one small step for man, one giant leap for mankind.",
   "hints": [
     {
       "letter": "e",

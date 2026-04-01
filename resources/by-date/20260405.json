@@ -28,6 +28,7 @@
     },
     {
       "letter": "i",
+    
       "type": "GiveALetterHint"
     },
     {
