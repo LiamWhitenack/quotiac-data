@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "give me liberty, or give me death!",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "bug",
+    "b": "wine",
+    "e": "backspace",
+    "r": "exit",
+    "l": "calculator",
+    "h": "nuclear",
+    "d": "subway",
+    "v": "play-forward",
+    "y": "train",
+    "m": "beaker",
+    "a": "checkmark",
+    "t": "gift",
+    "i": "scale",
+    "g": "invert-mode"
+  },
+  "other_info": {
+    "Author": "Patrick Henry"
+  }
+}

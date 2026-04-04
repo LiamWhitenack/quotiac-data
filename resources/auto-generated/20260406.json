@@ -1,0 +1,97 @@
+{
+  "puzzle_type": "Barbeque Meats",
+  "string_to_encrypt": "^turkey^ ^chicken^ ^ribs^ ^brisket^ ^sausage^ ^pork^",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "finger-print",
+    "r": "chevron-up",
+    "i": "heart-dislike",
+    "s": "enter",
+    "u": "ellipsis-horizontal",
+    "b": "cellular",
+    "t": "fish",
+    "o": "locate",
+    "g": "leaf",
+    "a": "paw",
+    "n": "barcode",
+    "y": "male",
+    "e": "bug",
+    "k": "bed",
+    "c": "medkit",
+    "p": "settings"
+  },
+  "elements": [
+    "Turkey",
+    "Chicken",
+    "Ribs",
+    "Brisket",
+    "Sausage",
+    "Pork"
+  ],
+  "other_info": {}
+}
