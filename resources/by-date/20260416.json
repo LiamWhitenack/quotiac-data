@@ -1,0 +1,126 @@
+{
+  "puzzle_type": "Most Subscribed Youtube Channels",
+  "string_to_encrypt": "^t-series^ ^wwe^ ^cocomelon - nursery rhymes^ ^vlad and niki^ ^kids diana show^ ^like nastya^ ^set india^ ^zee music company^ ^mrbeast^ ^pewdiepie^",
+  "hints": [
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "eye",
+    "s": "move",
+    "k": "grid",
+    "c": "recording",
+    "r": "baseball",
+    "e": "pint",
+    "b": "toggle",
+    "m": "caret-down",
+    "i": "water",
+    "n": "home",
+    "y": "menu",
+    "h": "cafe",
+    "w": "watch",
+    "v": "school",
+    "t": "add",
+    "l": "bag-handle",
+    "z": "star",
+    "o": "cloud-done",
+    "d": "boat",
+    "p": "nuclear",
+    "u": "archive"
+  },
+  "elements": [
+    "T-Series",
+    "WWE",
+    "Cocomelon - Nursery Rhymes",
+    "Vlad and Niki",
+    "Kids Diana Show",
+    "Like Nastya",
+    "SET India",
+    "Zee Music Company",
+    "MrBeast",
+    "PewDiePie"
+  ],
+  "other_info": {}
+}

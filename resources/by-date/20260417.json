@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the movies are like a machine that generates empathy.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "journal",
+    "n": "subway",
+    "s": "heart-dislike",
+    "v": "ear",
+    "k": "mic",
+    "m": "funnel",
+    "t": "boat",
+    "p": "trash",
+    "i": "analytics",
+    "g": "heart",
+    "e": "briefcase",
+    "r": "move",
+    "l": "contract",
+    "o": "navigate",
+    "y": "sparkles",
+    "c": "play-back",
+    "a": "nuclear"
+  },
+  "other_info": {
+    "Author": "Roger Ebert"
+  }
+}

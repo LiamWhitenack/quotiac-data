@@ -1,0 +1,79 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "botanically, strawberries are not berries, but bananas are.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "cube",
+    "o": "repeat",
+    "l": "battery-charging",
+    "y": "wine",
+    "a": "documents",
+    "s": "cog",
+    "c": "airplane",
+    "w": "grid",
+    "r": "cloudy-night",
+    "e": "log-in",
+    "b": "pizza",
+    "u": "download",
+    "i": "fitness",
+    "n": "nutrition"
+  },
+  "other_info": {}
+}

@@ -1,0 +1,112 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "would i rather be feared or loved? easy. both. i want people to be afraid of how much they love me.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "call",
+    "s": "game-controller",
+    "c": "brush",
+    "r": "unlink",
+    "e": "bar-chart",
+    "b": "cloud-done",
+    "m": "eye",
+    "i": "bag-remove",
+    "n": "remove",
+    "y": "shield",
+    "h": "rose",
+    "w": "person",
+    "v": "golf",
+    "t": "water",
+    "l": "ice-cream",
+    "o": "save",
+    "d": "duplicate",
+    "p": "ear",
+    "f": "tv",
+    "u": "chevron-collapse"
+  },
+  "other_info": {
+    "Character Name": "Michael Scott",
+    "Source": "The Office"
+  }
+}

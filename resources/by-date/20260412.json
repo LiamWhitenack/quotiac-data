@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "i changed my phone\u2019s name to titanic. it\u2019s syncing now.",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "shirt",
+    "o": "mail-open",
+    "y": "compass",
+    "a": "extension-puzzle",
+    "s": "tv",
+    "h": "duplicate",
+    "c": "wine",
+    "w": "radio",
+    "d": "camera",
+    "p": "desktop",
+    "e": "subway",
+    "g": "speedometer",
+    "m": "cloud-offline",
+    "i": "ticket",
+    "n": "flashlight"
+  },
+  "other_info": {}
+}

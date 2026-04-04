@@ -744,7 +744,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "As to diseases make a habit of two things - to help, or at least, to do no harm.",
     "author": "Hippocrates",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1042,7 +1042,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "the movies are like a machine that generates empathy.",
     "length": 53,
-    "used": false,
+    "used": true,
     "author": "Roger Ebert"
   },
   {
@@ -1341,7 +1341,7 @@
     "length": 118,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Plato",
     "date": null
   },
@@ -3206,5 +3206,56 @@
     "encryption_map": null,
     "hints": null,
     "used": true
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I changed my phone\u2019s name to Titanic. It\u2019s syncing now.",
+    "length": 55,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "Botanically, strawberries are not berries, but bananas are.",
+    "length": 59,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Most Subscribed Youtube Channels",
+    "string_to_encrypt": "^Like Nastya^ ^Kids Diana Show^ ^Zee Music Company^ ^SET India^ ^WWE^ ^Vlad and Niki^ ^T-Series^ ^Cocomelon - Nursery Rhymes^ ^MrBeast^ ^PewDiePie^",
+    "length": 147,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Like Nastya",
+      "Kids Diana Show",
+      "Zee Music Company",
+      "SET India",
+      "WWE",
+      "Vlad and Niki",
+      "T-Series",
+      "Cocomelon - Nursery Rhymes",
+      "MrBeast",
+      "PewDiePie"
+    ]
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Sitcom Quote",
+    "string_to_encrypt": "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me.",
+    "length": 99,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Michael Scott",
+    "source": "The Office",
+    "date": "remove later"
   }
 ]
