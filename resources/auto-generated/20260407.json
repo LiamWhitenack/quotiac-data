@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "soon it will be a sin for parents to have a child which carries the heavy burden of genetic disease.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "notifications-off",
+    "b": "mail-open",
+    "s": "heart",
+    "a": "help-buoy",
+    "i": "ear",
+    "d": "build",
+    "g": "rainy",
+    "n": "flame",
+    "h": "shapes",
+    "r": "ticket",
+    "y": "restaurant",
+    "f": "chevron-back",
+    "e": "cafe",
+    "u": "ellipsis-horizontal",
+    "t": "sunny",
+    "w": "pizza",
+    "p": "pint",
+    "v": "document-text",
+    "l": "airplane",
+    "o": "megaphone"
+  },
+  "other_info": {
+    "Author": "Bob Edwards"
+  }
+}
