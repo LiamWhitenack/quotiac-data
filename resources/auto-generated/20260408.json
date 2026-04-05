@@ -1,0 +1,114 @@
+{
+  "puzzle_type": "Hofstadter's Law",
+  "string_to_encrypt": "it always takes longer than you expect, even when you take into account hofstadter's law.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "k": "notifications-off",
+    "w": "checkmark",
+    "g": "accessibility",
+    "c": "invert-mode",
+    "v": "receipt",
+    "y": "cloud-offline",
+    "e": "fitness",
+    "i": "document",
+    "u": "send",
+    "t": "resize",
+    "p": "bag-handle",
+    "n": "time",
+    "d": "trophy",
+    "r": "shuffle",
+    "o": "umbrella",
+    "f": "ice-cream",
+    "l": "people",
+    "a": "call",
+    "s": "film",
+    "h": "download",
+    "x": "duplicate"
+  },
+  "other_info": {}
+}
