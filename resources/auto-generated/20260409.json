@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "two cities have been formed by two loves: the earthly by the love of self; the heavenly by the love of god.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "rose",
+    "g": "ear",
+    "b": "infinite",
+    "d": "storefront",
+    "h": "bug",
+    "t": "medical",
+    "f": "school",
+    "a": "bandage",
+    "w": "videocam",
+    "o": "flame",
+    "r": "chatbox",
+    "e": "barcode",
+    "m": "at",
+    "l": "ellipsis-horizontal",
+    "i": "checkbox",
+    "y": "color-fill",
+    "n": "copy",
+    "c": "female",
+    "v": "book"
+  },
+  "other_info": {
+    "Author": "St. Augustine"
+  }
+}
