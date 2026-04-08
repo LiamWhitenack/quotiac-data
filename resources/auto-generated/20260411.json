@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "there's no harm in hoping for the best as long as you're prepared for the worst.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "eyedrop",
+    "s": "megaphone",
+    "h": "add",
+    "w": "hourglass",
+    "y": "shirt",
+    "f": "time",
+    "e": "brush",
+    "g": "bag-check",
+    "m": "chevron-collapse",
+    "d": "ellipsis-horizontal",
+    "b": "stop",
+    "l": "bed",
+    "u": "dice",
+    "r": "code",
+    "p": "finger-print",
+    "t": "library",
+    "n": "baseball",
+    "o": "cart",
+    "a": "wine"
+  },
+  "other_info": {
+    "Author": "Stephen King"
+  }
+}
