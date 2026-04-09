@@ -1,0 +1,131 @@
+{
+  "puzzle_type": "Antonyms for \"decode\"",
+  "string_to_encrypt": "^encode^ ^cipher^ ^encrypt^ ^mix up^ ^jumble^ ^garble^ ^obscure^ ^whitewash^ ^shroud^ ^veil^",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "j": "calendar",
+    "i": "create",
+    "g": "pint",
+    "o": "color-filter",
+    "l": "earth",
+    "u": "scan",
+    "a": "cloud",
+    "p": "star",
+    "t": "game-controller",
+    "b": "snow",
+    "n": "location",
+    "y": "server",
+    "x": "telescope",
+    "s": "fast-food",
+    "e": "ear",
+    "w": "move",
+    "d": "rocket",
+    "v": "ticket",
+    "m": "ban",
+    "h": "clipboard",
+    "c": "boat",
+    "r": "rainy"
+  },
+  "elements": [
+    "encode",
+    "cipher",
+    "encrypt",
+    "mix up",
+    "jumble",
+    "garble",
+    "obscure",
+    "whitewash",
+    "shroud",
+    "veil"
+  ],
+  "other_info": {}
+}
