@@ -849,7 +849,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "The real problem is not whether machines think, but whether men do.",
     "author": "B. F. Skinner",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -988,7 +988,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "The master's tools will never dismantle the master's house.",
     "length": 59,
-    "used": false,
+    "used": true,
     "author": "Audre Lorde"
   },
   {
@@ -3257,5 +3257,85 @@
     "character_name": "Michael Scott",
     "source": "The Office",
     "date": "remove later"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Why do people love America? Well, the flag is a big plus. Unlike Canada\u2019s, which I could take or leaf.",
+    "length": 102,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "There are 293 ways to make change for a dollar.",
+    "length": 47,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Catholic Sacraments",
+    "string_to_encrypt": "^Confirmation^ ^Baptism^ ^Penance^ ^Eucharist^ ^Anointing of the Sick^ ^Matrimony^ ^Holy Orders^",
+    "length": 96,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Confirmation",
+      "Baptism",
+      "Penance",
+      "Eucharist",
+      "Anointing of the Sick",
+      "Matrimony",
+      "Holy Orders"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "12 Apostles",
+    "string_to_encrypt": "^John^ ^Jude^ ^James^ ^James^ ^Simon Peter^ ^Simon the Zealot^ ^Judas Iscariot^ ^Andrew^ ^Bartholomew^ ^Thomas^ ^Philip^ ^Matthew^",
+    "length": 130,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "elements": [
+      "John",
+      "Jude",
+      "James",
+      "James",
+      "Simon Peter",
+      "Simon the Zealot",
+      "Judas Iscariot",
+      "Andrew",
+      "Bartholomew",
+      "Thomas",
+      "Philip",
+      "Matthew"
+    ]
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "2006 Song Parody",
+    "string_to_encrypt": "They see me mowin' My front lawn I know they're all thinking I'm so white 'n' nerdy",
+    "length": 83,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "your scientists were so preoccupied with whether or not they could that they didn't stop to think if they should.",
+    "length": 113,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Dr. Ian Malcolm",
+    "source": "Jurassic Park",
+    "date": "1993"
   }
 ]

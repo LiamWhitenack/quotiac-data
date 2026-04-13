@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Catholic Sacraments",
+  "string_to_encrypt": "^matrimony^ ^penance^ ^anointing of the sick^ ^holy orders^ ^confirmation^ ^baptism^ ^eucharist^",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "eyedrop",
+    "m": "barcode",
+    "d": "document-text",
+    "e": "book",
+    "l": "ear",
+    "k": "radio",
+    "i": "code-slash",
+    "t": "color-palette",
+    "r": "add",
+    "b": "man",
+    "p": "game-controller",
+    "a": "school",
+    "o": "grid",
+    "c": "chevron-collapse",
+    "f": "funnel",
+    "y": "medical",
+    "h": "cloud-upload",
+    "n": "notifications-off",
+    "g": "warning",
+    "u": "gift"
+  },
+  "elements": [
+    "Matrimony",
+    "Penance",
+    "Anointing of the Sick",
+    "Holy Orders",
+    "Confirmation",
+    "Baptism",
+    "Eucharist"
+  ],
+  "other_info": {}
+}

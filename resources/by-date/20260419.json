@@ -1,0 +1,119 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "why do people love america? well, the flag is a big plus. unlike canada\u2019s, which i could take or leaf.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "compass",
+    "m": "move",
+    "d": "thunderstorm",
+    "e": "cart",
+    "l": "create",
+    "k": "code-working",
+    "i": "happy",
+    "t": "heart-half",
+    "r": "globe",
+    "v": "apps",
+    "p": "bag-add",
+    "b": "caret-forward",
+    "a": "heart-dislike",
+    "o": "ticket",
+    "c": "body",
+    "f": "chatbox-ellipses",
+    "y": "warning",
+    "h": "rainy",
+    "n": "musical-note",
+    "w": "fish",
+    "g": "accessibility",
+    "u": "walk"
+  },
+  "other_info": {}
+}

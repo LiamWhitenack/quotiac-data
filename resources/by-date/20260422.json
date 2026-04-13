@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the master's tools will never dismantle the master's house.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "beaker",
+    "o": "sad",
+    "s": "code",
+    "v": "notifications",
+    "m": "reader",
+    "d": "restaurant",
+    "h": "tv",
+    "w": "ellipsis-horizontal",
+    "n": "camera",
+    "u": "basketball",
+    "i": "ear",
+    "e": "car",
+    "a": "bed",
+    "l": "school",
+    "t": "shirt"
+  },
+  "other_info": {
+    "Author": "Audre Lorde"
+  }
+}
