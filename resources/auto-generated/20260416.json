@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "never gonna give you up, never gonna let you down",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "play-back",
+    "r": "cart",
+    "u": "earth",
+    "v": "female",
+    "n": "moon",
+    "d": "caret-up",
+    "o": "settings",
+    "l": "caret-forward",
+    "y": "move",
+    "t": "list",
+    "i": "checkmark",
+    "a": "toggle",
+    "e": "apps",
+    "g": "resize",
+    "p": "egg"
+  },
+  "other_info": {
+    "Artist": "Rick Astley",
+    "Title": "Never Gonna Give You Up",
+    "Date": "1987"
+  }
+}
