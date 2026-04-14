@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "santa, tell me if he really cares 'cause i can't give it all away if he won't be here next year",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "color-wand",
+    "o": "eye",
+    "e": "mic",
+    "s": "invert-mode",
+    "i": "lock-open",
+    "y": "construct",
+    "b": "settings",
+    "g": "trash",
+    "f": "finger-print",
+    "a": "fast-food",
+    "v": "camera",
+    "l": "link",
+    "u": "code-download",
+    "w": "today",
+    "n": "cog",
+    "c": "sparkles",
+    "t": "layers",
+    "x": "baseball",
+    "m": "basket",
+    "r": "infinite"
+  },
+  "other_info": {
+    "Artist": "Ariana Grande",
+    "Title": "Santa Tell Me",
+    "Date": "2014"
+  }
+}
