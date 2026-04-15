@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Poem",
+  "string_to_encrypt": "the best laid plans of mice and men aft gang agley.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "wifi",
+    "y": "chevron-back",
+    "a": "invert-mode",
+    "d": "key",
+    "s": "browsers",
+    "h": "bar-chart",
+    "l": "attach",
+    "g": "checkbox",
+    "b": "copy",
+    "e": "server",
+    "p": "thunderstorm",
+    "m": "call",
+    "o": "tv",
+    "f": "bed",
+    "c": "rose",
+    "n": "airplane",
+    "t": "flash-off"
+  },
+  "other_info": {
+    "Author": "Robert Burns, To a Mouse"
+  }
+}
