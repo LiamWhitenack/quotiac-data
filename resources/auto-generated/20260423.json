@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "good morning starshine, the earth says hello!",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "settings",
+    "g": "people",
+    "e": "chatbubbles",
+    "a": "medal",
+    "y": "reader",
+    "t": "umbrella",
+    "m": "bookmark",
+    "r": "mail-open",
+    "h": "musical-notes",
+    "d": "clipboard",
+    "n": "flashlight",
+    "i": "shirt",
+    "l": "hand-left",
+    "s": "chatbubble"
+  },
+  "other_info": {
+    "Character Name": "Willy Wonka",
+    "Source": "Charlie and the Chocolate Factory",
+    "Date": "2005"
+  }
+}
