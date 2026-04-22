@@ -322,7 +322,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "Do not throw the arrow which will return against you.",
     "author": "Kurdish Proverb",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -681,7 +681,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "People can have the Model T in any color - so long as it's black.",
     "author": "Henry Ford",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -3301,7 +3301,7 @@
     "length": 130,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "elements": [
       "John",
       "Jude",
@@ -3337,5 +3337,47 @@
     "character_name": "Dr. Ian Malcolm",
     "source": "Jurassic Park",
     "date": "1993"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "They say that no two people see color the exact same way, so really, color is just a pigment of your imagination.",
+    "length": 113,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "\"Dreamt\" is the only English word that ends in the letters \"mt\"",
+    "length": 63,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Toto, I've a feeling we're not in Kansas anymore.",
+    "length": 49,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Dorothy",
+    "source": "The Wizard of Oz",
+    "date": "1939"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "Keep your friends close, but your enemies closer.",
+    "length": 49,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Michael Corleone",
+    "source": "The Godfather",
+    "date": "1974"
   }
 ]

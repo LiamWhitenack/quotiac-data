@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "toto, i've a feeling we're not in kansas anymore.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "glasses",
+    "g": "funnel",
+    "v": "headset",
+    "r": "bonfire",
+    "f": "fish",
+    "m": "american-football",
+    "e": "image",
+    "l": "location",
+    "t": "hardware-chip",
+    "y": "cart",
+    "o": "list",
+    "w": "bed",
+    "i": "snow",
+    "n": "crop",
+    "a": "cloud",
+    "k": "hammer"
+  },
+  "other_info": {
+    "Character Name": "Dorothy",
+    "Source": "The Wizard of Oz",
+    "Date": "1939"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "\"dreamt\" is the only english word that ends in the letters \"mt\"",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "shirt",
+    "d": "mic",
+    "g": "invert-mode",
+    "r": "server",
+    "m": "videocam",
+    "e": "image",
+    "l": "finger-print",
+    "t": "calendar",
+    "h": "wine",
+    "y": "pizza",
+    "o": "wallet",
+    "w": "flash",
+    "i": "basket",
+    "n": "magnet",
+    "a": "home"
+  },
+  "other_info": {}
+}

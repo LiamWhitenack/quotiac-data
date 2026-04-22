@@ -1,0 +1,98 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "keep your friends close, but your enemies closer.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "umbrella",
+    "u": "fast-food",
+    "d": "water",
+    "r": "hammer",
+    "m": "chatbubble",
+    "e": "cut",
+    "b": "color-palette",
+    "l": "navigate",
+    "t": "male",
+    "y": "crop",
+    "o": "cloud-offline",
+    "f": "pizza",
+    "i": "image",
+    "n": "cloud",
+    "s": "musical-note",
+    "k": "pie-chart",
+    "c": "wallet"
+  },
+  "other_info": {
+    "Character Name": "Michael Corleone",
+    "Source": "The Godfather",
+    "Date": "1974"
+  }
+}
