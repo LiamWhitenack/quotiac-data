@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "you can get more of what you want with a kind word and a gun than you can with just a kind word.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "watch",
+    "u": "chevron-back",
+    "a": "school",
+    "s": "contrast",
+    "n": "cloud-done",
+    "c": "flash",
+    "g": "gift",
+    "d": "library",
+    "t": "code-slash",
+    "e": "cube",
+    "y": "duplicate",
+    "r": "chatbox-ellipses",
+    "k": "call",
+    "m": "reader",
+    "h": "earth",
+    "j": "glasses",
+    "i": "car",
+    "w": "cloud",
+    "o": "invert-mode"
+  },
+  "other_info": {
+    "Author": "Al Capone"
+  }
+}
