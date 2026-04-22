@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "nothing in life is to be feared, it is only to be understood. now is the time to understand more, so that we may fear less.",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "filter",
+    "u": "time",
+    "e": "toggle",
+    "o": "enter",
+    "h": "notifications-off",
+    "l": "caret-forward",
+    "g": "apps",
+    "r": "partly-sunny",
+    "w": "brush",
+    "n": "chatbubbles",
+    "m": "cloud-offline",
+    "s": "checkmark-done",
+    "f": "heart",
+    "y": "cash",
+    "t": "dice",
+    "a": "finger-print",
+    "d": "medkit",
+    "b": "image"
+  },
+  "other_info": {
+    "Author": "Marie Curie"
+  }
+}
