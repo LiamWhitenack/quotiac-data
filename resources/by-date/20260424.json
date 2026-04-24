@@ -1,17 +1,9 @@
 {
-  "puzzle_type": "Catholic Sacraments",
-  "string_to_encrypt": "^eucharist^ ^anointing of the sick^ ^baptism^ ^penance^ ^confirmation^ ^holy orders^ ^matrimony^",
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "keep your friends close, but your enemies closer.",
   "hints": [
     {
       "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -19,19 +11,19 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
+      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "h",
+      "letter": "y",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "b",
       "type": "GiveALetterHint"
     },
     {
@@ -39,7 +31,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "m",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -51,27 +43,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
+      "letter": "c",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
@@ -79,40 +55,44 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "s": "man",
-    "m": "partly-sunny",
-    "d": "hand-left",
-    "e": "card",
-    "l": "hourglass",
-    "k": "star",
-    "i": "heart",
-    "t": "medal",
-    "r": "contract",
-    "b": "gift",
-    "p": "pizza",
-    "a": "magnet",
-    "o": "fitness",
-    "c": "mic",
-    "f": "wifi",
-    "y": "square",
-    "h": "notifications",
-    "n": "link",
-    "g": "train",
-    "u": "flash"
+    "p": "umbrella",
+    "u": "fast-food",
+    "d": "water",
+    "r": "hammer",
+    "m": "chatbubble",
+    "e": "cut",
+    "b": "color-palette",
+    "l": "navigate",
+    "t": "male",
+    "y": "crop",
+    "o": "cloud-offline",
+    "f": "pizza",
+    "i": "image",
+    "n": "cloud",
+    "s": "musical-note",
+    "k": "pie-chart",
+    "c": "wallet"
   },
-  "elements": [
-    "Eucharist",
-    "Anointing of the Sick",
-    "Baptism",
-    "Penance",
-    "Confirmation",
-    "Holy Orders",
-    "Matrimony"
-  ],
-  "other_info": {}
+  "other_info": {
+    "Character Name": "Michael Corleone",
+    "Source": "The Godfather",
+    "Date": "1974"
+  }
 }
