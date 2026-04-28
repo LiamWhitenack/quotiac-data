@@ -1,0 +1,113 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "you've got to ask yourself one question: 'do i feel lucky?' well, do ya, punk?",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "scale",
+    "r": "easel",
+    "u": "backspace",
+    "i": "card",
+    "w": "play-forward",
+    "l": "caret-down",
+    "t": "document-lock",
+    "k": "home",
+    "n": "desktop",
+    "q": "shield",
+    "o": "medical",
+    "f": "checkmark-done",
+    "p": "checkmark",
+    "y": "telescope",
+    "v": "search",
+    "a": "clipboard",
+    "g": "globe",
+    "d": "hand-left",
+    "c": "lock-open",
+    "e": "american-football"
+  },
+  "other_info": {
+    "Character Name": "Harry Callahan",
+    "Source": "Dirty Harry",
+    "Date": "1971"
+  }
+}

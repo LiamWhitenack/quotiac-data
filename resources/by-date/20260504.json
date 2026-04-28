@@ -1,0 +1,114 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the characters bert and ernie on sesame street were named after bert the cop and ernie the taxi driver in frank capra's \"it's a wonderful life.\"",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "rainy",
+    "r": "enter",
+    "u": "football",
+    "i": "eye-off",
+    "w": "log-in",
+    "l": "people",
+    "t": "female",
+    "m": "recording",
+    "b": "chatbox",
+    "k": "eye",
+    "n": "create",
+    "o": "school",
+    "f": "medical",
+    "p": "american-football",
+    "h": "sad",
+    "a": "basketball",
+    "v": "wallet",
+    "d": "document-text",
+    "c": "thunderstorm",
+    "e": "chevron-back",
+    "x": "trash"
+  },
+  "other_info": {}
+}

@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what\u2019d the conductor say when she found her missing music? score!",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "contract",
+    "m": "play-back",
+    "g": "pizza",
+    "d": "infinite",
+    "s": "chatbox-ellipses",
+    "r": "ribbon",
+    "e": "snow",
+    "u": "hand-left",
+    "i": "heart-half",
+    "c": "heart-dislike",
+    "w": "analytics",
+    "o": "list",
+    "f": "bicycle",
+    "y": "globe",
+    "h": "mail-open",
+    "a": "code-download",
+    "t": "sparkles"
+  },
+  "other_info": {}
+}

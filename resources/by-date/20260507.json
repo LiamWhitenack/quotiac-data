@@ -1,0 +1,135 @@
+{
+  "puzzle_type": "Spider-Man Villains in Live-Action Film",
+  "string_to_encrypt": "^carnage^ ^kingpin^ ^rhino^ ^sandman^ ^lizard^ ^hobgoblin^ ^green goblin^ ^venom^ ^mr. white^ ^mysterio^ ^doctor octopus^ ^vulture^ ^electro^ ^morbius^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "build",
+    "r": "invert-mode",
+    "u": "globe",
+    "i": "send",
+    "w": "bag-handle",
+    "z": "trash",
+    "l": "color-filter",
+    "t": "refresh",
+    "m": "business",
+    "b": "chatbubble",
+    "k": "glasses",
+    "n": "scale",
+    "o": "hourglass",
+    "p": "heart-dislike",
+    "y": "help-buoy",
+    "h": "server",
+    "v": "videocam",
+    "a": "wifi",
+    "g": "menu",
+    "d": "male",
+    "c": "man",
+    "e": "call"
+  },
+  "elements": [
+    "Carnage",
+    "Kingpin",
+    "Rhino",
+    "Sandman",
+    "Lizard",
+    "Hobgoblin",
+    "Green Goblin",
+    "Venom",
+    "Mr. White",
+    "Mysterio",
+    "Doctor Octopus",
+    "Vulture",
+    "Electro",
+    "Morbius"
+  ],
+  "other_info": {}
+}

@@ -1,0 +1,126 @@
+{
+  "puzzle_type": "Spider-Man Villains in Animated Films",
+  "string_to_encrypt": "^tombstone^ ^kingpin^ ^spider-man 2099^ ^green goblin^ ^vulture^ ^the spot^ ^scorpion^ ^prowler^ ^lizard^ ^doctor octopus^",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "stop",
+    "r": "notifications-off",
+    "u": "code",
+    "i": "code-download",
+    "w": "people",
+    "z": "baseball",
+    "l": "bus",
+    "t": "log-in",
+    "m": "car",
+    "b": "link",
+    "k": "musical-note",
+    "n": "sparkles",
+    "o": "reader",
+    "p": "boat",
+    "h": "cloud-upload",
+    "v": "heart-half",
+    "a": "desktop",
+    "g": "bug",
+    "d": "sunny",
+    "c": "moon",
+    "e": "cloud"
+  },
+  "elements": [
+    "Tombstone",
+    "Kingpin",
+    "Spider-Man 2099",
+    "Green Goblin",
+    "Vulture",
+    "The Spot",
+    "Scorpion",
+    "Prowler",
+    "Lizard",
+    "Doctor Octopus"
+  ],
+  "other_info": {}
+}

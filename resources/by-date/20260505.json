@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "if the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the mighty one... i am become death, the shatterer of worlds.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "shapes",
+    "r": "star",
+    "u": "caret-forward",
+    "i": "flame",
+    "w": "chevron-up",
+    "l": "alarm",
+    "t": "shuffle",
+    "m": "fitness",
+    "b": "ban",
+    "k": "link",
+    "n": "save",
+    "o": "gift",
+    "f": "chatbubble",
+    "p": "code-download",
+    "y": "color-palette",
+    "h": "nutrition",
+    "a": "person",
+    "g": "stop",
+    "d": "heart",
+    "c": "crop",
+    "e": "options"
+  },
+  "other_info": {
+    "Author": "J. Robert Oppenheimer, quoting 'The Bhagavad Gita'"
+  }
+}

@@ -772,7 +772,7 @@
     "puzzle_type": "Quote",
     "string_to_encrypt": "If the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the Mighty One... I am become Death, the Shatterer of Worlds.",
     "author": "J. Robert Oppenheimer, quoting 'The Bhagavad Gita'",
-    "used": false
+    "used": true
   },
   {
     "type": "DirectQuote",
@@ -1671,7 +1671,7 @@
     "length": 115,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Sir John Templeton",
     "date": null
   },
@@ -3411,7 +3411,7 @@
     "length": 78,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Harry Callahan",
     "source": "Dirty Harry",
     "date": "1971"
@@ -3423,7 +3423,7 @@
     "length": 65,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "Joke",
@@ -3450,7 +3450,7 @@
     "length": 144,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "TrivialFact",
@@ -3459,6 +3459,52 @@
     "length": 50,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Spider-Man Villains in Live-Action Film",
+    "string_to_encrypt": "^Venom^ ^Mr. White^ ^Vulture^ ^Mysterio^ ^Morbius^ ^Doctor Octopus^ ^Rhino^ ^Electro^ ^Carnage^ ^Kingpin^ ^Green Goblin^ ^Lizard^ ^Hobgoblin^ ^Sandman^",
+    "length": 151,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Venom",
+      "Mr. White",
+      "Vulture",
+      "Mysterio",
+      "Morbius",
+      "Doctor Octopus",
+      "Rhino",
+      "Electro",
+      "Carnage",
+      "Kingpin",
+      "Green Goblin",
+      "Lizard",
+      "Hobgoblin",
+      "Sandman"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Spider-Man Villains in Animated Films",
+    "string_to_encrypt": "^Green Goblin^ ^Prowler^ ^The Spot^ ^Lizard^ ^Tombstone^ ^Doctor Octopus^ ^Spider-Man 2099^ ^Kingpin^ ^Scorpion^ ^Vulture^",
+    "length": 122,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Green Goblin",
+      "Prowler",
+      "The Spot",
+      "Lizard",
+      "Tombstone",
+      "Doctor Octopus",
+      "Spider-Man 2099",
+      "Kingpin",
+      "Scorpion",
+      "Vulture"
+    ]
   }
 ]

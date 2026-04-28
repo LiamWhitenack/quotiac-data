@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the giant squid has the largest eyes in the world.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "apps",
+    "g": "clipboard",
+    "q": "invert-mode",
+    "d": "radio",
+    "s": "open",
+    "r": "grid",
+    "e": "happy",
+    "u": "color-palette",
+    "i": "nutrition",
+    "w": "accessibility",
+    "o": "cloudy-night",
+    "y": "scan",
+    "l": "code-working",
+    "h": "restaurant",
+    "a": "backspace",
+    "t": "library"
+  },
+  "other_info": {}
+}
