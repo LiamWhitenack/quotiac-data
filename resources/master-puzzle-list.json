@@ -3379,5 +3379,86 @@
     "character_name": "Michael Corleone",
     "source": "The Godfather",
     "date": "1974"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "I do wish we could chat longer, but I'm having an old friend for dinner.",
+    "length": 72,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Hannibal Lecter",
+    "source": "The Silence of the Lambs",
+    "date": "1991"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "All those moments will be lost in time, like tears in rain. Time to die.",
+    "length": 72,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Roy Batty",
+    "source": "Blade Runner",
+    "date": "1982"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Film Quote",
+    "string_to_encrypt": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Harry Callahan",
+    "source": "Dirty Harry",
+    "date": "1971"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "What\u2019d the conductor say when she found her missing music? SCORE!",
+    "length": 65,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Did you hear about the camouflage store that doesn\u2019t accept credit cards? Their patterns are in-visa-ble!",
+    "length": 105,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "To the guy who invented Zero: Thanks for nothing!",
+    "length": 49,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra's \"It's a Wonderful Life.\"",
+    "length": 144,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The giant squid has the largest eyes in the world.",
+    "length": 50,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
   }
 ]

@@ -1,9 +1,29 @@
 {
-  "puzzle_type": "Film Quote",
-  "string_to_encrypt": "keep your friends close, but your enemies closer.",
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "to the guy who invented zero: thanks for nothing!",
   "hints": [
     {
-      "letter": "r",
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -19,15 +39,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "z",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
+      "letter": "g",
       "type": "GiveALetterHint"
     },
     {
@@ -35,64 +51,49 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "p",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "d",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "l",
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
       "letter": "k",
       "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "p": "umbrella",
-    "u": "fast-food",
-    "d": "water",
-    "r": "hammer",
-    "m": "chatbubble",
-    "e": "cut",
-    "b": "color-palette",
-    "l": "navigate",
-    "t": "male",
-    "y": "crop",
-    "o": "cloud-offline",
-    "f": "pizza",
-    "i": "image",
-    "n": "cloud",
-    "s": "musical-note",
-    "k": "pie-chart",
-    "c": "wallet"
+    "n": "star",
+    "g": "flash",
+    "d": "hardware-chip",
+    "s": "card",
+    "r": "color-palette",
+    "e": "wifi",
+    "u": "cloud-done",
+    "i": "baseball",
+    "v": "download",
+    "w": "code-slash",
+    "o": "checkmark",
+    "f": "telescope",
+    "k": "pause",
+    "z": "play-back",
+    "y": "videocam",
+    "h": "browsers",
+    "a": "flower",
+    "t": "business"
   },
-  "other_info": {
-    "Character Name": "Michael Corleone",
-    "Source": "The Godfather",
-    "Date": "1974"
-  }
+  "other_info": {}
 }
