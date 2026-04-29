@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "you can't direct the wind, but you can adjust your sails.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "checkmark",
+    "w": "fitness",
+    "a": "heart",
+    "j": "bookmark",
+    "e": "happy",
+    "i": "cloudy-night",
+    "r": "cloud-upload",
+    "l": "musical-notes",
+    "n": "chevron-back",
+    "u": "time",
+    "o": "female",
+    "d": "call",
+    "h": "caret-forward",
+    "y": "cloud",
+    "c": "eye-off",
+    "s": "tv",
+    "b": "notifications-off"
+  },
+  "other_info": {}
+}
