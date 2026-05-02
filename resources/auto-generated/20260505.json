@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "why can't dinosaurs clap their hands? because they're extinct.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "w": "airplane",
+    "r": "cloud-offline",
+    "i": "film",
+    "l": "backspace",
+    "n": "basket",
+    "h": "code-download",
+    "u": "color-fill",
+    "o": "create",
+    "e": "cloud",
+    "p": "leaf",
+    "y": "location",
+    "c": "wallet",
+    "b": "download",
+    "d": "subway",
+    "x": "document-lock",
+    "a": "pie-chart",
+    "s": "infinite",
+    "t": "pin"
+  },
+  "other_info": {}
+}
