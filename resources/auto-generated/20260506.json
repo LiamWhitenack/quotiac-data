@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the lord bless you and keep you; the lord make his face to shine upon you and be gracious to you; the lord lift up his countenance upon you and give you peace.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "k": "remove",
+    "i": "beaker",
+    "u": "flashlight",
+    "r": "star",
+    "e": "mic-off",
+    "l": "card",
+    "h": "document-text",
+    "s": "bicycle",
+    "y": "documents",
+    "c": "wifi",
+    "b": "subway",
+    "p": "watch",
+    "o": "reload",
+    "d": "construct",
+    "g": "cloud-done",
+    "m": "stop",
+    "a": "crop",
+    "t": "cog",
+    "v": "caret-back",
+    "n": "locate",
+    "f": "chatbubble-ellipses"
+  },
+  "other_info": {
+    "Author": "The Bible, Numbers"
+  }
+}
