@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "a chrysler 300 looks like a phantom until a phantom pulls up.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "dice",
+    "e": "cafe",
+    "t": "people",
+    "h": "color-wand",
+    "m": "caret-forward",
+    "o": "nutrition",
+    "r": "at",
+    "p": "archive",
+    "c": "navigate",
+    "n": "subway",
+    "k": "attach",
+    "i": "reader",
+    "s": "speedometer",
+    "l": "shirt",
+    "u": "cart",
+    "y": "options"
+  },
+  "other_info": {
+    "Author": "Katt Williams (Paraphrased)"
+  }
+}
