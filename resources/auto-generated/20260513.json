@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Picture Quote",
+  "string_to_encrypt": "it came without ribbons. it came without tags. it came without packages, boxes, or bags.",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "pint",
+    "b": "expand",
+    "r": "enter",
+    "e": "ribbon",
+    "t": "color-fill",
+    "i": "gift",
+    "p": "fitness",
+    "g": "basketball",
+    "a": "hand-left",
+    "h": "sparkles",
+    "k": "cloud-upload",
+    "x": "speedometer",
+    "c": "boat",
+    "n": "flame",
+    "m": "save",
+    "o": "cellular",
+    "w": "chatbox",
+    "u": "infinite"
+  },
+  "other_info": {
+    "Character Name": "The Grinch",
+    "Source": "How the Grinch Stole Christmas!",
+    "Date": "1957"
+  }
+}
