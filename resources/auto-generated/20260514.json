@@ -1,0 +1,64 @@
+{
+  "puzzle_type": "Tongue Twister",
+  "string_to_encrypt": "i wish to wash my irish wristwatch.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "fast-food",
+    "y": "bandage",
+    "w": "sad",
+    "t": "musical-notes",
+    "s": "cloud",
+    "h": "construct",
+    "c": "wallet",
+    "o": "call",
+    "i": "dice",
+    "m": "caret-back",
+    "r": "send"
+  },
+  "other_info": {}
+}
