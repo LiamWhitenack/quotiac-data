@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "good morning starshine, the earth says hello!",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "desktop",
+    "y": "chatbox-ellipses",
+    "t": "rainy",
+    "d": "person",
+    "m": "grid",
+    "s": "analytics",
+    "i": "glasses",
+    "l": "subway",
+    "h": "pie-chart",
+    "o": "bonfire",
+    "g": "bandage",
+    "a": "checkmark",
+    "n": "caret-up",
+    "e": "musical-notes"
+  },
+  "other_info": {
+    "Character Name": "Willy Wonka",
+    "Source": "Charlie and the Chocolate Factory",
+    "Date": "2005"
+  }
+}
