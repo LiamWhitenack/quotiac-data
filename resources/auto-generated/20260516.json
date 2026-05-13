@@ -1,0 +1,81 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "only the dead have seen the end of war.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "settings",
+    "w": "pause",
+    "a": "build",
+    "s": "musical-notes",
+    "f": "chatbubble",
+    "d": "move",
+    "h": "server",
+    "v": "business",
+    "l": "pizza",
+    "e": "battery-charging",
+    "o": "card",
+    "y": "hammer",
+    "n": "book",
+    "r": "chevron-back"
+  },
+  "other_info": {
+    "Author": "Plato"
+  }
+}
