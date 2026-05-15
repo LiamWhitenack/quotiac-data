@@ -1,0 +1,100 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "i am an odd number. take away a letter and i become even. what number am i? 7.",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "funnel",
+    "y": "pizza",
+    "r": "game-controller",
+    "u": "help-buoy",
+    "d": "eye-off",
+    "i": "medkit",
+    "h": "chevron-up",
+    "m": "chevron-collapse",
+    "t": "enter",
+    "c": "gift",
+    "b": "log-in",
+    "v": "fast-food",
+    "n": "cube",
+    "e": "exit",
+    "w": "partly-sunny",
+    "o": "toggle",
+    "k": "chatbubble-ellipses",
+    "a": "people"
+  },
+  "question_answer": "I am an odd number. Take away a letter and I become even. What number am I? 7.",
+  "other_info": {}
+}
