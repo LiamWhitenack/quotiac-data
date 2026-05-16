@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "as far back as i can remember, i've always wanted to be a gangster.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "leaf",
+    "t": "shirt",
+    "d": "videocam",
+    "s": "layers",
+    "r": "nuclear",
+    "v": "stop",
+    "y": "flashlight",
+    "b": "shield",
+    "f": "trophy",
+    "o": "baseball",
+    "l": "pause",
+    "i": "train",
+    "a": "log-in",
+    "n": "gift",
+    "k": "move",
+    "g": "code-download",
+    "w": "storefront",
+    "c": "telescope",
+    "e": "contract"
+  },
+  "other_info": {
+    "Character Name": "Henry Hill",
+    "Source": "Goodfellas",
+    "Date": "1990"
+  }
+}
