@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "there are only two things i can't stand in this world. people who are intolerant of other people's cultures. and the dutch.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "location",
+    "t": "brush",
+    "a": "paw",
+    "l": "pie-chart",
+    "w": "settings",
+    "f": "disc",
+    "g": "log-in",
+    "u": "bag-add",
+    "e": "barcode",
+    "o": "finger-print",
+    "p": "musical-note",
+    "s": "recording",
+    "d": "server",
+    "h": "construct",
+    "n": "mic",
+    "y": "flash-off",
+    "r": "color-palette",
+    "i": "happy"
+  },
+  "other_info": {
+    "Character Name": "Nigel Powers",
+    "Source": "Austin Powers in Goldmember",
+    "Date": "2002"
+  }
+}
