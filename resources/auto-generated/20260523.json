@@ -1,0 +1,89 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "he who would catch fish must not mind getting wet.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "boat",
+    "u": "pizza",
+    "s": "chatbox-ellipses",
+    "i": "nuclear",
+    "f": "cloud-offline",
+    "m": "list",
+    "e": "cafe",
+    "c": "game-controller",
+    "l": "mic",
+    "t": "moon",
+    "g": "bus",
+    "w": "cloud-upload",
+    "n": "globe",
+    "d": "bag-check",
+    "h": "code-slash",
+    "a": "disc"
+  },
+  "other_info": {}
+}
