@@ -1,77 +1,13 @@
 {
-  "puzzle_type": "Film Quote",
-  "string_to_encrypt": "you've got to ask yourself one question: 'do i feel lucky?' well, do ya, punk?",
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "he who would catch fish must not mind getting wet.",
   "hints": [
     {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "v",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "q",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "p",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
       "type": "GiveALetterHint"
     },
     {
@@ -79,35 +15,75 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "d": "basketball",
-    "w": "beaker",
-    "c": "square",
-    "v": "flask",
-    "e": "finger-print",
-    "f": "copy",
-    "t": "play-forward",
-    "o": "move",
-    "a": "layers",
-    "s": "hammer",
-    "p": "trash",
-    "y": "subway",
-    "g": "browsers",
-    "u": "notifications",
-    "q": "shapes",
-    "l": "chevron-collapse",
-    "k": "football",
-    "n": "nutrition",
-    "i": "brush",
-    "r": "ban"
+    "s": "stop",
+    "w": "person",
+    "h": "musical-notes",
+    "i": "remove",
+    "g": "navigate",
+    "e": "newspaper",
+    "o": "medical",
+    "d": "save",
+    "c": "cloud-offline",
+    "n": "watch",
+    "m": "map",
+    "u": "mail-open",
+    "a": "document",
+    "f": "infinite",
+    "t": "radio",
+    "l": "repeat"
   },
-  "other_info": {
-    "Character Name": "Harry Callahan",
-    "Source": "Dirty Harry",
-    "Date": "1971"
-  }
+  "other_info": {}
 }
