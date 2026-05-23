@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "how much do computer scientists like 0 and 1? quite a bit.",
+  "hints": [
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "desktop",
+    "w": "infinite",
+    "h": "cloud-done",
+    "k": "unlink",
+    "r": "book",
+    "d": "beer",
+    "e": "fitness",
+    "s": "car",
+    "p": "finger-print",
+    "i": "barbell",
+    "n": "home",
+    "t": "briefcase",
+    "m": "today",
+    "l": "documents",
+    "q": "bicycle",
+    "c": "move",
+    "o": "code-slash",
+    "u": "mic-off",
+    "a": "accessibility"
+  },
+  "other_info": {}
+}
