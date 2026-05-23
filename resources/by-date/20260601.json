@@ -1,0 +1,114 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "\nthe elevator shaft was invented before the elevator. somebody essentially predicted that the elevator would soon be invented and left a space for it while constructing a building.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "happy",
+    "e": "color-palette",
+    "g": "save",
+    "f": "person",
+    "a": "heart-dislike",
+    "c": "chatbubbles",
+    "h": "medal",
+    "w": "tv",
+    "p": "wifi",
+    "v": "magnet",
+    "o": "chevron-back",
+    "m": "telescope",
+    "n": "egg",
+    "u": "bonfire",
+    "b": "code-slash",
+    "y": "caret-back",
+    "s": "glasses",
+    "t": "leaf",
+    "l": "apps",
+    "i": "play-back",
+    "d": "invert-mode"
+  },
+  "other_info": {}
+}

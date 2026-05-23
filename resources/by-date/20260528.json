@@ -1,0 +1,123 @@
+{
+  "puzzle_type": "Sovereign States in South America",
+  "string_to_encrypt": "^argentina^ ^bolivia^ ^brazil^ ^chile^ ^colombia^ ^ecuador^ ^guyana^ ^paraguay^ ^peru^ ^suriname^ ^uruguay^ ^venezuela^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "notifications",
+    "e": "happy",
+    "g": "server",
+    "a": "medkit",
+    "c": "chatbubble",
+    "h": "umbrella",
+    "p": "cloud-offline",
+    "v": "document-text",
+    "o": "airplane",
+    "m": "fast-food",
+    "z": "sunny",
+    "n": "flame",
+    "u": "bag",
+    "b": "moon",
+    "y": "paw",
+    "s": "archive",
+    "t": "subway",
+    "l": "locate",
+    "i": "bed",
+    "d": "hardware-chip"
+  },
+  "elements": [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ],
+  "other_info": {}
+}

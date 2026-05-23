@@ -1,0 +1,98 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "you are a sad, strange little man, and you have my pity.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "stop",
+    "l": "moon",
+    "a": "copy",
+    "m": "chatbubble",
+    "r": "restaurant",
+    "n": "caret-back",
+    "h": "color-fill",
+    "u": "bed",
+    "p": "options",
+    "e": "document-text",
+    "i": "image",
+    "y": "chevron-back",
+    "g": "eye-off",
+    "d": "receipt",
+    "v": "finger-print",
+    "o": "camera",
+    "s": "headset"
+  },
+  "other_info": {
+    "Character Name": "Buzz Lightyear",
+    "Source": "Toy Story",
+    "Date": "1995"
+  }
+}

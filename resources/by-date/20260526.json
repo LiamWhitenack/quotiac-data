@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "the price good men pay for indifference to public affairs is to be ruled by evil men.",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "hourglass",
+    "e": "shield",
+    "g": "musical-note",
+    "f": "clipboard",
+    "a": "water",
+    "c": "bicycle",
+    "h": "earth",
+    "p": "ellipsis-horizontal",
+    "v": "magnet",
+    "o": "cut",
+    "m": "person",
+    "n": "heart",
+    "u": "people",
+    "b": "aperture",
+    "y": "contract",
+    "s": "business",
+    "t": "game-controller",
+    "l": "repeat",
+    "i": "snow",
+    "d": "cafe"
+  },
+  "other_info": {
+    "Author": "Plato"
+  }
+}

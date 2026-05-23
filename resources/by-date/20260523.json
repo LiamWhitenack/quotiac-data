@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "all those moments will be lost in time, like tears in rain. time to die.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "call",
+    "l": "reload",
+    "a": "female",
+    "k": "ticket",
+    "r": "trophy",
+    "m": "bicycle",
+    "n": "bonfire",
+    "h": "code",
+    "w": "cloud-download",
+    "b": "dice",
+    "i": "cellular",
+    "e": "nutrition",
+    "d": "bar-chart",
+    "o": "desktop",
+    "s": "restaurant"
+  },
+  "other_info": {
+    "Character Name": "Roy Batty",
+    "Source": "Blade Runner",
+    "Date": "1982"
+  }
+}

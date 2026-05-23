@@ -1075,7 +1075,7 @@
     "puzzle_type": "Direct Quote",
     "string_to_encrypt": "A journey of a thousand miles begins with a single step.",
     "length": 56,
-    "used": false,
+    "used": true,
     "author": "Laozi"
   },
   {
@@ -1330,7 +1330,7 @@
     "length": 85,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Plato",
     "date": null
   },
@@ -1649,7 +1649,7 @@
     "length": 159,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "author": "Bangambiki Habyarimana",
     "date": null
   },
@@ -3324,7 +3324,7 @@
     "length": 83,
     "encryption_map": null,
     "hints": null,
-    "used": false
+    "used": true
   },
   {
     "type": "CharacterQuote",
@@ -3399,7 +3399,7 @@
     "length": 72,
     "encryption_map": null,
     "hints": null,
-    "used": false,
+    "used": true,
     "character_name": "Roy Batty",
     "source": "Blade Runner",
     "date": "1982"
@@ -3506,5 +3506,181 @@
       "Scorpion",
       "Vulture"
     ]
+  },
+  {
+    "type": "GeneralPhrase",
+    "puzzle_type": "16th Century Idiomatic Phrase",
+    "string_to_encrypt": "Talk of the Devil and he will be at your elbow.",
+    "length": 47,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Animated Film Quote",
+    "string_to_encrypt": "You are a sad, strange little man, and you have my pity.",
+    "length": 56,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Buzz Lightyear",
+    "source": "Toy Story",
+    "date": "1995"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Horror Film Quote",
+    "string_to_encrypt": "Blessed be our New Founding Fathers and America, a nation reborn. May God be with you all.",
+    "length": 90,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "character_name": "Announcement",
+    "source": "The Purge",
+    "date": "2013"
+  },
+  {
+    "type": "CharacterQuote",
+    "puzzle_type": "Animated Film Quote",
+    "string_to_encrypt": "Ah, how shall I do it? Oh, I know. I'll turn him into a flea, a harmless, little flea, and then I'll put that flea in a box, and then I'll put that box inside of another box, and then I'll mail that box to myself, and when it arrives...",
+    "length": 236,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "character_name": "Kuzco",
+    "source": "Emporer's New Groove",
+    "date": "2000"
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "They say that no two people see color the exact same way, so really, color is just a pigment of your imagination.",
+    "length": 113,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "Did you hear the guy making fake $1 coins? They arrested him in his apartmint.",
+    "length": 78,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "Joke",
+    "puzzle_type": "Joke",
+    "string_to_encrypt": "I need to stop hanging around with pessimistic horses. Neigh-sayers never add anything to the conversation.",
+    "length": 107,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "If you break the word \"helicopter\" into prefix and suffix, it's not \"heli\" and \"copter\" it's \"helico\" and \"pter\".",
+    "length": 113,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The longest single syllable word in English is \u201cstrengths.\u201d",
+    "length": 59,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "The only word in the english language with three sets of consecutive double letters is \u201cbookkeeper.\u201d",
+    "length": 100,
+    "encryption_map": null,
+    "hints": null,
+    "used": false
+  },
+  {
+    "type": "TrivialFact",
+    "puzzle_type": "Trivial Fact",
+    "string_to_encrypt": "\nThe elevator shaft was invented before the elevator. Somebody essentially predicted that the elevator would soon be invented and left a space for it while constructing a building.",
+    "length": 180,
+    "encryption_map": null,
+    "hints": null,
+    "used": true
+  },
+  {
+    "type": "List",
+    "puzzle_type": "Sovereign States in South America",
+    "string_to_encrypt": "^Argentina^ ^Bolivia^ ^Brazil^ ^Chile^ ^Colombia^ ^Ecuador^ ^Guyana^ ^Paraguay^ ^Peru^ ^Suriname^ ^Uruguay^ ^Venezuela^",
+    "length": 119,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Argentina",
+      "Bolivia",
+      "Brazil",
+      "Chile",
+      "Colombia",
+      "Ecuador",
+      "Guyana",
+      "Paraguay",
+      "Peru",
+      "Suriname",
+      "Uruguay",
+      "Venezuela"
+    ]
+  },
+  {
+    "type": "Set",
+    "puzzle_type": "Star Wars Movies",
+    "string_to_encrypt": "^Solo^ ^The Rise of Skywalker^ ^Attack of the Clones^ ^The Phantom Menace^ ^Rogue One^ ^Return of the Jedi^ ^The Last Jedi^ ^The Mandalorian and Grogu^ ^The Force Awakens^ ^The Empire Strikes Back^ ^A New Hope^ ^Revenge of the Sith^",
+    "length": 232,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "elements": [
+      "Solo",
+      "The Rise of Skywalker",
+      "Attack of the Clones",
+      "The Phantom Menace",
+      "Rogue One",
+      "Return of the Jedi",
+      "The Last Jedi",
+      "The Mandalorian and Grogu",
+      "The Force Awakens",
+      "The Empire Strikes Back",
+      "A New Hope",
+      "Revenge of the Sith"
+    ]
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "What has been will be again, what has been done will be done again; there is nothing new under the sun.",
+    "length": 103,
+    "encryption_map": null,
+    "hints": null,
+    "used": true,
+    "author": "Ecclesiastes 1:9",
+    "date": null
+  },
+  {
+    "type": "DirectQuote",
+    "puzzle_type": "Quote",
+    "string_to_encrypt": "Having looked to government for bread, on the first scarcity they will turn and bite the hand that fed them.",
+    "length": 108,
+    "encryption_map": null,
+    "hints": null,
+    "used": false,
+    "author": "Edmund Burke",
+    "date": null
   }
 ]

@@ -1,0 +1,138 @@
+{
+  "puzzle_type": "Star Wars Movies",
+  "string_to_encrypt": "^return of the jedi^ ^the phantom menace^ ^the rise of skywalker^ ^the mandalorian and grogu^ ^rogue one^ ^attack of the clones^ ^the last jedi^ ^solo^ ^the empire strikes back^ ^a new hope^ ^revenge of the sith^ ^the force awakens^",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "basket",
+    "e": "settings",
+    "g": "medical",
+    "f": "journal",
+    "a": "chatbubbles",
+    "c": "female",
+    "h": "mic",
+    "w": "options",
+    "p": "caret-forward",
+    "v": "glasses",
+    "o": "bicycle",
+    "m": "list",
+    "n": "attach",
+    "j": "home",
+    "u": "battery-charging",
+    "b": "chevron-collapse",
+    "y": "documents",
+    "s": "fitness",
+    "t": "sparkles",
+    "l": "document-text",
+    "k": "alarm",
+    "i": "easel",
+    "d": "recording"
+  },
+  "elements": [
+    "Return of the Jedi",
+    "The Phantom Menace",
+    "The Rise of Skywalker",
+    "The Mandalorian and Grogu",
+    "Rogue One",
+    "Attack of the Clones",
+    "The Last Jedi",
+    "Solo",
+    "The Empire Strikes Back",
+    "A New Hope",
+    "Revenge of the Sith",
+    "The Force Awakens"
+  ],
+  "other_info": {}
+}

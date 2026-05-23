@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "ah, how shall i do it? oh, i know. i'll turn him into a flea, a harmless, little flea, and then i'll put that flea in a box, and then i'll put that box inside of another box, and then i'll mail that box to myself, and when it arrives...",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "code-download",
+    "e": "document",
+    "f": "mail-open",
+    "x": "book",
+    "a": "disc",
+    "h": "wifi",
+    "w": "flash-off",
+    "p": "body",
+    "v": "fitness",
+    "o": "bar-chart",
+    "m": "barcode",
+    "n": "shuffle",
+    "u": "unlink",
+    "b": "pin",
+    "y": "color-fill",
+    "s": "cog",
+    "t": "beer",
+    "l": "gift",
+    "k": "extension-puzzle",
+    "i": "clipboard",
+    "d": "construct"
+  },
+  "other_info": {
+    "Character Name": "Kuzco",
+    "Source": "Emporer's New Groove",
+    "Date": "2000"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "16th Century Idiomatic Phrase",
+  "string_to_encrypt": "talk of the devil and he will be at your elbow.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "globe",
+    "l": "cloud-done",
+    "a": "receipt",
+    "k": "bookmark",
+    "r": "paper-plane",
+    "n": "cloudy-night",
+    "h": "infinite",
+    "w": "enter",
+    "u": "play-back",
+    "b": "flashlight",
+    "e": "flame",
+    "i": "fish",
+    "y": "flash",
+    "f": "happy",
+    "d": "crop",
+    "v": "help-buoy",
+    "o": "code-slash"
+  },
+  "other_info": {}
+}

@@ -1,0 +1,111 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "a journey of a thousand miles begins with a single step.",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "eye",
+    "e": "baseball",
+    "g": "crop",
+    "f": "game-controller",
+    "a": "film",
+    "h": "barbell",
+    "w": "time",
+    "p": "archive",
+    "o": "card",
+    "m": "golf",
+    "n": "glasses",
+    "j": "trophy",
+    "u": "chevron-expand",
+    "b": "notifications",
+    "y": "battery-charging",
+    "s": "options",
+    "t": "football",
+    "l": "construct",
+    "i": "map",
+    "d": "happy"
+  },
+  "other_info": {
+    "Author": "Laozi"
+  }
+}

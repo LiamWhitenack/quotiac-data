@@ -1,0 +1,109 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "if you break the word \"helicopter\" into prefix and suffix, it's not \"heli\" and \"copter\" it's \"helico\" and \"pter\".",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "backspace",
+    "e": "reader",
+    "f": "recording",
+    "x": "image",
+    "a": "bookmark",
+    "c": "document-lock",
+    "h": "egg",
+    "w": "man",
+    "p": "heart",
+    "o": "enter",
+    "n": "videocam",
+    "u": "list",
+    "b": "finger-print",
+    "y": "chevron-forward",
+    "s": "chatbox",
+    "t": "beaker",
+    "l": "mic-off",
+    "k": "flower",
+    "i": "fish",
+    "d": "disc"
+  },
+  "other_info": {}
+}

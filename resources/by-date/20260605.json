@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "2006 Song Parody",
+  "string_to_encrypt": "they see me mowin' my front lawn i know they're all thinking i'm so white 'n' nerdy",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "boat",
+    "l": "briefcase",
+    "a": "planet",
+    "k": "trophy",
+    "r": "search",
+    "m": "paper-plane",
+    "n": "barcode",
+    "h": "flame",
+    "w": "layers",
+    "e": "camera",
+    "i": "move",
+    "y": "ear",
+    "g": "caret-up",
+    "f": "headset",
+    "d": "train",
+    "o": "wifi",
+    "s": "barbell"
+  },
+  "other_info": {}
+}
