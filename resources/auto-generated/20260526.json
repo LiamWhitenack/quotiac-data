@@ -1,13 +1,33 @@
 {
-  "puzzle_type": "Joke",
-  "string_to_encrypt": "how much do computer scientists like 0 and 1? quite a bit.",
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the only word in english with three consecutive sets of double letters is \u201cbookkeeper\".",
   "hints": [
     {
-      "letter": "q",
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
       "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
       "type": "GiveALetterHint"
     },
     {
@@ -19,7 +39,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "k",
       "type": "GiveALetterHint"
     },
     {
@@ -27,47 +47,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "k",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "w",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "r",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "s",
       "type": "GiveALetterHint"
     },
     {
@@ -75,30 +59,51 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "b": "desktop",
-    "w": "infinite",
-    "h": "cloud-done",
-    "k": "unlink",
-    "r": "book",
-    "d": "beer",
-    "e": "fitness",
-    "s": "car",
-    "p": "finger-print",
-    "i": "barbell",
-    "n": "home",
-    "t": "briefcase",
-    "m": "today",
-    "l": "documents",
-    "q": "bicycle",
-    "c": "move",
-    "o": "code-slash",
-    "u": "mic-off",
-    "a": "accessibility"
+    "r": "walk",
+    "c": "storefront",
+    "i": "chatbox",
+    "h": "square",
+    "y": "leaf",
+    "w": "cloud-done",
+    "k": "wifi",
+    "t": "finger-print",
+    "v": "browsers",
+    "n": "document-lock",
+    "d": "cloud-upload",
+    "g": "alarm",
+    "l": "attach",
+    "f": "football",
+    "b": "chatbubbles",
+    "s": "reload",
+    "e": "reader",
+    "u": "list",
+    "p": "options",
+    "o": "briefcase"
   },
   "other_info": {}
 }
