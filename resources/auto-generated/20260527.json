@@ -1,0 +1,83 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "get busy living or get busy dying.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "browsers",
+    "t": "cart",
+    "e": "home",
+    "b": "shirt",
+    "s": "radio",
+    "n": "calculator",
+    "y": "shuffle",
+    "r": "baseball",
+    "i": "happy",
+    "u": "cash",
+    "v": "square",
+    "l": "create",
+    "d": "filter",
+    "g": "call"
+  },
+  "other_info": {
+    "Character Name": "Andy Dufresne",
+    "Source": "The Shawshank Redemption",
+    "Date": "1994"
+  }
+}
