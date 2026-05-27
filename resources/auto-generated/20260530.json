@@ -1,9 +1,9 @@
 {
-  "puzzle_type": "Film Quote",
-  "string_to_encrypt": "keep your friends close, but your enemies closer.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and those who passed by derided him, wagging their heads and saying, \u201cyou who would destroy the temple and rebuild it in three days, save yourself! if you are the son of god, come down from the cross.\u201d",
   "hints": [
     {
-      "letter": "r",
+      "letter": "p",
       "type": "GiveALetterHint"
     },
     {
@@ -11,15 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
@@ -27,35 +19,23 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "t",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "k",
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "i",
+      "letter": "e",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
+      "letter": "r",
       "type": "GiveALetterHint"
     },
     {
@@ -63,36 +43,74 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
       "type": "GiveALetterHint"
     },
     {
       "letter": "m",
       "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "y": "send",
-    "f": "exit",
-    "r": "color-fill",
-    "d": "document-text",
-    "t": "male",
-    "b": "bag-remove",
-    "l": "fish",
-    "m": "time",
-    "c": "chevron-forward",
-    "p": "home",
-    "k": "recording",
-    "o": "refresh",
-    "e": "chevron-up",
-    "s": "ear",
-    "n": "apps",
-    "i": "school",
-    "u": "repeat"
+    "g": "umbrella",
+    "b": "chevron-up",
+    "s": "chevron-collapse",
+    "d": "today",
+    "n": "save",
+    "c": "location",
+    "e": "log-in",
+    "m": "help-buoy",
+    "f": "stop",
+    "t": "cart",
+    "a": "server",
+    "p": "bag-check",
+    "r": "chatbubble",
+    "y": "battery-charging",
+    "w": "female",
+    "h": "bug",
+    "o": "eye",
+    "l": "list",
+    "i": "glasses",
+    "u": "walk",
+    "v": "medkit"
   },
   "other_info": {
-    "Character Name": "Michael Corleone",
-    "Source": "The Godfather",
-    "Date": "1974"
+    "Author": "Matthew 27:39-40"
   }
 }
