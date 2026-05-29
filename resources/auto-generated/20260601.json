@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Sitcom Quote",
+  "string_to_encrypt": "toby is in hr, which technically means he works for corporate, so he's really not a part of our family. also, he's divorced, so he's really not a part of his family either.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "s": "aperture",
+    "d": "journal",
+    "a": "medkit",
+    "b": "female",
+    "c": "bar-chart",
+    "i": "scan",
+    "w": "globe",
+    "v": "film",
+    "l": "glasses",
+    "m": "warning",
+    "p": "person",
+    "k": "cloud",
+    "o": "disc",
+    "e": "brush",
+    "y": "megaphone",
+    "f": "clipboard",
+    "t": "cloud-upload",
+    "h": "add",
+    "n": "chatbox",
+    "r": "repeat",
+    "u": "ear"
+  },
+  "other_info": {
+    "Character Name": "Michael Scott",
+    "Source": "The Office",
+    "Date": "2005"
+  }
+}
