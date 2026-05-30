@@ -1,33 +1,9 @@
 {
   "puzzle_type": "Quote",
-  "string_to_encrypt": "what has been will be again, what has been done will be done again; there is nothing new under the sun.",
+  "string_to_encrypt": "you shouldn't believe everything you see on the internet.",
   "hints": [
     {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
       "type": "GiveALetterHint"
     },
     {
@@ -35,11 +11,23 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
       "type": "GiveALetterHint"
     },
     {
@@ -47,40 +35,52 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "w",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "h",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "a": "hardware-chip",
-    "u": "bag-handle",
-    "t": "school",
-    "s": "baseball",
-    "w": "crop",
-    "r": "musical-notes",
-    "i": "flash",
-    "b": "stop",
-    "e": "restaurant",
-    "h": "headset",
-    "n": "alarm",
-    "g": "code-download",
-    "o": "flask",
-    "d": "brush",
-    "l": "documents"
+    "i": "accessibility",
+    "v": "calendar",
+    "b": "move",
+    "n": "bag-check",
+    "d": "shirt",
+    "y": "nutrition",
+    "h": "call",
+    "u": "flame",
+    "g": "car",
+    "e": "trash",
+    "t": "color-wand",
+    "o": "repeat",
+    "l": "cash",
+    "s": "cloudy-night",
+    "r": "card"
   },
   "other_info": {
-    "Author": "Ecclesiastes 1:9"
+    "Author": "Abraham Lincoln"
   }
 }
