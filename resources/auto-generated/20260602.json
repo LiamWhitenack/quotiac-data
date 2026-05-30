@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "what has been will be again, what has been done will be done again; there is nothing new under the sun.",
+  "hints": [
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "hardware-chip",
+    "u": "bag-handle",
+    "t": "school",
+    "s": "baseball",
+    "w": "crop",
+    "r": "musical-notes",
+    "i": "flash",
+    "b": "stop",
+    "e": "restaurant",
+    "h": "headset",
+    "n": "alarm",
+    "g": "code-download",
+    "o": "flask",
+    "d": "brush",
+    "l": "documents"
+  },
+  "other_info": {
+    "Author": "Ecclesiastes 1:9"
+  }
+}
