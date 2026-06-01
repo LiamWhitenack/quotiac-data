@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Direct Quote",
+  "string_to_encrypt": "there's no harm in hoping for the best as long as you're prepared for the worst.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "h": "bookmark",
+    "f": "flask",
+    "g": "camera",
+    "n": "bicycle",
+    "y": "exit",
+    "t": "boat",
+    "l": "accessibility",
+    "s": "heart-dislike",
+    "d": "battery-charging",
+    "u": "book",
+    "m": "videocam",
+    "p": "person",
+    "e": "medal",
+    "o": "telescope",
+    "i": "checkmark",
+    "b": "magnet",
+    "r": "egg",
+    "w": "female",
+    "a": "log-in"
+  },
+  "other_info": {
+    "Author": "Stephen King"
+  }
+}
