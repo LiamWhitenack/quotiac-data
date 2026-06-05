@@ -1,0 +1,104 @@
+{
+  "puzzle_type": "1 Corinthians 13:13 (NIV)",
+  "string_to_encrypt": "and now these three remain: faith, hope and love. but the greatest of these is love.",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "dice",
+    "m": "fitness",
+    "n": "call",
+    "a": "trophy",
+    "h": "link",
+    "v": "move",
+    "l": "partly-sunny",
+    "u": "golf",
+    "t": "pizza",
+    "b": "book",
+    "p": "flash",
+    "w": "chevron-forward",
+    "g": "finger-print",
+    "e": "notifications",
+    "s": "filter",
+    "i": "desktop",
+    "d": "hardware-chip",
+    "o": "log-in",
+    "f": "shuffle"
+  },
+  "other_info": {}
+}
