@@ -1,0 +1,108 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "it's now the monster mash and it's a graveyard smash it's caught on in a flash it's now the monster mash",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "megaphone",
+    "n": "business",
+    "y": "chatbubbles",
+    "f": "ear",
+    "o": "server",
+    "r": "cloud-done",
+    "e": "newspaper",
+    "h": "nuclear",
+    "m": "location",
+    "d": "checkmark-done",
+    "c": "school",
+    "s": "beaker",
+    "v": "hammer",
+    "t": "basketball",
+    "g": "wifi",
+    "u": "rocket",
+    "l": "ice-cream",
+    "w": "dice",
+    "i": "map"
+  },
+  "other_info": {
+    "Artist": "Bobby Pickett",
+    "Title": "Hidden",
+    "Date": "1962"
+  }
+}
