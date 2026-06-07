@@ -1,0 +1,73 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "roads? where we're going, we don't need roads.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "heart",
+    "w": "people",
+    "e": "bookmark",
+    "r": "enter",
+    "i": "home",
+    "a": "business",
+    "d": "camera",
+    "n": "caret-down",
+    "h": "log-in",
+    "s": "expand",
+    "g": "rose",
+    "o": "hardware-chip"
+  },
+  "other_info": {
+    "Character Name": "Doc Brown",
+    "Source": "Back to the Future",
+    "Date": "1985"
+  }
+}
