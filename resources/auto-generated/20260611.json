@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "if i had a nickel for every time, i'd have two nickels. which isn't a lot, but it's weird that it happened twice",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "fitness",
+    "s": "contrast",
+    "v": "rocket",
+    "y": "help-buoy",
+    "m": "cafe",
+    "h": "bonfire",
+    "e": "options",
+    "r": "nutrition",
+    "b": "partly-sunny",
+    "f": "earth",
+    "l": "watch",
+    "c": "checkmark-done",
+    "k": "gift",
+    "a": "female",
+    "t": "eyedrop",
+    "n": "storefront",
+    "d": "flash",
+    "w": "location",
+    "i": "sunny",
+    "p": "train",
+    "o": "journal"
+  },
+  "other_info": {
+    "Character Name": "Dr. Doofenshmirtz",
+    "Source": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+    "Date": "2011"
+  }
+}
