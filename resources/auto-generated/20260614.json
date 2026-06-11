@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "you should hammer your iron when it is glowing hot.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "mail-open",
+    "d": "shapes",
+    "y": "play-forward",
+    "w": "pause",
+    "h": "flower",
+    "m": "moon",
+    "s": "notifications-off",
+    "l": "restaurant",
+    "o": "mic",
+    "n": "cloud",
+    "u": "musical-note",
+    "a": "flashlight",
+    "e": "send",
+    "r": "fish",
+    "t": "star",
+    "g": "water"
+  },
+  "other_info": {
+    "Author": "Publius Syrus"
+  }
+}
