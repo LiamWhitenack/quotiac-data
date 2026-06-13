@@ -1,0 +1,114 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the only word in the english language with three sets of consecutive double letters is \u201cbookkeeper.\u201d",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "car",
+    "k": "bag-remove",
+    "y": "cafe",
+    "l": "battery-charging",
+    "g": "finger-print",
+    "f": "toggle",
+    "i": "code",
+    "a": "medal",
+    "b": "refresh",
+    "v": "reload",
+    "p": "compass",
+    "c": "snow",
+    "d": "school",
+    "h": "business",
+    "r": "beaker",
+    "t": "options",
+    "e": "thunderstorm",
+    "o": "nuclear",
+    "u": "walk",
+    "w": "bug",
+    "s": "code-slash"
+  },
+  "other_info": {}
+}
