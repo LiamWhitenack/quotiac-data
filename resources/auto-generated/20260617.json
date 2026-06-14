@@ -1,0 +1,48 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "anyone can cook",
+  "hints": [
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "bag",
+    "k": "happy",
+    "y": "toggle",
+    "e": "stop",
+    "n": "moon",
+    "o": "bag-handle",
+    "c": "recording"
+  },
+  "other_info": {
+    "Character Name": "Gusteau",
+    "Source": "Ratatouille",
+    "Date": "2007"
+  }
+}
