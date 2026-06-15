@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it doesn't matter how beautiful your theory is, it doesn't matter how smart you are. if it doesn't agree with experiment, it's wrong. in that simple statement is the key to science.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "k": "caret-up",
+    "p": "sunny",
+    "e": "watch",
+    "o": "reader",
+    "t": "bag",
+    "n": "image",
+    "w": "heart-half",
+    "m": "settings",
+    "a": "magnet",
+    "g": "medal",
+    "c": "analytics",
+    "l": "download",
+    "s": "baseball",
+    "x": "female",
+    "h": "flash-off",
+    "f": "cart",
+    "b": "code-download",
+    "r": "archive",
+    "u": "flashlight",
+    "y": "nuclear",
+    "i": "american-football",
+    "d": "bandage"
+  },
+  "other_info": {
+    "Author": "Richard Feynman"
+  }
+}
