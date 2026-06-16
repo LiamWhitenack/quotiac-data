@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "whoa, we're half way there\nwhoa oh, livin' on a prayer\ntake my hand, we'll make it, i swear\nwhoa oh, livin' on a prayer",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "beer",
+    "e": "egg",
+    "f": "notifications-off",
+    "w": "ribbon",
+    "m": "pin",
+    "n": "bag-check",
+    "t": "bandage",
+    "k": "resize",
+    "l": "storefront",
+    "o": "body",
+    "r": "bookmark",
+    "h": "paw",
+    "y": "flash",
+    "i": "bag-handle",
+    "v": "accessibility",
+    "p": "document-lock",
+    "d": "shapes",
+    "s": "eyedrop"
+  },
+  "other_info": {
+    "Artist": "Bon Jovi",
+    "Title": "Livin' on Prayer",
+    "Date": "1986"
+  }
+}
