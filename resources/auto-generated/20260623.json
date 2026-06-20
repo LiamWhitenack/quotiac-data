@@ -1,0 +1,93 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "why don't you make like a tree and get outta here",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "battery-charging",
+    "a": "bicycle",
+    "w": "log-in",
+    "d": "headset",
+    "o": "unlink",
+    "y": "boat",
+    "u": "bug",
+    "m": "infinite",
+    "t": "eyedrop",
+    "r": "shapes",
+    "g": "snow",
+    "k": "chevron-forward",
+    "n": "car",
+    "l": "caret-back",
+    "i": "ear",
+    "h": "tv"
+  },
+  "other_info": {
+    "Character Name": "Biff Tannen",
+    "Source": "Back to The Future Part II",
+    "Date": "1989"
+  }
+}
