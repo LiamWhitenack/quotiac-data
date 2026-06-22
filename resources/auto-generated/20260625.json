@@ -1,0 +1,141 @@
+{
+  "puzzle_type": "Highest-grossing Films of 2025 (Domestic)",
+  "string_to_encrypt": "^wicked: for good^ ^a minecraft movie^ ^sinners^ ^how to train your dragon^ ^lilo & stitch^ ^the fantastic four: first steps^ ^captain america: brave new world^ ^jurassic world rebirth^ ^zootopia 2^ ^superman^",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "z": "calendar",
+    "w": "compass",
+    "c": "american-football",
+    "f": "football",
+    "g": "call",
+    "a": "car",
+    "e": "backspace",
+    "p": "rainy",
+    "j": "beer",
+    "u": "speedometer",
+    "l": "cellular",
+    "d": "notifications",
+    "n": "extension-puzzle",
+    "k": "baseball",
+    "r": "chatbox",
+    "i": "medkit",
+    "t": "walk",
+    "v": "cloud-upload",
+    "s": "crop",
+    "b": "open",
+    "o": "pint",
+    "y": "camera",
+    "m": "caret-back",
+    "h": "pause"
+  },
+  "elements": [
+    "Wicked: For Good",
+    "A Minecraft Movie",
+    "Sinners",
+    "How to Train Your Dragon",
+    "Lilo & Stitch",
+    "The Fantastic Four: First Steps",
+    "Captain America: Brave New World",
+    "Jurassic World Rebirth",
+    "Zootopia 2",
+    "Superman"
+  ],
+  "other_info": {}
+}
