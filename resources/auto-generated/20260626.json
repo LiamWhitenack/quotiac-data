@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "n": "clipboard",
+    "i": "caret-back",
+    "o": "receipt",
+    "r": "heart-dislike",
+    "t": "nuclear",
+    "g": "heart-half",
+    "v": "cloud",
+    "m": "body",
+    "s": "grid",
+    "e": "eyedrop",
+    "d": "musical-note",
+    "a": "shield",
+    "u": "musical-notes",
+    "h": "briefcase",
+    "f": "golf"
+  },
+  "other_info": {}
+}
