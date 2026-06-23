@@ -1,29 +1,9 @@
 {
-  "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "there are more stars in the universe than there are grains of sand on earth.",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "there is a single light of science, and to brighten it anywhere is to brighten it everywhere.",
   "hints": [
     {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -31,11 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -43,15 +19,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "u",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
@@ -59,26 +27,75 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "n": "clipboard",
-    "i": "caret-back",
-    "o": "receipt",
-    "r": "heart-dislike",
-    "t": "nuclear",
-    "g": "heart-half",
-    "v": "cloud",
-    "m": "body",
-    "s": "grid",
-    "e": "eyedrop",
-    "d": "musical-note",
-    "a": "shield",
-    "u": "musical-notes",
-    "h": "briefcase",
-    "f": "golf"
+    "w": "ice-cream",
+    "s": "enter",
+    "e": "chevron-up",
+    "y": "filter",
+    "h": "hammer",
+    "o": "shapes",
+    "l": "notifications",
+    "v": "school",
+    "n": "subway",
+    "b": "warning",
+    "d": "contrast",
+    "r": "nuclear",
+    "g": "thunderstorm",
+    "c": "headset",
+    "i": "radio",
+    "a": "backspace",
+    "f": "fast-food",
+    "t": "chevron-back"
   },
-  "other_info": {}
+  "other_info": {
+    "Author": "Isaac Asimov"
+  }
 }
