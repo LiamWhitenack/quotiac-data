@@ -1,45 +1,9 @@
 {
-  "puzzle_type": "Trivial Fact",
-  "string_to_encrypt": "the longest single syllable word in english is \u201cstrengths.\u201d",
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "meditation brings wisdom; lack of meditation leaves ignorance. know well what leads you forward and what holds you back.",
   "hints": [
     {
-      "letter": "s",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "n",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -47,11 +11,15 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "o",
+      "letter": "n",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "a",
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
@@ -59,26 +27,90 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "e": "hardware-chip",
-    "o": "pin",
-    "b": "construct",
-    "g": "ice-cream",
-    "h": "document-lock",
-    "l": "sad",
-    "i": "bag",
-    "r": "resize",
-    "a": "body",
-    "n": "cloudy-night",
-    "s": "wallet",
-    "d": "globe",
-    "w": "car",
-    "y": "walk",
-    "t": "man"
+    "a": "leaf",
+    "s": "archive",
+    "t": "nuclear",
+    "y": "caret-up",
+    "l": "restaurant",
+    "h": "basket",
+    "e": "caret-forward",
+    "o": "map",
+    "w": "cafe",
+    "n": "location",
+    "d": "chevron-forward",
+    "v": "eye",
+    "c": "contrast",
+    "r": "backspace",
+    "m": "car",
+    "f": "snow",
+    "k": "send",
+    "i": "telescope",
+    "g": "locate",
+    "b": "hourglass",
+    "u": "easel"
   },
-  "other_info": {}
+  "other_info": {
+    "Author": "The Buddha"
+  }
 }
