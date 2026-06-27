@@ -1,0 +1,84 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the longest single syllable word in english is \u201cstrengths.\u201d",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "hardware-chip",
+    "o": "pin",
+    "b": "construct",
+    "g": "ice-cream",
+    "h": "document-lock",
+    "l": "sad",
+    "i": "bag",
+    "r": "resize",
+    "a": "body",
+    "n": "cloudy-night",
+    "s": "wallet",
+    "d": "globe",
+    "w": "car",
+    "y": "walk",
+    "t": "man"
+  },
+  "other_info": {}
+}
