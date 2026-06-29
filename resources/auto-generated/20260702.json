@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i do not feel obliged to believe that the same god who has endowed us with sense, reason, and intellect has intended us to forgo their use.",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "nuclear",
+    "b": "cloud-done",
+    "h": "radio",
+    "w": "document-text",
+    "d": "star",
+    "g": "today",
+    "a": "barbell",
+    "u": "megaphone",
+    "r": "paw",
+    "o": "color-palette",
+    "f": "storefront",
+    "m": "telescope",
+    "s": "key",
+    "v": "heart-dislike",
+    "i": "filter",
+    "n": "settings",
+    "t": "mic-off",
+    "c": "hammer",
+    "e": "cube"
+  },
+  "other_info": {
+    "Author": "Galileo Galilei"
+  }
+}
