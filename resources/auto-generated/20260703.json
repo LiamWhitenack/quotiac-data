@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "12 Apostles",
+  "string_to_encrypt": "^simon peter^ ^andrew^ ^james^ ^philip^ ^jude^ ^simon the zealot^ ^judas iscariot^ ^bartholomew^ ^james^ ^thomas^ ^matthew^ ^john^",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "u": "water",
+    "p": "bicycle",
+    "c": "shield",
+    "t": "hourglass",
+    "l": "umbrella",
+    "j": "bed",
+    "n": "finger-print",
+    "m": "medical",
+    "d": "toggle",
+    "b": "bar-chart",
+    "s": "briefcase",
+    "z": "repeat",
+    "h": "brush",
+    "a": "rocket",
+    "r": "help-buoy",
+    "i": "leaf",
+    "w": "football",
+    "e": "basket",
+    "o": "chatbubbles"
+  },
+  "elements": [
+    "Simon Peter",
+    "Andrew",
+    "James",
+    "Philip",
+    "Jude",
+    "Simon the Zealot",
+    "Judas Iscariot",
+    "Bartholomew",
+    "James",
+    "Thomas",
+    "Matthew",
+    "John"
+  ],
+  "other_info": {}
+}
