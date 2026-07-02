@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "i am the wisest man alive, for i know one thing, and that is that i know nothing.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "document-lock",
+    "t": "subway",
+    "w": "recording",
+    "e": "thunderstorm",
+    "i": "reader",
+    "f": "easel",
+    "k": "checkmark",
+    "n": "beaker",
+    "g": "checkmark-done",
+    "h": "alarm",
+    "a": "call",
+    "r": "fitness",
+    "s": "hand-left",
+    "d": "enter",
+    "m": "radio",
+    "o": "finger-print",
+    "v": "construct"
+  },
+  "other_info": {
+    "Author": "Plato"
+  }
+}
