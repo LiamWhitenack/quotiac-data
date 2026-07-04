@@ -1,37 +1,9 @@
 {
-  "puzzle_type": "Richest People on Earth",
-  "string_to_encrypt": "^jeff bezos^ ^sergey brin^ ^larry ellison^ ^mark zuckerburg^ ^larry page^ ^bill gates^ ^bernard arnault^ ^elon musk^ ^steve ballmer^ ^warren buffett^",
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "remember, red, hope is a good thing, maybe the best of things, and no good thing ever dies.",
   "hints": [
     {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "a",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "b",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "j",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "s",
+      "letter": "r",
       "type": "GiveALetterHint"
     },
     {
@@ -39,27 +11,15 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "d",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "l",
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "m",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
+      "letter": "a",
       "type": "GiveALetterHint"
     },
     {
@@ -67,11 +27,15 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "z",
+      "letter": "v",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -79,58 +43,56 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "w",
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "c",
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "k",
+      "letter": "e",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "v",
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "v": "shield",
-    "l": "location",
-    "y": "eyedrop",
-    "s": "basketball",
-    "a": "boat",
-    "z": "person",
-    "i": "code-slash",
-    "c": "clipboard",
-    "j": "rainy",
-    "b": "speedometer",
-    "p": "bandage",
-    "t": "ice-cream",
-    "n": "crop",
-    "g": "save",
-    "r": "mic-off",
-    "o": "egg",
-    "f": "fast-food",
-    "d": "walk",
-    "e": "chevron-expand",
-    "m": "chevron-up",
-    "k": "ribbon",
-    "u": "storefront",
-    "w": "golf"
+    "h": "umbrella",
+    "o": "time",
+    "r": "flag",
+    "s": "map",
+    "i": "layers",
+    "n": "ellipsis-horizontal",
+    "e": "chatbox-ellipses",
+    "f": "cafe",
+    "a": "car",
+    "g": "fitness",
+    "v": "color-filter",
+    "y": "cellular",
+    "t": "square",
+    "d": "baseball",
+    "b": "archive",
+    "m": "bed",
+    "p": "flame"
   },
-  "elements": [
-    "Jeff Bezos",
-    "Sergey Brin",
-    "Larry Ellison",
-    "Mark Zuckerburg",
-    "Larry Page",
-    "Bill Gates",
-    "Bernard Arnault",
-    "Elon Musk",
-    "Steve Ballmer",
-    "Warren Buffett"
-  ],
-  "other_info": {}
+  "other_info": {
+    "Character Name": "Andy Dufresne",
+    "Source": "The Shawshank Redemption",
+    "Date": "1994"
+  }
 }
