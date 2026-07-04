@@ -1,0 +1,136 @@
+{
+  "puzzle_type": "Richest People on Earth",
+  "string_to_encrypt": "^jeff bezos^ ^sergey brin^ ^larry ellison^ ^mark zuckerburg^ ^larry page^ ^bill gates^ ^bernard arnault^ ^elon musk^ ^steve ballmer^ ^warren buffett^",
+  "hints": [
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "shield",
+    "l": "location",
+    "y": "eyedrop",
+    "s": "basketball",
+    "a": "boat",
+    "z": "person",
+    "i": "code-slash",
+    "c": "clipboard",
+    "j": "rainy",
+    "b": "speedometer",
+    "p": "bandage",
+    "t": "ice-cream",
+    "n": "crop",
+    "g": "save",
+    "r": "mic-off",
+    "o": "egg",
+    "f": "fast-food",
+    "d": "walk",
+    "e": "chevron-expand",
+    "m": "chevron-up",
+    "k": "ribbon",
+    "u": "storefront",
+    "w": "golf"
+  },
+  "elements": [
+    "Jeff Bezos",
+    "Sergey Brin",
+    "Larry Ellison",
+    "Mark Zuckerburg",
+    "Larry Page",
+    "Bill Gates",
+    "Bernard Arnault",
+    "Elon Musk",
+    "Steve Ballmer",
+    "Warren Buffett"
+  ],
+  "other_info": {}
+}
