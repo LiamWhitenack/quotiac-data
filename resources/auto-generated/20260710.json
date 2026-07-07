@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Animated Quote",
+  "string_to_encrypt": "ah, how shall i do it? oh, i know. i'll turn him into a flea, a harmless, little flea, and then i'll put that flea in a box, and then i'll put that box inside of another box, and then i'll mail that box to myself, and when it arrives...",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "f": "ice-cream",
+    "v": "barcode",
+    "x": "attach",
+    "t": "planet",
+    "l": "pizza",
+    "h": "color-fill",
+    "s": "cloudy-night",
+    "o": "storefront",
+    "e": "lock-open",
+    "y": "briefcase",
+    "p": "paper-plane",
+    "a": "watch",
+    "b": "cloud-download",
+    "k": "aperture",
+    "i": "beer",
+    "u": "help-buoy",
+    "m": "library",
+    "n": "bicycle",
+    "r": "musical-notes",
+    "w": "basketball",
+    "d": "exit"
+  },
+  "other_info": {
+    "Character Name": "Kuzco",
+    "Source": "Emporer's New Groove",
+    "Date": "2000"
+  }
+}
