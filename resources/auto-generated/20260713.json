@@ -1,0 +1,106 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "the greatest trick the devil ever pulled was convincing the world he didn't exist.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "l": "beer",
+    "o": "subway",
+    "c": "cog",
+    "s": "today",
+    "v": "key",
+    "g": "american-football",
+    "r": "clipboard",
+    "a": "enter",
+    "t": "watch",
+    "n": "musical-note",
+    "k": "flower",
+    "p": "moon",
+    "i": "play-forward",
+    "u": "ear",
+    "e": "heart-dislike",
+    "h": "fast-food",
+    "x": "duplicate",
+    "d": "chatbubble-ellipses",
+    "w": "documents"
+  },
+  "other_info": {
+    "Author": "Charles Baudelaire"
+  }
+}
