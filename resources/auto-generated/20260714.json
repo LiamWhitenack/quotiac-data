@@ -1,0 +1,131 @@
+{
+  "puzzle_type": "Antonyms for \"decode\"",
+  "string_to_encrypt": "^encode^ ^cipher^ ^encrypt^ ^mix up^ ^jumble^ ^garble^ ^obscure^ ^whitewash^ ^shroud^ ^veil^",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "paper-plane",
+    "r": "code",
+    "i": "chatbubble",
+    "x": "radio",
+    "h": "fish",
+    "g": "barbell",
+    "c": "send",
+    "v": "ellipsis-horizontal",
+    "w": "pin",
+    "b": "boat",
+    "n": "pie-chart",
+    "d": "flame",
+    "l": "chevron-up",
+    "p": "desktop",
+    "j": "color-palette",
+    "u": "bag",
+    "t": "storefront",
+    "m": "reload",
+    "a": "school",
+    "s": "compass",
+    "y": "ban",
+    "o": "newspaper"
+  },
+  "elements": [
+    "encode",
+    "cipher",
+    "encrypt",
+    "mix up",
+    "jumble",
+    "garble",
+    "obscure",
+    "whitewash",
+    "shroud",
+    "veil"
+  ],
+  "other_info": {}
+}
