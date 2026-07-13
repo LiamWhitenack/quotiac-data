@@ -1,0 +1,139 @@
+{
+  "puzzle_type": "General Quote",
+  "string_to_encrypt": "the quick brown fox jumps over the lazy brown dog",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "train",
+    "u": "chatbubbles",
+    "a": "basket",
+    "h": "scale",
+    "e": "contrast",
+    "x": "apps",
+    "l": "cloud-offline",
+    "m": "filter",
+    "t": "walk",
+    "d": "bug",
+    "y": "shuffle",
+    "j": "snow",
+    "o": "heart",
+    "b": "document",
+    "k": "cut",
+    "w": "watch",
+    "z": "subway",
+    "n": "egg",
+    "s": "radio",
+    "i": "american-football",
+    "g": "flower",
+    "f": "pizza",
+    "v": "lock-open",
+    "q": "document-text",
+    "r": "square",
+    "c": "cloud-download"
+  },
+  "other_info": {}
+}
