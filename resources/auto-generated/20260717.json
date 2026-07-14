@@ -1,0 +1,117 @@
+{
+  "puzzle_type": "Types of Hard Liquor",
+  "string_to_encrypt": "^gin^ ^whiskey^ ^rum^ ^brandy^ ^vodka^ ^tequila^",
+  "hints": [
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "v": "server",
+    "a": "flame",
+    "l": "pizza",
+    "k": "menu",
+    "b": "briefcase",
+    "i": "at",
+    "e": "contract",
+    "q": "happy",
+    "s": "send",
+    "y": "basket",
+    "o": "cloudy-night",
+    "u": "videocam",
+    "h": "subway",
+    "m": "cloud-upload",
+    "n": "bookmark",
+    "d": "pin",
+    "w": "cart",
+    "g": "lock-open",
+    "r": "bag-check",
+    "t": "time"
+  },
+  "elements": [
+    "Gin",
+    "Whiskey",
+    "Rum",
+    "Brandy",
+    "Vodka",
+    "Tequila"
+  ],
+  "other_info": {}
+}
