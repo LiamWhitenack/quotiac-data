@@ -1,0 +1,76 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "a god from the machine",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "hand-left",
+    "e": "documents",
+    "g": "man",
+    "r": "caret-down",
+    "f": "caret-forward",
+    "m": "mic-off",
+    "o": "open",
+    "d": "film",
+    "h": "home",
+    "i": "beer",
+    "c": "paper-plane",
+    "t": "pint",
+    "n": "desktop"
+  },
+  "other_info": {
+    "Author": "Menander"
+  }
+}
