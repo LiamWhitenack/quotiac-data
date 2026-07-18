@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Picture Quote",
+  "string_to_encrypt": "it came without ribbons. it came without tags. it came without packages, boxes, or bags.",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "basketball",
+    "n": "umbrella",
+    "a": "hourglass",
+    "r": "boat",
+    "g": "today",
+    "m": "caret-forward",
+    "b": "bonfire",
+    "k": "heart-half",
+    "x": "water",
+    "s": "business",
+    "t": "eyedrop",
+    "h": "remove",
+    "u": "hand-left",
+    "c": "trophy",
+    "w": "cloudy-night",
+    "o": "library",
+    "i": "recording",
+    "e": "fast-food"
+  },
+  "other_info": {
+    "Character Name": "The Grinch",
+    "Source": "How the Grinch Stole Christmas!",
+    "Date": "1957"
+  }
+}
