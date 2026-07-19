@@ -1,0 +1,100 @@
+{
+  "puzzle_type": "Riddle",
+  "string_to_encrypt": "what can you put in a bucket to make it weigh less? a hole.",
+  "hints": [
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "sunny",
+    "u": "options",
+    "k": "repeat",
+    "l": "save",
+    "b": "cut",
+    "e": "exit",
+    "s": "refresh",
+    "m": "heart",
+    "o": "infinite",
+    "p": "fitness",
+    "a": "document-lock",
+    "g": "pause",
+    "c": "documents",
+    "n": "pizza",
+    "h": "musical-notes",
+    "y": "cloud-done",
+    "i": "accessibility",
+    "w": "navigate"
+  },
+  "question_answer": "What can you put in a bucket to make it weigh less? A hole.",
+  "other_info": {}
+}
