@@ -1,0 +1,90 @@
+{
+  "puzzle_type": "NFL Teams to Never Make The Super Bowl",
+  "string_to_encrypt": "^jaguars^ ^texans^ ^browns^ ^lions^",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "b": "bag-check",
+    "w": "notifications",
+    "n": "extension-puzzle",
+    "r": "chatbox",
+    "o": "watch",
+    "i": "help-buoy",
+    "t": "cloudy-night",
+    "l": "square",
+    "s": "copy",
+    "x": "wallet",
+    "j": "location",
+    "g": "heart-dislike",
+    "a": "water",
+    "u": "funnel",
+    "e": "color-wand"
+  },
+  "elements": [
+    "Jaguars",
+    "Texans",
+    "Browns",
+    "Lions"
+  ],
+  "other_info": {}
+}
