@@ -1,33 +1,9 @@
 {
-  "puzzle_type": "Direct Quote",
-  "string_to_encrypt": "coach, if you need one yard, i'll get you three yards. if you need five yards, i'll get you three yards.",
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "not that i condone fascism, or any -ism for that matter. -ism's in my opinion are not good. a person should not believe in an -ism, he should believe in himself.",
   "hints": [
     {
       "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "d",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "l",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -35,7 +11,19 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "h",
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -43,15 +31,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "y",
-      "type": "GiveALetterHint"
-    },
-    {
       "letter": "t",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "u",
+      "letter": "d",
       "type": "GiveALetterHint"
     },
     {
@@ -59,7 +43,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "s",
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -67,30 +51,63 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "s": "umbrella",
-    "a": "aperture",
-    "i": "menu",
-    "o": "speedometer",
-    "n": "color-wand",
-    "f": "grid",
-    "v": "bookmark",
-    "t": "storefront",
-    "g": "snow",
-    "e": "code",
-    "y": "caret-forward",
-    "l": "pie-chart",
-    "c": "camera",
-    "r": "location",
-    "u": "caret-down",
-    "d": "backspace",
-    "h": "image"
+    "b": "hardware-chip",
+    "u": "brush",
+    "i": "hand-left",
+    "d": "color-filter",
+    "t": "headset",
+    "s": "paw",
+    "a": "scan",
+    "m": "pie-chart",
+    "c": "log-in",
+    "v": "lock-open",
+    "h": "list",
+    "y": "cog",
+    "r": "eye-off",
+    "n": "build",
+    "f": "walk",
+    "g": "chatbubble",
+    "p": "tv",
+    "o": "caret-up",
+    "l": "car",
+    "e": "cloud-download"
   },
   "other_info": {
-    "Author": "Leroy Hoard (NFL Running Back)"
+    "Character Name": "Ferris Bueller",
+    "Source": "Ferris Bueller's Day Off",
+    "Date": "1986"
   }
 }
