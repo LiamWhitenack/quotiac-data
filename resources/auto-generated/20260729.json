@@ -1,0 +1,101 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "there is a single light of science, and to brighten it anywhere is to brighten it everywhere.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "water",
+    "a": "caret-down",
+    "c": "flower",
+    "t": "layers",
+    "b": "ban",
+    "f": "easel",
+    "w": "notifications",
+    "o": "checkmark",
+    "l": "hand-left",
+    "i": "scan",
+    "n": "duplicate",
+    "e": "bug",
+    "v": "caret-forward",
+    "g": "cloud-offline",
+    "d": "musical-note",
+    "y": "medkit",
+    "h": "shapes",
+    "s": "paw"
+  },
+  "other_info": {
+    "Author": "Isaac Asimov"
+  }
+}
