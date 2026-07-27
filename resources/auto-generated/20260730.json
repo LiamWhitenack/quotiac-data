@@ -1,0 +1,91 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "do not throw the arrow which will return against you.",
+  "hints": [
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "infinite",
+    "i": "crop",
+    "g": "person",
+    "o": "eyedrop",
+    "e": "bicycle",
+    "h": "flask",
+    "w": "bookmark",
+    "a": "telescope",
+    "r": "bonfire",
+    "u": "add",
+    "s": "eye",
+    "d": "invert-mode",
+    "l": "expand",
+    "t": "cloud-done",
+    "y": "gift",
+    "n": "boat"
+  },
+  "other_info": {
+    "Author": "Kurdish Proverb"
+  }
+}
