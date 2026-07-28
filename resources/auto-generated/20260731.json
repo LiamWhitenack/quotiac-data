@@ -1,0 +1,79 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "botanically, strawberries are not berries, but bananas are.",
+  "hints": [
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "i": "bug",
+    "e": "book",
+    "c": "server",
+    "l": "school",
+    "o": "backspace",
+    "a": "glasses",
+    "r": "bag",
+    "b": "hardware-chip",
+    "w": "document",
+    "n": "archive",
+    "t": "umbrella",
+    "u": "ticket",
+    "s": "shapes",
+    "y": "train"
+  },
+  "other_info": {}
+}
