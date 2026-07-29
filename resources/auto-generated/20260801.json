@@ -1,0 +1,121 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "it's not easy bein' green\nit seems you blend in\nwith so many other ordinary things\nand people tend to pass you over\n'cause you're not standing out\nlike flashy sparkles in the water\nor stars in the sky",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "g": "attach",
+    "d": "planet",
+    "f": "search",
+    "n": "egg",
+    "s": "paw",
+    "o": "build",
+    "k": "briefcase",
+    "v": "contract",
+    "l": "create",
+    "r": "map",
+    "a": "color-palette",
+    "h": "umbrella",
+    "m": "backspace",
+    "t": "exit",
+    "i": "document-text",
+    "b": "wifi",
+    "y": "airplane",
+    "e": "extension-puzzle",
+    "p": "cloud-upload",
+    "c": "menu",
+    "w": "man",
+    "u": "fitness"
+  },
+  "other_info": {
+    "Author": "Kermit the Frog"
+  }
+}
