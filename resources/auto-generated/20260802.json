@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "what happens when a frog's car breaks down? it gets toad.",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "medical",
+    "b": "document-lock",
+    "t": "telescope",
+    "s": "cafe",
+    "c": "alarm",
+    "e": "musical-note",
+    "d": "filter",
+    "n": "cloud-upload",
+    "g": "library",
+    "r": "shuffle",
+    "h": "pizza",
+    "i": "car",
+    "w": "cloud-offline",
+    "k": "scan",
+    "o": "save",
+    "f": "person",
+    "a": "caret-up"
+  },
+  "other_info": {}
+}
