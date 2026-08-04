@@ -1,21 +1,9 @@
 {
-  "puzzle_type": "Quote",
-  "string_to_encrypt": "it has been said that democracy is the worst form of government except all the others that have been tried.",
+  "puzzle_type": "Song lyrics",
+  "string_to_encrypt": "santa, tell me if he really cares 'cause i can't give it all away if he won't be here next year",
   "hints": [
     {
-      "letter": "e",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "r",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "f",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "i",
+      "letter": "h",
       "type": "GiveALetterHint"
     },
     {
@@ -23,11 +11,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "g",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "y",
+      "letter": "f",
       "type": "GiveALetterHint"
     },
     {
@@ -35,23 +19,7 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "x",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "h",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "c",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "o",
-      "type": "GiveALetterHint"
-    },
-    {
-      "letter": "t",
+      "letter": "e",
       "type": "GiveALetterHint"
     },
     {
@@ -59,11 +27,23 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "b",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "p",
+      "letter": "o",
       "type": "GiveALetterHint"
     },
     {
@@ -71,7 +51,11 @@
       "type": "GiveALetterHint"
     },
     {
-      "letter": "d",
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
       "type": "GiveALetterHint"
     },
     {
@@ -79,38 +63,51 @@
       "type": "GiveALetterHint"
     },
     {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
       "letter": "m",
       "type": "GiveALetterHint"
     },
     {
-      "letter": "w",
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "x",
       "type": "GiveALetterHint"
     }
   ],
   "encryption_map": {
-    "o": "heart-half",
-    "r": "bicycle",
-    "p": "cloud-download",
-    "g": "easel",
-    "v": "rainy",
-    "e": "code-download",
-    "d": "color-fill",
-    "h": "caret-forward",
-    "t": "play-back",
-    "a": "beaker",
-    "x": "reader",
-    "b": "today",
-    "y": "heart",
-    "f": "eye-off",
-    "w": "speedometer",
-    "i": "navigate",
-    "m": "at",
-    "s": "mic-off",
-    "c": "disc",
-    "l": "attach",
-    "n": "sparkles"
+    "x": "bag-add",
+    "n": "stop",
+    "o": "medical",
+    "a": "invert-mode",
+    "b": "camera",
+    "v": "bag-remove",
+    "g": "location",
+    "m": "storefront",
+    "r": "person",
+    "f": "cloud-offline",
+    "h": "chevron-expand",
+    "t": "code",
+    "w": "trash",
+    "s": "fitness",
+    "y": "chatbox",
+    "e": "chevron-forward",
+    "l": "cloud-download",
+    "c": "copy",
+    "i": "settings",
+    "u": "menu"
   },
   "other_info": {
-    "Author": "Winston Churchill"
+    "Artist": "Ariana Grande",
+    "Title": "Santa Tell Me",
+    "Date": "2014"
   }
 }
