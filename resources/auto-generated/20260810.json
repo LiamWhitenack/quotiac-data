@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "the word \"stewardesses\" can be typed entirely with your left hand.",
+  "hints": [
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "d": "sad",
+    "l": "invert-mode",
+    "i": "cloudy-night",
+    "f": "partly-sunny",
+    "b": "library",
+    "c": "sparkles",
+    "y": "ear",
+    "r": "paw",
+    "o": "sunny",
+    "w": "bag",
+    "a": "wallet",
+    "n": "cloud-download",
+    "t": "bag-check",
+    "u": "chevron-collapse",
+    "s": "man",
+    "h": "notifications",
+    "e": "cloud-done",
+    "p": "bag-add"
+  },
+  "other_info": {}
+}
