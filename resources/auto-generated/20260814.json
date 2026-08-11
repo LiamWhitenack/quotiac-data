@@ -1,0 +1,99 @@
+{
+  "puzzle_type": "Joke",
+  "string_to_encrypt": "did you hear the guy making fake $1 coins? they arrested him in his apartmint.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "m": "chevron-collapse",
+    "g": "cube",
+    "r": "heart-dislike",
+    "o": "battery-charging",
+    "h": "link",
+    "t": "enter",
+    "c": "contrast",
+    "k": "cash",
+    "d": "chatbox-ellipses",
+    "y": "toggle",
+    "p": "stop",
+    "u": "radio",
+    "n": "bed",
+    "i": "reload",
+    "f": "bag",
+    "e": "bar-chart",
+    "a": "pie-chart",
+    "s": "sunny"
+  },
+  "other_info": {}
+}
