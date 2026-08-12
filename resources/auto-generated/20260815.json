@@ -1,0 +1,123 @@
+{
+  "puzzle_type": "Sovereign States in South America",
+  "string_to_encrypt": "^argentina^ ^bolivia^ ^brazil^ ^chile^ ^colombia^ ^ecuador^ ^guyana^ ^paraguay^ ^peru^ ^suriname^ ^uruguay^ ^venezuela^",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "z",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "cog",
+    "p": "notifications",
+    "a": "grid",
+    "b": "clipboard",
+    "n": "compass",
+    "i": "flag",
+    "g": "flower",
+    "m": "reload",
+    "u": "chevron-collapse",
+    "r": "documents",
+    "s": "download",
+    "y": "dice",
+    "v": "fast-food",
+    "t": "chevron-expand",
+    "z": "film",
+    "e": "hand-left",
+    "c": "cube",
+    "d": "ticket",
+    "h": "backspace",
+    "l": "notifications-off"
+  },
+  "elements": [
+    "Argentina",
+    "Bolivia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Ecuador",
+    "Guyana",
+    "Paraguay",
+    "Peru",
+    "Suriname",
+    "Uruguay",
+    "Venezuela"
+  ],
+  "other_info": {}
+}
