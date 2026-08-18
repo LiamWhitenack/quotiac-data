@@ -1,0 +1,88 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "i love the smell of napalm in the morning",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "globe",
+    "n": "people",
+    "g": "pie-chart",
+    "i": "recording",
+    "p": "aperture",
+    "v": "help-buoy",
+    "m": "caret-forward",
+    "t": "boat",
+    "f": "warning",
+    "l": "medical",
+    "h": "calendar",
+    "e": "dice",
+    "s": "grid",
+    "r": "at",
+    "o": "exit"
+  },
+  "other_info": {
+    "Character Name": "Colonel Bill Kilgore",
+    "Source": "Apocalypse Now",
+    "Date": "1979"
+  }
+}
