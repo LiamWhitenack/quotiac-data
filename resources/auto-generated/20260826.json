@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Play Quote",
+  "string_to_encrypt": "to be, or not to be, that is the question:\n\nwhether 'tis nobler in the mind to suffer\n\nthe slings and arrows of outrageous fortune,\n\nor to take arms against a sea of troubles\n\nand by opposing end them.",
+  "hints": [
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "q",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "p": "magnet",
+    "r": "caret-forward",
+    "y": "american-football",
+    "q": "notifications-off",
+    "t": "medal",
+    "d": "crop",
+    "f": "bag-add",
+    "u": "rocket",
+    "a": "brush",
+    "k": "create",
+    "g": "documents",
+    "n": "fast-food",
+    "b": "checkmark",
+    "s": "at",
+    "e": "flash-off",
+    "w": "color-wand",
+    "o": "restaurant",
+    "h": "checkbox",
+    "l": "bookmark",
+    "i": "heart",
+    "m": "wine"
+  },
+  "other_info": {
+    "Character Name": "g",
+    "Source": "fghjk",
+    "Date": "ghjkl"
+  }
+}
