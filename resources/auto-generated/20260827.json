@@ -1,0 +1,96 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and them that take the sword shall perish by the sword.",
+  "hints": [
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "y": "barbell",
+    "h": "bandage",
+    "l": "stop",
+    "b": "document-text",
+    "s": "shield",
+    "a": "paper-plane",
+    "e": "business",
+    "o": "color-palette",
+    "p": "calendar",
+    "r": "earth",
+    "i": "pin",
+    "m": "aperture",
+    "d": "flask",
+    "k": "battery-charging",
+    "w": "globe",
+    "n": "accessibility",
+    "t": "settings"
+  },
+  "other_info": {
+    "Author": "The Bible, Matthew"
+  }
+}
