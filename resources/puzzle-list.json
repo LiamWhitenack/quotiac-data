@@ -1,6 +1,4 @@
 {
-    "20250825": "General Quote",
-    "20250826": "Direct Quote",
     "20250827": "Direct Quote",
     "20250828": "Pun",
     "20250829": "General Quote",
@@ -359,5 +357,6 @@
     "20260825": "Quote",
     "20260826": "Play Quote",
     "20260827": "Quote",
-    "20260828": "Film Quote"
+    "20260828": "Film Quote",
+    "20260830": "Quote"
 }
