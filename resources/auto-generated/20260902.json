@@ -1,0 +1,103 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "hello, my name is inigo montoya. you killed my father. prepare to die.",
+  "hints": [
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "r": "hourglass",
+    "s": "people",
+    "f": "school",
+    "u": "eyedrop",
+    "n": "chevron-up",
+    "m": "library",
+    "i": "square",
+    "a": "dice",
+    "h": "link",
+    "g": "paw",
+    "o": "contract",
+    "k": "medkit",
+    "t": "chevron-back",
+    "d": "eye",
+    "y": "notifications-off",
+    "l": "rose",
+    "e": "speedometer",
+    "p": "football"
+  },
+  "other_info": {
+    "Character Name": "Inigo Montoya",
+    "Source": "The Princess Bride",
+    "Date": "1987"
+  }
+}
