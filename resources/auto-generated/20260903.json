@@ -1,0 +1,138 @@
+{
+  "puzzle_type": "Star Wars Movies",
+  "string_to_encrypt": "^a new hope^ ^rogue one^ ^solo^ ^attack of the clones^ ^the force awakens^ ^revenge of the sith^ ^return of the jedi^ ^the empire strikes back^ ^the mandalorian and grogu^ ^the last jedi^ ^the phantom menace^ ^the rise of skywalker^",
+  "hints": [
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "j",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "c": "checkbox",
+    "r": "help-buoy",
+    "k": "glasses",
+    "l": "shuffle",
+    "i": "bag-handle",
+    "y": "bag-add",
+    "n": "contrast",
+    "j": "chevron-expand",
+    "h": "exit",
+    "e": "heart",
+    "d": "bookmark",
+    "m": "shapes",
+    "w": "flower",
+    "b": "nuclear",
+    "o": "tv",
+    "p": "rainy",
+    "u": "eye-off",
+    "a": "moon",
+    "t": "options",
+    "s": "stop",
+    "g": "rocket",
+    "f": "american-football",
+    "v": "locate"
+  },
+  "elements": [
+    "A New Hope",
+    "Rogue One",
+    "Solo",
+    "Attack of the Clones",
+    "The Force Awakens",
+    "Revenge of the Sith",
+    "Return of the Jedi",
+    "The Empire Strikes Back",
+    "The Mandalorian and Grogu",
+    "The Last Jedi",
+    "The Phantom Menace",
+    "The Rise of Skywalker"
+  ],
+  "other_info": {}
+}
