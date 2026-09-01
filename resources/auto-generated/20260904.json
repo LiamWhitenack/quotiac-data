@@ -1,0 +1,71 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "may you live every day of your life.",
+  "hints": [
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "e": "list",
+    "v": "calculator",
+    "i": "call",
+    "u": "extension-puzzle",
+    "o": "chevron-forward",
+    "f": "hardware-chip",
+    "m": "play-back",
+    "y": "infinite",
+    "a": "invert-mode",
+    "r": "expand",
+    "l": "open",
+    "d": "funnel"
+  },
+  "other_info": {
+    "Author": "Jonathan Swift"
+  }
+}
