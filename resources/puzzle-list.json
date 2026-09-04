@@ -1,5 +1,4 @@
 {
-    "20250903": "Quote",
     "20250904": "Direct Quote",
     "20250905": "Joke",
     "20250906": "Animated Quote",
@@ -358,5 +357,6 @@
     "20260903": "Star Wars Movies",
     "20260904": "Quote",
     "20260905": "Film Quote",
-    "20260906": "Joke"
+    "20260906": "Joke",
+    "20260907": "General Quote"
 }
