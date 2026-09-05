@@ -1,0 +1,86 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "all that i am, or hope to be, i owe to my angel mother",
+  "hints": [
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "cloudy-night",
+    "w": "expand",
+    "p": "image",
+    "e": "ribbon",
+    "g": "stop",
+    "i": "resize",
+    "r": "filter",
+    "b": "alarm",
+    "m": "bug",
+    "y": "ban",
+    "t": "pizza",
+    "n": "chatbubble-ellipses",
+    "h": "basket",
+    "l": "tv",
+    "a": "bookmark"
+  },
+  "other_info": {
+    "Author": "Abraham Lincoln"
+  }
+}
