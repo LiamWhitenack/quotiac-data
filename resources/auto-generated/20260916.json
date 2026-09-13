@@ -1,0 +1,116 @@
+{
+  "puzzle_type": "Quote",
+  "string_to_encrypt": "and those who passed by derided him, wagging their heads and saying, \u201cyou who would destroy the temple and rebuild it in three days, save yourself! if you are the son of god, come down from the cross.\u201d",
+  "hints": [
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "a": "settings",
+    "y": "star",
+    "t": "ear",
+    "u": "barcode",
+    "e": "receipt",
+    "r": "chevron-collapse",
+    "l": "locate",
+    "v": "document-text",
+    "o": "newspaper",
+    "d": "heart",
+    "b": "map",
+    "n": "aperture",
+    "p": "beaker",
+    "c": "thunderstorm",
+    "g": "build",
+    "h": "chatbox-ellipses",
+    "m": "cash",
+    "f": "fast-food",
+    "s": "umbrella",
+    "w": "checkmark",
+    "i": "document-lock"
+  },
+  "other_info": {
+    "Author": "Matthew 27:39-40"
+  }
+}
