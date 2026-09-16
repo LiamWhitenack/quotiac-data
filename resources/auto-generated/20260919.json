@@ -1,0 +1,118 @@
+{
+  "puzzle_type": "Film Quote",
+  "string_to_encrypt": "if i had a nickel for every time, i'd have two nickels. which isn't a lot, but it's weird that it happened twice",
+  "hints": [
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "c",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "k",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "p",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "y",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "b",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "o": "reader",
+    "h": "caret-down",
+    "u": "caret-back",
+    "k": "options",
+    "e": "wine",
+    "r": "finger-print",
+    "m": "resize",
+    "p": "recording",
+    "c": "rose",
+    "v": "color-wand",
+    "n": "document-text",
+    "a": "leaf",
+    "t": "code-download",
+    "w": "filter",
+    "f": "medal",
+    "y": "calendar",
+    "b": "watch",
+    "l": "male",
+    "s": "locate",
+    "i": "cube",
+    "d": "remove"
+  },
+  "other_info": {
+    "Character Name": "Dr. Doofenshmirtz",
+    "Source": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+    "Date": "2011"
+  }
+}
