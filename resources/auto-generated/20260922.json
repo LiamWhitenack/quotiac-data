@@ -1,0 +1,94 @@
+{
+  "puzzle_type": "Trivial Fact",
+  "string_to_encrypt": "more than 50% of the earth's living oranisms are underwater.",
+  "hints": [
+    {
+      "letter": "n",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "r",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "t",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "i",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "e",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "a",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "s",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "h",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "l",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "m",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "d",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "v",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "g",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "o",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "f",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "w",
+      "type": "GiveALetterHint"
+    },
+    {
+      "letter": "u",
+      "type": "GiveALetterHint"
+    }
+  ],
+  "encryption_map": {
+    "t": "color-palette",
+    "n": "book",
+    "u": "trash",
+    "o": "eye-off",
+    "a": "contrast",
+    "s": "ellipsis-horizontal",
+    "h": "clipboard",
+    "m": "card",
+    "r": "bed",
+    "f": "attach",
+    "d": "football",
+    "g": "checkmark-done",
+    "l": "cube",
+    "e": "ticket",
+    "v": "color-filter",
+    "w": "bag-check",
+    "i": "medkit"
+  },
+  "other_info": {}
+}
